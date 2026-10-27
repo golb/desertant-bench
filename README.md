@@ -9,6 +9,12 @@ results, and a self-contained HTML report. It deliberately excludes model weight
 downloaded datasets, audio recordings, application data, credentials, and private
 meeting or call content.
 
+## Video walkthrough
+
+[Watch the 1:45 benchmark and Anna integration demo on YouTube](https://youtu.be/5Ja4aW0w8FE).
+The meeting shown in the video is synthetic; the benchmark sections use the public
+datasets and authored controls described below.
+
 ## What is measured
 
 | Area | Models and checks |
