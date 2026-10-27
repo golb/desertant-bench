@@ -1,0 +1,79 @@
+{
+ "stage": "continuous",
+ "audio": "AMI ES2004a 300-360 s, 16 kHz mono",
+ "before": {
+  "at": "2026-10-24T17:21:22+0200",
+  "power": "ac",
+  "battery": "78",
+  "loadAverage": [
+   0.93,
+   1.38,
+   1.63
+  ],
+  "cpuIdlePercent": 94.5,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "after": {
+  "at": "2026-10-24T17:21:43+0200",
+  "power": "ac",
+  "battery": "78",
+  "loadAverage": [
+   0.8,
+   1.32,
+   1.6
+  ],
+  "cpuIdlePercent": 95.95,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "controlled": true,
+ "median": {
+  "whisper": {
+   "callMs": 5951,
+   "loadMs": 645,
+   "inferenceMs": 5317
+  },
+  "voz": {
+   "callMs": 651,
+   "loadMs": 443,
+   "inferenceMs": 190
+  }
+ },
+ "speedupCall": 9.1,
+ "speedupInference": 28.0,
+ "runs": {
+  "whisper": [
+   {
+    "callMs": 5814.218124840409,
+    "loadMs": 644.55,
+    "inferenceMs": 5169.668124840408
+   },
+   {
+    "callMs": 5951.442624907941,
+    "loadMs": 634.38,
+    "inferenceMs": 5317.0626249079405
+   },
+   {
+    "callMs": 6069.55337501131,
+    "loadMs": 660.17,
+    "inferenceMs": 5409.38337501131
+   }
+  ],
+  "voz": [
+   {
+    "callMs": 650.6786660756916,
+    "loadMs": 442.911667,
+    "inferenceMs": 190.255583
+   },
+   {
+    "callMs": 653.1270830892026,
+    "loadMs": 446.621833,
+    "inferenceMs": 190.84325
+   },
+   {
+    "callMs": 638.5606250260025,
+    "loadMs": 438.954916,
+    "inferenceMs": 186.118459
+   }
+  ]
+ }
+}

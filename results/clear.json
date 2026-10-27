@@ -1,0 +1,2695 @@
+{
+ "stage": "clear",
+ "passes": 1,
+ "sdk": "4.1.0",
+ "machine": {
+  "chip": "Apple M5",
+  "memoryBytes": 34359738368,
+  "os": "26.6.2",
+  "arch": "arm64"
+ },
+ "cooldownSeconds": 2,
+ "before": {
+  "at": "2026-10-24T16:58:24+0200",
+  "power": "ac",
+  "battery": "50",
+  "loadAverage": [
+   1.5,
+   1.49,
+   2.34
+  ],
+  "cpuIdlePercent": 95.2,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "after": {
+  "at": "2026-10-24T17:10:14+0200",
+  "power": "ac",
+  "battery": "66",
+  "loadAverage": [
+   0.88,
+   1.01,
+   1.56
+  ],
+  "cpuIdlePercent": 97.7,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "controlled": true,
+ "data": {
+  "clear": {
+   "initiallyDownloaded": false,
+   "loadMs": 4984.578792,
+   "model": "clear",
+   "revision": "v0.3.0",
+   "rows": [
+    {
+     "durationSeconds": 11.52,
+     "id": "en-1660-noisy",
+     "inferenceMs": 48.962792,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.36,
+     "id": "en-1661-noisy",
+     "inferenceMs": 18.051834,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.16,
+     "id": "en-1662-noisy",
+     "inferenceMs": 32.789375,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.12,
+     "id": "en-1663-noisy",
+     "inferenceMs": 33.919458,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.4,
+     "id": "en-1664-noisy",
+     "inferenceMs": 19.950041,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 8.28,
+     "id": "en-1665-noisy",
+     "inferenceMs": 32.293667,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 8.34,
+     "id": "en-1666-noisy",
+     "inferenceMs": 31.463708,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 14.22,
+     "id": "en-1667-noisy",
+     "inferenceMs": 38.559958,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.44,
+     "id": "en-1668-noisy",
+     "inferenceMs": 33.492416,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.14,
+     "id": "en-1669-noisy",
+     "inferenceMs": 34.15975,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 29.3,
+     "id": "en-1670-noisy",
+     "inferenceMs": 81.425833,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.02,
+     "id": "en-1671-noisy",
+     "inferenceMs": 35.362709,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.16,
+     "id": "en-1672-noisy",
+     "inferenceMs": 32.469459,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.08,
+     "id": "en-1673-noisy",
+     "inferenceMs": 33.348833,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.64,
+     "id": "en-1674-noisy",
+     "inferenceMs": 19.134917,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.6,
+     "id": "en-1675-noisy",
+     "inferenceMs": 17.255834,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.42,
+     "id": "en-1676-noisy",
+     "inferenceMs": 32.249583,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.18,
+     "id": "en-1677-noisy",
+     "inferenceMs": 16.650084,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.78,
+     "id": "en-1678-noisy",
+     "inferenceMs": 33.052,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 3.96,
+     "id": "en-1679-noisy",
+     "inferenceMs": 15.644334,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.2,
+     "id": "en-1680-noisy",
+     "inferenceMs": 33.843167,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 19.98,
+     "id": "en-1681-noisy",
+     "inferenceMs": 48.71525,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 15.64,
+     "id": "en-1682-noisy",
+     "inferenceMs": 33.142417,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 17.7,
+     "id": "en-1683-noisy",
+     "inferenceMs": 50.977917,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.96,
+     "id": "en-1684-noisy",
+     "inferenceMs": 34.021583,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 13.92,
+     "id": "en-1685-noisy",
+     "inferenceMs": 35.289916,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 8.76,
+     "id": "en-1686-noisy",
+     "inferenceMs": 31.421083,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.22,
+     "id": "en-1687-noisy",
+     "inferenceMs": 30.688458,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 15.36,
+     "id": "en-1688-noisy",
+     "inferenceMs": 35.222041,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 20.76,
+     "id": "en-1689-noisy",
+     "inferenceMs": 62.489,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 19.66,
+     "id": "en-1690-noisy",
+     "inferenceMs": 49.334667,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.76,
+     "id": "en-1691-noisy",
+     "inferenceMs": 20.248666,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.38,
+     "id": "en-1692-noisy",
+     "inferenceMs": 18.6185,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.66,
+     "id": "en-1693-noisy",
+     "inferenceMs": 17.605208,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.98,
+     "id": "en-1694-noisy",
+     "inferenceMs": 21.057375,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.96,
+     "id": "en-1695-noisy",
+     "inferenceMs": 32.713125,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.44,
+     "id": "en-1696-noisy",
+     "inferenceMs": 18.595417,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.36,
+     "id": "en-1697-noisy",
+     "inferenceMs": 17.646041,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.42,
+     "id": "en-1698-noisy",
+     "inferenceMs": 18.528292,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.6,
+     "id": "en-1699-noisy",
+     "inferenceMs": 31.096625,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.2,
+     "id": "en-1700-noisy",
+     "inferenceMs": 19.23825,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.9,
+     "id": "en-1701-noisy",
+     "inferenceMs": 17.537959,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.18,
+     "id": "en-1702-noisy",
+     "inferenceMs": 31.824083,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.12,
+     "id": "en-1703-noisy",
+     "inferenceMs": 32.394208,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.26,
+     "id": "en-1704-noisy",
+     "inferenceMs": 29.990541,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.12,
+     "id": "en-1705-noisy",
+     "inferenceMs": 32.862416,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.72,
+     "id": "en-1706-noisy",
+     "inferenceMs": 31.581042,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.92,
+     "id": "en-1707-noisy",
+     "inferenceMs": 33.631583,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.48,
+     "id": "en-1708-noisy",
+     "inferenceMs": 29.9,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 8.64,
+     "id": "en-1709-noisy",
+     "inferenceMs": 31.835542,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.92,
+     "id": "en-1710-noisy",
+     "inferenceMs": 18.088333,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 15.56,
+     "id": "en-1711-noisy",
+     "inferenceMs": 35.357875,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 17.46,
+     "id": "en-1712-noisy",
+     "inferenceMs": 44.9925,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.84,
+     "id": "en-1713-noisy",
+     "inferenceMs": 34.39075,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.84,
+     "id": "en-1714-noisy",
+     "inferenceMs": 30.896875,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.52,
+     "id": "en-1715-noisy",
+     "inferenceMs": 33.265166,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 21.72,
+     "id": "en-1716-noisy",
+     "inferenceMs": 60.231542,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.92,
+     "id": "en-1717-noisy",
+     "inferenceMs": 35.607041,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.8,
+     "id": "en-1718-noisy",
+     "inferenceMs": 32.249542,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 13.26,
+     "id": "en-1719-noisy",
+     "inferenceMs": 33.926334,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.42,
+     "id": "en-1720-noisy",
+     "inferenceMs": 18.126458,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6.48,
+     "id": "en-1721-noisy",
+     "inferenceMs": 17.392542,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.42,
+     "id": "en-1722-noisy",
+     "inferenceMs": 31.395916,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.78,
+     "id": "en-1723-noisy",
+     "inferenceMs": 32.312416,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.48,
+     "id": "en-1724-noisy",
+     "inferenceMs": 32.864458,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.74,
+     "id": "en-1725-noisy",
+     "inferenceMs": 33.220917,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.84,
+     "id": "en-1726-noisy",
+     "inferenceMs": 32.038625,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.2,
+     "id": "en-1727-noisy",
+     "inferenceMs": 18.38175,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.76,
+     "id": "en-1728-noisy",
+     "inferenceMs": 18.470667,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.4,
+     "id": "en-1729-noisy",
+     "inferenceMs": 30.225875,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.12,
+     "id": "en-1730-noisy",
+     "inferenceMs": 33.031708,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.48,
+     "id": "en-1731-noisy",
+     "inferenceMs": 20.550416,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 13.68,
+     "id": "en-1732-noisy",
+     "inferenceMs": 31.268709,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 17.58,
+     "id": "en-1733-noisy",
+     "inferenceMs": 46.994792,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.12,
+     "id": "en-1734-noisy",
+     "inferenceMs": 34.417333,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 20.4,
+     "id": "en-1735-noisy",
+     "inferenceMs": 61.198625,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 6,
+     "id": "en-1736-noisy",
+     "inferenceMs": 18.843917,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 4.14,
+     "id": "en-1737-noisy",
+     "inferenceMs": 17.491375,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 8.28,
+     "id": "en-1738-noisy",
+     "inferenceMs": 28.4085,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.14,
+     "id": "en-1739-noisy",
+     "inferenceMs": 30.033709,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.02,
+     "id": "en-1740-noisy",
+     "inferenceMs": 20.756208,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.68,
+     "id": "en-1741-noisy",
+     "inferenceMs": 18.702833,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.02,
+     "id": "en-1742-noisy",
+     "inferenceMs": 17.750667,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 16.44,
+     "id": "en-1743-noisy",
+     "inferenceMs": 45.99625,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.64,
+     "id": "en-1744-noisy",
+     "inferenceMs": 18.902125,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.68,
+     "id": "en-1745-noisy",
+     "inferenceMs": 18.526125,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.94,
+     "id": "en-1746-noisy",
+     "inferenceMs": 19.617,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 5.22,
+     "id": "en-1747-noisy",
+     "inferenceMs": 17.18475,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 7.12,
+     "id": "en-1748-noisy",
+     "inferenceMs": 17.770542,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 13.74,
+     "id": "en-1749-noisy",
+     "inferenceMs": 33.635333,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 4.62,
+     "id": "en-1750-noisy",
+     "inferenceMs": 17.137417,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 12.36,
+     "id": "en-1751-noisy",
+     "inferenceMs": 31.402833,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 11.44,
+     "id": "en-1752-noisy",
+     "inferenceMs": 33.43325,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 16.5,
+     "id": "en-1753-noisy",
+     "inferenceMs": 47.176125,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.74,
+     "id": "en-1754-noisy",
+     "inferenceMs": 32.511459,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 4.86,
+     "id": "en-1755-noisy",
+     "inferenceMs": 17.200833,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9.96,
+     "id": "en-1756-noisy",
+     "inferenceMs": 30.836792,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 10.44,
+     "id": "en-1757-noisy",
+     "inferenceMs": 30.7625,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 9,
+     "id": "en-1758-noisy",
+     "inferenceMs": 32.678834,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    },
+    {
+     "durationSeconds": 14.28,
+     "id": "en-1759-noisy",
+     "inferenceMs": 32.570209,
+     "repeat": 0,
+     "reportedSampleRate": 48000,
+     "requestedSampleRate": 16000
+    }
+   ],
+   "sdk": "4.1.0"
+  },
+  "outputHeaders": {
+   "10197164397713068203.wav": "1 ch,  48000 Hz, Int16",
+   "1043394666292127188.wav": "1 ch,  48000 Hz, Int16",
+   "1045619486290403122.wav": "1 ch,  48000 Hz, Int16"
+  },
+  "noisy": {
+   "en": {
+    "audioSeconds": 1053.38,
+    "voz": {
+     "initiallyDownloaded": true,
+     "loadMs": 467.631333,
+     "model": "voz",
+     "revision": "v0.4.0",
+     "rows": [
+      {
+       "callMs": 61.427666,
+       "durationSeconds": 11.52,
+       "id": "en-1660-noisy",
+       "inferenceMs": 60.7680082321167,
+       "repeat": 0,
+       "text": "Romanticism had a large element of cultural determinism drawn from writers such as Goth, Pitt and Schleible."
+      },
+      {
+       "callMs": 38.302625,
+       "durationSeconds": 6.36,
+       "id": "en-1661-noisy",
+       "inferenceMs": 38.15293312072754,
+       "repeat": 0,
+       "text": "He did not set a figure for the cuts saying they will be made based on China's economic output."
+      },
+      {
+       "callMs": 41.578584,
+       "durationSeconds": 11.16,
+       "id": "en-1662-noisy",
+       "inferenceMs": 41.447997093200684,
+       "repeat": 0,
+       "text": "Alloys are basically a mixture of two or more metals. Don't forget there are many elements in the periodic table."
+      },
+      {
+       "callMs": 49.822042,
+       "durationSeconds": 12.12,
+       "id": "en-1663-noisy",
+       "inferenceMs": 49.67904090881348,
+       "repeat": 0,
+       "text": "Chokamo Valley, Chile's premier climbing destination, known as the Yosemite of South America, with a variety of granite-big walls and crads."
+      },
+      {
+       "callMs": 39.150125,
+       "durationSeconds": 5.4,
+       "id": "en-1664-noisy",
+       "inferenceMs": 39.0019416809082,
+       "repeat": 0,
+       "text": "Sware the two dry powders together and then with clean wet hands squeeze them into a ball."
+      },
+      {
+       "callMs": 47.644167,
+       "durationSeconds": 8.28,
+       "id": "en-1665-noisy",
+       "inferenceMs": 47.50490188598633,
+       "repeat": 0,
+       "text": "The document, according to the leak, will refer to the Borders Dispute which Palestine wants to face on the borders before the 1967 Mideast War."
+      },
+      {
+       "callMs": 41.819958,
+       "durationSeconds": 8.34,
+       "id": "en-1666-noisy",
+       "inferenceMs": 41.68498516082764,
+       "repeat": 0,
+       "text": "You may also wish to consult the advice of governments other than your own, but their advice is designed for their citizens."
+      },
+      {
+       "callMs": 51.122583,
+       "durationSeconds": 14.22,
+       "id": "en-1667-noisy",
+       "inferenceMs": 50.979018211364746,
+       "repeat": 0,
+       "text": "Generally speaking, two behaviors can emerge as managers begin to leave their former peers. One end of the spectrum is trying to remain one of the guys, or gals."
+      },
+      {
+       "callMs": 50.383,
+       "durationSeconds": 10.44,
+       "id": "en-1668-noisy",
+       "inferenceMs": 50.248026847839355,
+       "repeat": 0,
+       "text": "It may also be beneficial for one to buy a wild card, which provides entries to either selections of parks in South Africa or all of the South African national parks."
+      },
+      {
+       "callMs": 40.656708,
+       "durationSeconds": 9.14,
+       "id": "en-1669-noisy",
+       "inferenceMs": 40.50898551940918,
+       "repeat": 0,
+       "text": "Police superintendent Shandro Shankar Selainsky said McCuse appeared in court with covered cases."
+      },
+      {
+       "callMs": 84.983334,
+       "durationSeconds": 29.3,
+       "id": "en-1670-noisy",
+       "inferenceMs": 84.84697341918945,
+       "repeat": 0,
+       "text": "The thermal view is not as steady as large curses on Earth where often maintain a fairly calm temperature, but it's consistent with these green feet holes in the ground, set from protection of United States reached the circuit, Astro V, and of northern Arizona and Jersey, Virtual and Flags Flash Arizona"
+      },
+      {
+       "callMs": 51.597167,
+       "durationSeconds": 10.02,
+       "id": "en-1671-noisy",
+       "inferenceMs": 51.44202709197998,
+       "repeat": 0,
+       "text": "Congress began funding the obscenity initiative in fiscal 2005 and specified that the FBI must devote 10 agents to adult pornography."
+      },
+      {
+       "callMs": 40.589792,
+       "durationSeconds": 10.16,
+       "id": "en-1672-noisy",
+       "inferenceMs": 40.444016456604004,
+       "repeat": 0,
+       "text": "Be careful not to allow fabric to become too hot and cause shrinkers, or in extreme cases sword."
+      },
+      {
+       "callMs": 47.381959,
+       "durationSeconds": 10.08,
+       "id": "en-1673-noisy",
+       "inferenceMs": 47.245025634765625,
+       "repeat": 0,
+       "text": "During the Revolutionary War, the 13 states first formed a weak central government with Congress being its only component under the Articles of Confederation."
+      },
+      {
+       "callMs": 37.694292,
+       "durationSeconds": 5.64,
+       "id": "en-1674-noisy",
+       "inferenceMs": 37.55998611450195,
+       "repeat": 0,
+       "text": "In some areas, boiling water for a minute is enough and others several minutes are needed."
+      },
+      {
+       "callMs": 39.443042,
+       "durationSeconds": 6.6,
+       "id": "en-1675-noisy",
+       "inferenceMs": 39.32595252990723,
+       "repeat": 0,
+       "text": "All nouns alongside the word c for u always begin with a capital letter even in the middle of a sentence."
+      },
+      {
+       "callMs": 39.486875,
+       "durationSeconds": 9.42,
+       "id": "en-1676-noisy",
+       "inferenceMs": 39.353013038635254,
+       "repeat": 0,
+       "text": "As with all South African National Parks, there are daily conservation and entry fields for the park."
+      },
+      {
+       "callMs": 38.49775,
+       "durationSeconds": 6.18,
+       "id": "en-1677-noisy",
+       "inferenceMs": 38.37394714355469,
+       "repeat": 0,
+       "text": "Today, the only insects that cannot pull back their wings are dragonflies and mayflies."
+      },
+      {
+       "callMs": 51.899208,
+       "durationSeconds": 12.78,
+       "id": "en-1678-noisy",
+       "inferenceMs": 51.77593231201172,
+       "repeat": 0,
+       "text": "Oliver Sachs, in his paper the president's speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity accurately."
+      },
+      {
+       "callMs": 34.434542,
+       "durationSeconds": 3.96,
+       "id": "en-1679-noisy",
+       "inferenceMs": 34.29090976715088,
+       "repeat": 0,
+       "text": "Aerosmith had cancelled their remaining concerts on their tour."
+      },
+      {
+       "callMs": 47.9545,
+       "durationSeconds": 10.2,
+       "id": "en-1680-noisy",
+       "inferenceMs": 47.833919525146484,
+       "repeat": 0,
+       "text": "A well-rounded athlete, the tiger can climb, though not well, swim, lead great distances and pull with five times the force of a strong human."
+      },
+      {
+       "callMs": 76.643875,
+       "durationSeconds": 19.98,
+       "id": "en-1681-noisy",
+       "inferenceMs": 76.5160322189331,
+       "repeat": 0,
+       "text": "It isn't alone though, experimentation. And an experiment is t is a test that is used to eliminate one or more of the possible hypotheses, asking questions and making observations or Also guide scientific users."
+      },
+      {
+       "callMs": 97.881209,
+       "durationSeconds": 15.64,
+       "id": "en-1682-noisy",
+       "inferenceMs": 97.7240800857544,
+       "repeat": 0,
+       "text": "While no one knows for certain he wrote it, it would know that Early initialized a large person document and matches 29 3 inches and 24 half inches to roll up the story."
+      },
+      {
+       "callMs": 99.859875,
+       "durationSeconds": 17.7,
+       "id": "en-1683-noisy",
+       "inferenceMs": 99.72000122070312,
+       "repeat": 0,
+       "text": "There are still many men and women alive who survived their time here and many more who had loved ones who were murdered or worked to death to their Jews or non-Jews alike."
+      },
+      {
+       "callMs": 43.734084,
+       "durationSeconds": 10.96,
+       "id": "en-1684-noisy",
+       "inferenceMs": 43.588995933532715,
+       "repeat": 0,
+       "text": "Apia is the capital of Samoa. The town is on the island of Mikolov and has a population of just under 40,000."
+      },
+      {
+       "callMs": 49.669916,
+       "durationSeconds": 13.92,
+       "id": "en-1685-noisy",
+       "inferenceMs": 49.52597618103027,
+       "repeat": 0,
+       "text": "For example, the most common still image photography format in the world is 35 mm, which was the dominant film size at the close of the analog film era."
+      },
+      {
+       "callMs": 46.944625,
+       "durationSeconds": 8.76,
+       "id": "en-1686-noisy",
+       "inferenceMs": 46.81396484375,
+       "repeat": 0,
+       "text": "As a result, the process of an organization working together to overcome an obstacle can lead to a new innovative process to serve the customer's needs."
+      },
+      {
+       "callMs": 40.009583,
+       "durationSeconds": 11.22,
+       "id": "en-1687-noisy",
+       "inferenceMs": 39.87407684326172,
+       "repeat": 0,
+       "text": "Segregation and decombination shuffle variation back and forth between the two pools with each generation."
+      },
+      {
+       "callMs": 77.706458,
+       "durationSeconds": 15.36,
+       "id": "en-1688-noisy",
+       "inferenceMs": 77.56400108337402,
+       "repeat": 0,
+       "text": "The job of navies has traditionally been to ensure that your country maintains the ability to move your people in good while at the same time interference your enemy's abilities to move his people in good."
+      },
+      {
+       "callMs": 81.65675,
+       "durationSeconds": 20.76,
+       "id": "en-1689-noisy",
+       "inferenceMs": 81.51400089263916,
+       "repeat": 0,
+       "text": "Europe is a continent that is relatively small, but with many independent countries. Under normal circumstances, traveling to multiple countries would mean having to go through They use the application and passport control multiple times."
+      },
+      {
+       "callMs": 78.993083,
+       "durationSeconds": 19.66,
+       "id": "en-1690-noisy",
+       "inferenceMs": 78.8489580154419,
+       "repeat": 0,
+       "text": "We agree with the USOC's statement that the interests of our athletes and clubs and their sport may be better served by moving forward a meaningful change within our organization rather than the certification"
+      },
+      {
+       "callMs": 42.651792,
+       "durationSeconds": 5.76,
+       "id": "en-1691-noisy",
+       "inferenceMs": 42.50693321228027,
+       "repeat": 0,
+       "text": "On some roads, the larger companies have their own planes, but for other groups and smaller firms never have problems."
+      },
+      {
+       "callMs": 43.190959,
+       "durationSeconds": 7.38,
+       "id": "en-1692-noisy",
+       "inferenceMs": 43.055057525634766,
+       "repeat": 0,
+       "text": "According to Disney's nuclear agency, radioactive cesium and iodine has been identified at the plant."
+      },
+      {
+       "callMs": 41.362875,
+       "durationSeconds": 6.66,
+       "id": "en-1693-noisy",
+       "inferenceMs": 41.220903396606445,
+       "repeat": 0,
+       "text": "But after losing the captains cricket, India only made 36 runs, losing seven weekends to understand."
+      },
+      {
+       "callMs": 42.717583,
+       "durationSeconds": 7.98,
+       "id": "en-1694-noisy",
+       "inferenceMs": 42.564988136291504,
+       "repeat": 0,
+       "text": "Children are placed in foster care for a wide variety of reasons that range from neglect to abuse and even to extortion."
+      },
+      {
+       "callMs": 51.43375,
+       "durationSeconds": 9.96,
+       "id": "en-1695-noisy",
+       "inferenceMs": 51.29098892211914,
+       "repeat": 0,
+       "text": "A simple popular gamer, especially during the summer, is Kaam auli, spread with olive oil, tomato and any available condiments such as seeds, junior fish, etc."
+      },
+      {
+       "callMs": 44.42725,
+       "durationSeconds": 7.44,
+       "id": "en-1696-noisy",
+       "inferenceMs": 44.280052185058594,
+       "repeat": 0,
+       "text": "The 2 compounds react with one another to form crystals that may block kidney function, researchers at the university said."
+      },
+      {
+       "callMs": 39.96425,
+       "durationSeconds": 6.36,
+       "id": "en-1697-noisy",
+       "inferenceMs": 39.830923080444336,
+       "repeat": 0,
+       "text": "He has been unable to take the drugs needed to overcome his pain as they are banned from the games."
+      },
+      {
+       "callMs": 41.868417,
+       "durationSeconds": 6.42,
+       "id": "en-1698-noisy",
+       "inferenceMs": 41.73696041107178,
+       "repeat": 0,
+       "text": "The reason in the universe is made of matter. All matter is made of tiny particles called atoms."
+      },
+      {
+       "callMs": 49.803333,
+       "durationSeconds": 9.6,
+       "id": "en-1699-noisy",
+       "inferenceMs": 49.66294765472412,
+       "repeat": 0,
+       "text": "Bishkek was described as sinking into a state of anarchy by one observer as gangs of people roamed the streets and plundered stores of consumer goods."
+      },
+      {
+       "callMs": 36.985333,
+       "durationSeconds": 7.2,
+       "id": "en-1700-noisy",
+       "inferenceMs": 36.828041076660156,
+       "repeat": 0,
+       "text": "It is thinner under the muria and thicker under the highlights."
+      },
+      {
+       "callMs": 45.138917,
+       "durationSeconds": 6.9,
+       "id": "en-1701-noisy",
+       "inferenceMs": 44.993042945861816,
+       "repeat": 0,
+       "text": "Goats seem to have been first domesticated roughly 10,000 years ago in the Zagros Mountains of Iran."
+      },
+      {
+       "callMs": 45.526,
+       "durationSeconds": 10.18,
+       "id": "en-1702-noisy",
+       "inferenceMs": 45.375943183898926,
+       "repeat": 0,
+       "text": "In just 3 weeks the Americans and three French forces had liberated southern France and returning towards Burning."
+      },
+      {
+       "callMs": 45.125791,
+       "durationSeconds": 10.12,
+       "id": "en-1703-noisy",
+       "inferenceMs": 44.97408866882324,
+       "repeat": 0,
+       "text": "Martelli swore in a new Provisional Electoral Council with nine new members yesterday."
+      },
+      {
+       "callMs": 49.479333,
+       "durationSeconds": 10.26,
+       "id": "en-1704-noisy",
+       "inferenceMs": 49.31306838989258,
+       "repeat": 0,
+       "text": "In 1990 it was added to the list of World Period sites in danger due to the threat of desert sands."
+      },
+      {
+       "callMs": 51.841625,
+       "durationSeconds": 10.12,
+       "id": "en-1705-noisy",
+       "inferenceMs": 51.684021949768066,
+       "repeat": 0,
+       "text": "On August 15, 1940, the Allies invaded southern France and the invasion was called Operation Dragoon."
+      },
+      {
+       "callMs": 69.818916,
+       "durationSeconds": 12.72,
+       "id": "en-1706-noisy",
+       "inferenceMs": 69.65005397796631,
+       "repeat": 0,
+       "text": "More traditional churches often hold an Easter vigil on Saturday night during the Easter weekend, with the congregations often breaking into celebration at the stroke of midnight to celebrate Christ's resurrection."
+      },
+      {
+       "callMs": 96.494333,
+       "durationSeconds": 10.92,
+       "id": "en-1707-noisy",
+       "inferenceMs": 96.2820053100586,
+       "repeat": 0,
+       "text": "It's one of the main attractions of South Africa and is considered the flagship of South African National Part."
+      },
+      {
+       "callMs": 75.737375,
+       "durationSeconds": 9.48,
+       "id": "en-1708-noisy",
+       "inferenceMs": 75.5079984664917,
+       "repeat": 0,
+       "text": "Tuney has resigned, and he will be replaced in the cabinet by Ed Davey MP. Normal land MP is expected to take the business minister job where he is vacating."
+      },
+      {
+       "callMs": 74.797958,
+       "durationSeconds": 8.64,
+       "id": "en-1709-noisy",
+       "inferenceMs": 74.55301284790039,
+       "repeat": 0,
+       "text": "The report is highly critical of almost every aspect of the current policy of the executive towards Iraq and it urges an immediate change of direction."
+      },
+      {
+       "callMs": 69.621792,
+       "durationSeconds": 7.92,
+       "id": "en-1710-noisy",
+       "inferenceMs": 69.39208507537842,
+       "repeat": 0,
+       "text": "Last week, Media announced that Apple had informed it of 34 additional overheating incidents which the company called Non-Serial."
+      },
+      {
+       "callMs": 141.655292,
+       "durationSeconds": 15.56,
+       "id": "en-1711-noisy",
+       "inferenceMs": 141.42298698425293,
+       "repeat": 0,
+       "text": "We please look at what it is about certain people that make them want the things that they do and what things in their environment will make them do or not do certain things."
+      },
+      {
+       "callMs": 127.129417,
+       "durationSeconds": 17.46,
+       "id": "en-1712-noisy",
+       "inferenceMs": 126.88302993774414,
+       "repeat": 0,
+       "text": "Since 1966, the Sun Darns have been a wildlife sanctuary and it is estimated there are now 400 royal Bengale tigers and about 30,000 spotted people. Here in the area."
+      },
+      {
+       "callMs": 86.460084,
+       "durationSeconds": 9.84,
+       "id": "en-1713-noisy",
+       "inferenceMs": 86.19999885559082,
+       "repeat": 0,
+       "text": "While Goma is reasonably safe, any visits outside of Goma should be researched to understand the state of the fighting that exists in the north Kigu Province."
+      },
+      {
+       "callMs": 87.12825,
+       "durationSeconds": 10.84,
+       "id": "en-1714-noisy",
+       "inferenceMs": 86.85195446014404,
+       "repeat": 0,
+       "text": "A satellite was sent into space by a rocket. Scientists used telescopes in space because the Earth's atmosphere destroys some of our light."
+      },
+      {
+       "callMs": 110.159458,
+       "durationSeconds": 11.52,
+       "id": "en-1715-noisy",
+       "inferenceMs": 109.8639965057373,
+       "repeat": 0,
+       "text": "Regular announcements in the metro are made only in Catalan, but untimed descriptions are announced by an automated system in a wide variety of languages, including Spanish, English, French, Arabic and Japanese."
+      },
+      {
+       "callMs": 168.739417,
+       "durationSeconds": 21.72,
+       "id": "en-1716-noisy",
+       "inferenceMs": 168.471097946167,
+       "repeat": 0,
+       "text": "Entertainment news website TMZ understands the photographer stopped his vehicle on the s other side of Suburfada Boulevard and attempted to take pictures of the police stop before crossing the road and continuing prompting the California Highway Patrol police officer conducting the traffic stop to order him back cross twice."
+      },
+      {
+       "callMs": 91.646458,
+       "durationSeconds": 10.92,
+       "id": "en-1717-noisy",
+       "inferenceMs": 91.35794639587402,
+       "repeat": 0,
+       "text": "Due to the underwater topology, the turn flow is concentrated at a few deeper sections and a fast current to deep water may form there."
+      },
+      {
+       "callMs": 93.262625,
+       "durationSeconds": 11.8,
+       "id": "en-1718-noisy",
+       "inferenceMs": 92.9880142211914,
+       "repeat": 0,
+       "text": "There is no universal definition for which manufactured items are antiques. Some tax agencies define goods older than 100 years as antics."
+      },
+      {
+       "callMs": 99.865584,
+       "durationSeconds": 13.26,
+       "id": "en-1719-noisy",
+       "inferenceMs": 99.58398342132568,
+       "repeat": 0,
+       "text": "Severe weather is a linear term for any dangerous weather phenomenon with the potential to cause damage, serious social disrupts, or loss of human life."
+      },
+      {
+       "callMs": 71.589417,
+       "durationSeconds": 6.42,
+       "id": "en-1720-noisy",
+       "inferenceMs": 71.34389877319336,
+       "repeat": 0,
+       "text": "The hot chocolate is up to Belgian standards. Creek uses are pricey but excellent"
+      },
+      {
+       "callMs": 81.565084,
+       "durationSeconds": 6.48,
+       "id": "en-1721-noisy",
+       "inferenceMs": 81.32898807525635,
+       "repeat": 0,
+       "text": "After the dam was built in 1963, the seasonal floods that would spread sediment throughout the river were halted."
+      },
+      {
+       "callMs": 80.279875,
+       "durationSeconds": 9.42,
+       "id": "en-1722-noisy",
+       "inferenceMs": 80.02889156341553,
+       "repeat": 0,
+       "text": "Tuomo, 53 began his governorship earlier this year and signed a bill last month legalizing same-sex marriage."
+      },
+      {
+       "callMs": 88.972,
+       "durationSeconds": 12.78,
+       "id": "en-1723-noisy",
+       "inferenceMs": 88.74595165252686,
+       "repeat": 0,
+       "text": "The harbor was the site of an infamous naval standoff in 1889 when seven ships from Germany, the US, and Britain used to leave the harbour."
+      },
+      {
+       "callMs": 80.946666,
+       "durationSeconds": 11.48,
+       "id": "en-1724-noisy",
+       "inferenceMs": 80.7180404663086,
+       "repeat": 0,
+       "text": "This renowned being epicent of luxury began in about 1200 AD and lastly up until about 1100 A.D."
+      },
+      {
+       "callMs": 93.176,
+       "durationSeconds": 10.74,
+       "id": "en-1725-noisy",
+       "inferenceMs": 92.91601181030273,
+       "repeat": 0,
+       "text": "ACIS EPC, earlier launched worldwide for cost-saving functionality factors, became a hot topic in 2007 TaiPi IT month."
+      },
+      {
+       "callMs": 86.038542,
+       "durationSeconds": 9.84,
+       "id": "en-1726-noisy",
+       "inferenceMs": 85.78896522521973,
+       "repeat": 0,
+       "text": "Field trips are a large part of any classroom, quite often, a teacher would love to take her students places to which a bus trip is not an option."
+      },
+      {
+       "callMs": 71.952958,
+       "durationSeconds": 7.2,
+       "id": "en-1727-noisy",
+       "inferenceMs": 71.67303562164307,
+       "repeat": 0,
+       "text": "Feral children may have experienced severe child abuse or trauma before being abandoned or running away."
+      },
+      {
+       "callMs": 64.957917,
+       "durationSeconds": 5.76,
+       "id": "en-1728-noisy",
+       "inferenceMs": 64.70894813537598,
+       "repeat": 0,
+       "text": "The cabbage juice changes color depending on how acidic, basic alkaline the chemical is."
+      },
+      {
+       "callMs": 100.104666,
+       "durationSeconds": 11.4,
+       "id": "en-1729-noisy",
+       "inferenceMs": 99.85506534576416,
+       "repeat": 0,
+       "text": "For example, each year students from Bennett School in North Carolina design a website about their trip to the state capital. Each year the website gets remodeled, but older versions are kept online to serve as a scrapbook."
+      },
+      {
+       "callMs": 91.091459,
+       "durationSeconds": 12.12,
+       "id": "en-1730-noisy",
+       "inferenceMs": 90.86799621582031,
+       "repeat": 0,
+       "text": "Buses depart the interdistrict bus station across the river throughout the day, though most especially those heading for the east in Jakarta Bhutan leave between 6:30 and 7:30."
+      },
+      {
+       "callMs": 53.119084,
+       "durationSeconds": 7.48,
+       "id": "en-1731-noisy",
+       "inferenceMs": 52.91008949279785,
+       "repeat": 0,
+       "text": "In the archipelago and lake, we do not necessarily need a yacht."
+      },
+      {
+       "callMs": 91.712416,
+       "durationSeconds": 13.68,
+       "id": "en-1732-noisy",
+       "inferenceMs": 91.50099754333496,
+       "repeat": 0,
+       "text": "The age where the events took place is commonly referred to as the High Middle Ages the period of European history in the 11th, 12th and 13th centuries AD 100 1000 to 1300"
+      },
+      {
+       "callMs": 129.835708,
+       "durationSeconds": 17.58,
+       "id": "en-1733-noisy",
+       "inferenceMs": 129.59492206573486,
+       "repeat": 0,
+       "text": "First, among its 78 recommendations is that a new diplomatic initiative should be taken before the end of this year to secure Iraq's warriors against hostile interventions and to re-establish diplomatic relations. Это надо."
+      },
+      {
+       "callMs": 68.483291,
+       "durationSeconds": 12.12,
+       "id": "en-1734-noisy",
+       "inferenceMs": 68.25196743011475,
+       "repeat": 0,
+       "text": "The scientists were able to conclude that dark matter effects are very dark matter in the same way regular matter goes."
+      },
+      {
+       "callMs": 137.272583,
+       "durationSeconds": 20.4,
+       "id": "en-1735-noisy",
+       "inferenceMs": 137.05205917358398,
+       "repeat": 0,
+       "text": "Researchers from Princeton University in the United States and Uppsala University in Sweden reported the new species of all in just two generations, though this process has been to take much longer due to the breeding between an endemic Fairwind Finch to a Pisa Fortress and the immigrant catchers finish Justiza Community."
+      },
+      {
+       "callMs": 49.843,
+       "durationSeconds": 6,
+       "id": "en-1736-noisy",
+       "inferenceMs": 49.612998962402344,
+       "repeat": 0,
+       "text": "Rwando Mendoza fired his M16 rifle at the terrorist."
+      },
+      {
+       "callMs": 52.090541,
+       "durationSeconds": 4.14,
+       "id": "en-1737-noisy",
+       "inferenceMs": 51.87702178955078,
+       "repeat": 0,
+       "text": "Lions are the most also capped living in large groups, called fights."
+      },
+      {
+       "callMs": 61.775542,
+       "durationSeconds": 8.28,
+       "id": "en-1738-noisy",
+       "inferenceMs": 61.56301498413086,
+       "repeat": 0,
+       "text": "It also attacks anything that entered the water. Even a giant dinosaur such T-rex would be no match for it."
+      },
+      {
+       "callMs": 61.943083,
+       "durationSeconds": 10.14,
+       "id": "en-1739-noisy",
+       "inferenceMs": 61.71596050262451,
+       "repeat": 0,
+       "text": "Resting on the top of one of the mountains north of Mecca, the cape is closely isolated from the rest of the world."
+      },
+      {
+       "callMs": 52.307709,
+       "durationSeconds": 7.02,
+       "id": "en-1740-noisy",
+       "inferenceMs": 52.0939826965332,
+       "repeat": 0,
+       "text": "The pyramid found in white share is one of the most interesting things in the area for belief."
+      },
+      {
+       "callMs": 55.443791,
+       "durationSeconds": 7.68,
+       "id": "en-1741-noisy",
+       "inferenceMs": 55.21702766418457,
+       "repeat": 0,
+       "text": "Large areas further north are quite sparsely populated, and some is nearly uninhabited wilderness."
+      },
+      {
+       "callMs": 59.553334,
+       "durationSeconds": 7.02,
+       "id": "en-1742-noisy",
+       "inferenceMs": 59.30495262145996,
+       "repeat": 0,
+       "text": "Hong Kong Island gives the territory of Hong Kong its name and is a place that many tourists regard as the main focus."
+      },
+      {
+       "callMs": 126.46175,
+       "durationSeconds": 16.44,
+       "id": "en-1743-noisy",
+       "inferenceMs": 126.23202800750732,
+       "repeat": 0,
+       "text": "Most interpretations of technological determinism share two general ideas: that the development of technology itself follows a path largely beyond cultural or political influence, and that technology in turn has effects on society that are inherent rather than socially conditioned."
+      },
+      {
+       "callMs": 53.245125,
+       "durationSeconds": 5.64,
+       "id": "en-1744-noisy",
+       "inferenceMs": 52.999019622802734,
+       "repeat": 0,
+       "text": "The smaller the Rossby number, the less active the stars would affect magnetic reversals."
+      },
+      {
+       "callMs": 57.074375,
+       "durationSeconds": 7.68,
+       "id": "en-1745-noisy",
+       "inferenceMs": 56.84101581573486,
+       "repeat": 0,
+       "text": "Plants look their best when in a natural environment, so resist the temptation to remove even just one specimen."
+      },
+      {
+       "callMs": 50.718,
+       "durationSeconds": 7.94,
+       "id": "en-1746-noisy",
+       "inferenceMs": 50.51100254058838,
+       "repeat": 0,
+       "text": "Plants make their field from the Sun by photosynthesis. They also provide shade."
+      },
+      {
+       "callMs": 43.017417,
+       "durationSeconds": 5.22,
+       "id": "en-1747-noisy",
+       "inferenceMs": 42.82200336456299,
+       "repeat": 0,
+       "text": "Fellow wrestlers also paid tribute to Luna."
+      },
+      {
+       "callMs": 51.146542,
+       "durationSeconds": 7.12,
+       "id": "en-1748-noisy",
+       "inferenceMs": 50.91595649719238,
+       "repeat": 0,
+       "text": "Fire rescue groups eventually doused the fire by 11:35 p.m."
+      },
+      {
+       "callMs": 71.081792,
+       "durationSeconds": 13.74,
+       "id": "en-1749-noisy",
+       "inferenceMs": 70.86598873138428,
+       "repeat": 0,
+       "text": "It was ruled by the Vicky French. These were French people who made peace with the Germans in 1940 and worked with the invaders instead of fighting them."
+      },
+      {
+       "callMs": 46.141125,
+       "durationSeconds": 4.62,
+       "id": "en-1750-noisy",
+       "inferenceMs": 45.915961265563965,
+       "repeat": 0,
+       "text": "The find also grabs insight into the evolution of feathers and birds."
+      },
+      {
+       "callMs": 80.909166,
+       "durationSeconds": 12.36,
+       "id": "en-1751-noisy",
+       "inferenceMs": 80.6950330734253,
+       "repeat": 0,
+       "text": "The debate was sparked by controversy over spending on relief and reconstruction in the wake of Hurricane Katrina, which some fiscal conservatives have humorously labeled Bush's New Orleans year."
+      },
+      {
+       "callMs": 62.208792,
+       "durationSeconds": 11.44,
+       "id": "en-1752-noisy",
+       "inferenceMs": 61.98608875274658,
+       "repeat": 0,
+       "text": "As a result, two fish species have become extinct, and two other have become endangered, including the hump-back chub."
+      },
+      {
+       "callMs": 112.917583,
+       "durationSeconds": 16.5,
+       "id": "en-1753-noisy",
+       "inferenceMs": 112.69593238830566,
+       "repeat": 0,
+       "text": "While it is often an accurate stereotype, the best way to get along in Paris is to still be under best behavior, acted like somebody who is uh beyond evades, well brought up. It will make it in about considerably easier."
+      },
+      {
+       "callMs": 62.542375,
+       "durationSeconds": 10.74,
+       "id": "en-1754-noisy",
+       "inferenceMs": 62.27099895477295,
+       "repeat": 0,
+       "text": "There may be more marriage on the near side because the crust is swimming. It is easier for water to rise up to the surface."
+      },
+      {
+       "callMs": 46.584583,
+       "durationSeconds": 4.86,
+       "id": "en-1755-noisy",
+       "inferenceMs": 46.360015869140625,
+       "repeat": 0,
+       "text": "One bomb exploded outside the Governor General's office."
+      },
+      {
+       "callMs": 71.19,
+       "durationSeconds": 9.96,
+       "id": "en-1756-noisy",
+       "inferenceMs": 70.97196578979492,
+       "repeat": 0,
+       "text": "Late on Sunday, the United States President Donald Trump, in a statement delivered via the press secretary, announced U.S. troops would be leaving Syria."
+      },
+      {
+       "callMs": 62.20575,
+       "durationSeconds": 10.44,
+       "id": "en-1757-noisy",
+       "inferenceMs": 61.96999549865723,
+       "repeat": 0,
+       "text": "Only mutations in germline cells can be passed on to children, while mutations elsewhere can cause cell death or cancer."
+      },
+      {
+       "callMs": 64.1985,
+       "durationSeconds": 9,
+       "id": "en-1758-noisy",
+       "inferenceMs": 63.97402286529541,
+       "repeat": 0,
+       "text": "The archipelago lies 170 km north of the peninsula. The largest is Kingsless Island with the settlement of Killa Las Estrellas."
+      },
+      {
+       "callMs": 92.929708,
+       "durationSeconds": 14.28,
+       "id": "en-1759-noisy",
+       "inferenceMs": 92.71299839019775,
+       "repeat": 0,
+       "text": "Dr. Malar Balastan 29 was found in Blue Ash, Ohio, a suburb approximately 15 miles north of Cincinnati, lying on the ground beside the road in a t-shirt and underwear and apparently heavily medicated state."
+      }
+     ],
+     "sdk": "4.1.0"
+    },
+    "whisper": {
+     "model": "whisper.cpp 1.9.1 / large-v3",
+     "loadMs": 871.62,
+     "wallMs": 335736.42570804805,
+     "texts": {
+      "en-1660-noisy": "Romanticism had a large element of cultural determinism drawn from writers such as Goethe, Fichte, and Schlegel.",
+      "en-1661-noisy": "You did not set a figure for the cuts saying they will be made based on China's economic output.",
+      "en-1662-noisy": "Owls are basically a mixture of two or more metals. Don't forget there are many elements in the periodic table.",
+      "en-1663-noisy": "Chocamo Valley, Chile's premier climbing destination, known as the Yosemite of South America, with a variety of granite big walls and crags.",
+      "en-1664-noisy": "Swirl the two dry powders together and then with clean, wet hands, squeeze them into a ball.",
+      "en-1665-noisy": "The document, according to the leak, will refer to the border dispute which Palestine launched based on the borders before the 1967 Mid-East War.",
+      "en-1666-noisy": "You may also wish to consult the advice of governments other than your own, but their advice is designed for their citizens.",
+      "en-1667-noisy": "Generally speaking, two behaviors can emerge as managers begin to lead their former peers. One end of the spectrum is trying to remain one of the guys or gals.",
+      "en-1668-noisy": "It may also be beneficial for one to buy a wild card which provides entry to either selections of parks in South Africa or all of the South African National Parks.",
+      "en-1669-noisy": "Police Superintendent Seanros Shankar Solanski said he accused the period in court of covert cases.",
+      "en-1670-noisy": "Their formal behavior is not as steady as the Irish people's on Earth, but often maintain a fairly constant temperature, as is consistent with these human people in the ground. So, for instance, in the United States, we arrive at a circle after we are in the ground, and of Northern Arizona University, their children in Flagstaff, Arizona.",
+      "en-1671-noisy": "Congress began funding the obscenity initiative in fiscal 2005 and specifies that the FBI must devote 10 agents to adult pornography.",
+      "en-1672-noisy": "Be careful not to allow fabric to become too high and cause shrinkage, or in extreme cases, squirt.",
+      "en-1673-noisy": "During the Revolutionary War, the 13 states first formed a weak central government, with the Congress being its only component under the Articles of Confederation.",
+      "en-1674-noisy": "In some areas, boiling water for a minute is enough and other several minutes are needed.",
+      "en-1675-noisy": "All nouns alongside the word \"C\" for you, always begin with a capital letter, even in the middle of the sentence.",
+      "en-1676-noisy": "As with all South African National Parks, there are daily conservation and entry fees for the park.",
+      "en-1677-noisy": "Today, the only insects that cannot fold back their wings are dragonflies and mayflies.",
+      "en-1678-noisy": "Oliver Sacks, in his paper The President's Speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity accurately.",
+      "en-1679-noisy": "Aerosmith had canceled their remaining concerts on their tour.",
+      "en-1680-noisy": "A well-rounded athlete, the tiger can climb, though not well, swim, lead great distances, and pull with five times the force of a strong human.",
+      "en-1681-noisy": "It isn't alone though, experimentation, and an experiment is a test that is used to eliminate one or more of the possible hypotheses, asking questions, and making observations also guide scientific views.",
+      "en-1682-noisy": "While no one knows for certain who wrote it, we know that early in his life, a large portion of documents, in which he's claiming on two-fourths inches by twenty-four and a half inches, would roll up the stories.",
+      "en-1683-noisy": "There are still many men and women alive who survived their time here, and many more who had loved ones who were murdered or worked to death to their Jews or non-Jews alike.",
+      "en-1684-noisy": "Apia is the capital of Samoa. The town is on the island of Utolvi and has a population of just under 40,000.",
+      "en-1685-noisy": "For example, the most common still image photography format in the world is 35mm, which was the dominant film size at the close of the analog film era.",
+      "en-1686-noisy": "As a result, the process of an organization working together to overcome an obstacle can lead to a new innovative process to serve the customer's needs.",
+      "en-1687-noisy": "Segregation and Decombination shuffle variation back and forth between the two pools with each generation.",
+      "en-1688-noisy": "The job of Navy has traditionally been to ensure that your country maintains the ability to use your people in good, while at the same time entertaining their enemy's abilities to use their people in good.",
+      "en-1689-noisy": "Europe is a continent that is relatively small, but with many impingent countries. Under normal circumstances, traveling through multiple countries would mean having to go through visa applications and passport control multiple times.",
+      "en-1690-noisy": "We agree with the USOC's statement that the interests of our athletes and clubs and their sports may be better served by moving forward with meaningful change within our organization rather than in certification.",
+      "en-1691-noisy": "On summers, larger companies have their own claims, but for other groups and smaller firms, there was a problem.",
+      "en-1692-noisy": "According to Japan's nuclear agency, radioactive cesium and iodine has been identified at the plant.",
+      "en-1693-noisy": "But after losing the captain's cricket, India only made 36 runs, losing seven records to end it in...",
+      "en-1694-noisy": "Children are placed in foster care for a wide variety of reasons that range from neglect to abuse and even to extortion.",
+      "en-1695-noisy": "A simple popular dimmer, especially during the summer, is pa'am aloo, bread with olive oil, tomato, and any available condiments such as peas, tuna fish, etc.",
+      "en-1696-noisy": "The two compounds react with one another to form crystals that may block kidney function, researchers at the university say.",
+      "en-1697-noisy": "He has been unable to take the drugs needed to overcome his pain as they are banned from the games.",
+      "en-1698-noisy": "Everything in the universe is made of matter. All matter is made of tiny particles called atoms.",
+      "en-1699-noisy": "FishTech was described as sinking into a state of anarchy by one observer as gangs of people roamed the streets and plundered stores of consumer goods.",
+      "en-1700-noisy": "It is thinner under the Maria and thicker under the Highlands.",
+      "en-1701-noisy": "Goats seem to have been first domesticated roughly 10,000 years ago in the Zagros Mountains of Iran.",
+      "en-1702-noisy": "In just two weeks, the Americans and three French forces, at liberate southern France, are returning with women.",
+      "en-1703-noisy": "Martelli swore in a new provisional electoral council nine members yesterday.",
+      "en-1704-noisy": "In 1990, it was added to the list of World Heritage Sites in Danger due to the threat of desert sands.",
+      "en-1705-noisy": "On August 15, 1940, the Allies invaded southern France and the invasion was called Operation Dragoon.",
+      "en-1706-noisy": "More traditional churches often hold an Easter vigil on Saturday night during the Easter weekend, with the congregations often breaking into celebration at the stroke of midnight to celebrate Christ's resurrection.",
+      "en-1707-noisy": "It's one of the main attractions of South Africa and is considered the flagship of South African National Park .",
+      "en-1708-noisy": "CUNY has resigned and he will be replaced in the cabinet by Ed Davey, M.P. Norman Lamb, M.P. is expected to take the business minister job here he is vacating.",
+      "en-1709-noisy": "The report is highly critical of almost every aspect of the present policy of the Executive Court's Iraq and it urges an immediate change of direction.",
+      "en-1710-noisy": "Last week, many announced that Apple had informed it of 34 additional overheating incidents since the company called a non-serious.",
+      "en-1711-noisy": "These clues look at what it is about certain people that make them want the things that they do and what things in their environment will make them do or not do certain things.",
+      "en-1712-noisy": "Since 1966, the Sundarbans have been a wildlife sanctuary and it is estimated there are now 400 Royal Bengal tigers and about 30,000 spiders here in the area.",
+      "en-1713-noisy": "While Goma is a green-hooded state, any visits outside of Goma should be researched to understand the state of the fighting that persists in the North Kivu Province.",
+      "en-1714-noisy": "The satellite was sent into space by a rocket. Scientists use telescopes in space because the Earth's atmosphere is the source of our light and view.",
+      "en-1715-noisy": "Regular announcements in the Metro are made only in Catalan, but on-time disruptions are announced by an automated system in a wide variety of languages, including Spanish, English, French, Arabic, and Japanese.",
+      "en-1716-noisy": "Entertainment News website TMZ understands the photographer stopped his vehicle on the other side of Sepulveda Boulevard and attempted to take pictures of the police stop before crossing the road and continuing, prompting the California Highway Patrol police officer conducting the traffic stop to order him back across twice.",
+      "en-1717-noisy": "Due to the underwater topology, the return flow is concentrated at a few deeper sections and a fast current to deep water may form there.",
+      "en-1718-noisy": "There is no universal definition for which manufactured items are antiques. Some tax agencies define goods older than 100 years as antiques.",
+      "en-1719-noisy": "Severe weather is a generic term for any dangerous weather phenomenon with the potential to cause damage, serious social disrupts, or loss of human life.",
+      "en-1720-noisy": "The hot chocolate is up to Belgian standards. Fruit juices are pricey but excellent.",
+      "en-1721-noisy": "After the dam was built in 1963, the seasonal floods that would spread sediment throughout the river were halted.",
+      "en-1722-noisy": "Cuomo, 53, began his governorship earlier this year and signed a bill last month legalizing same-sex marriage.",
+      "en-1723-noisy": "The harbour was the site of an infamous naval standoff in 1889 when seven ships from Germany, the US and Britain, refused to leave the harbour.",
+      "en-1724-noisy": "This renown for being an epicenter of luxury began in about 400 AD and lasted up until about 1100 AD.",
+      "en-1725-noisy": "ASIS EPC earlier launched worldwide for cost savings functionality factors, being a hot topic in 2007 Taipei IT Month.",
+      "en-1726-noisy": "Field trips are a large part of any classroom. Quite often a teacher would love to take her students places to which a bus trip is not an option.",
+      "en-1727-noisy": "Feral children may have experienced severe child abuse or trauma before being abandoned or running away.",
+      "en-1728-noisy": "The cabbage juice changes color depending on how acidic basic alkaline the chemical is.",
+      "en-1729-noisy": "For example, each year students from Bennett School in North Carolina design a website about their trip to the state capitol. Each year the website gets remodeled, but old versions are kept online to serve as a scrapbook.",
+      "en-1730-noisy": "Buses depart the inter-district bus station across the river throughout the day, though most, especially those heading to the east in Jakarta and Bhutan, leave between 6:30 and 7:30.",
+      "en-1731-noisy": "In the Archipelago and Raids, you do not necessarily need a yacht.",
+      "en-1732-noisy": "The age where the events took place is commonly referred as the High Middle Ages, the period of European history in the 11th, 12th, and 13th centuries, A.D. 1000-1300.",
+      "en-1733-noisy": "First among its 78 recommendations is that a new diplomatic initiative should be taken before the end of this year to secure Iraq's borders against hostile interventions and to re-establish diplomatic relations with its neighbors.",
+      "en-1734-noisy": "The scientists were able to conclude that dark matter affects other dark matter in the same way regular matter does.",
+      "en-1735-noisy": "Researchers from Princeton University in the United States and Uppsala University in Sweden reported the new species evolved from just two generations, though this process has been believed to take much longer due to the breeding between an endemic Darwin finch, Jospisa fortis, and the immigrant cactus finch, Jospisa cornidostris.",
+      "en-1736-noisy": "Rolando Mendoza fired his M16 rifle at the terrorists.",
+      "en-1737-noisy": "Clients are the most also canceled in the March groups called Pride.",
+      "en-1738-noisy": "It also attacked anything that entered the water. Even a giant dinosaur such as T-Rex would be no match for it.",
+      "en-1739-noisy": "Resting on the top of one of the mountains north of Mecca, the cave is closely isolated from the rest of the world.",
+      "en-1740-noisy": "The pyramid found in Lightshare is one of the most interesting things in the area of Hades.",
+      "en-1741-noisy": "Large areas further north are quite sparsely populated and some is nearly uninhabited wilderness.",
+      "en-1742-noisy": "Hong Kong Island gives the territory of Hong Kong its name and is the place that many tourists regard as the main focus.",
+      "en-1743-noisy": "Most interpretations of technological determinism share two general ideals, that the development of technology itself follows a path largely beyond cultural or political influence, and that technology in turn has effects on society that are inherent rather than socially conditioned.",
+      "en-1744-noisy": "The smaller the Roski number, the less active the star with respect to magnetic reversals.",
+      "en-1745-noisy": "Plants look their best when in a natural environment, so resist the temptation to remove even just one specimen.",
+      "en-1746-noisy": "Plants make their fuel from the sun by photosynthesis. They also provide shade.",
+      "en-1747-noisy": "Fellow wrestlers also paid tribute to Luna.",
+      "en-1748-noisy": "Fire rescue crews eventually doused the fire by 11:35 pm.",
+      "en-1749-noisy": "It was ruled by Vichy French. These were French people who made peace with the Germans in 1940 and worked with the invaders instead of fighting them.",
+      "en-1750-noisy": "The find also grabs insight into the evolution of feathers and birds.",
+      "en-1751-noisy": "The debate was sparked by controversy over spending on relief and reconstruction in the wake of Hurricane Katrina, which some fiscal conservatives have humorously labeled Bush's New Orleans deal.",
+      "en-1752-noisy": "As a result, two fish species have become extinct and two others have become endangered, including the humpback chub.",
+      "en-1753-noisy": "While it is often known as a masculine stereotype, the best way to get along in Paris is to still be under the best behavior. Actually, like somebody who is, uh, beyond engaged, well brought up. It'll make getting around about considerably easier.",
+      "en-1754-noisy": "There may be more mario on the near side because the crest is pointed. It would be easier for lava to rise up to the surface.",
+      "en-1755-noisy": "One bomb exploded outside the Governor General's office.",
+      "en-1756-noisy": "Late on Sunday, the United States President Donald Trump, in a statement delivered via the press secretary, announced U.S. troops would be leaving Syria.",
+      "en-1757-noisy": "Only mutations in germline cells can be passed on to children while mutations elsewhere can cause cell death or cancer.",
+      "en-1758-noisy": "Our people go by 120 kilometers north of Peninsula. The largest is King George Island with the settlement of Puyallup, Los Estrellas.",
+      "en-1759-noisy": "Dr. Malara Balostin Bromian, 29, was found in Beaton Ash, Ohio, a suburb approximately 15 miles north of Cincinnati, lying on the ground beside the road in a t-shirt and underwear, in an apparently heavily medicated state."
+     }
+    }
+   }
+  },
+  "noisyClear": {
+   "en": {
+    "audioSeconds": 1053.38,
+    "voz": {
+     "initiallyDownloaded": true,
+     "loadMs": 501.902625,
+     "model": "voz",
+     "revision": "v0.4.0",
+     "rows": [
+      {
+       "callMs": 68.566625,
+       "durationSeconds": 11.52,
+       "id": "en-1660-noisy-clear",
+       "inferenceMs": 67.54696369171143,
+       "repeat": 0,
+       "text": "Romanticism had a large element of cultural exterminism drawn from martyrs such as Groß, Witt, and Schlegel."
+      },
+      {
+       "callMs": 40.037416,
+       "durationSeconds": 6.36,
+       "id": "en-1661-noisy-clear",
+       "inferenceMs": 39.595961570739746,
+       "repeat": 0,
+       "text": "You know, I'd set up figures that say they would be made based on kind of economic outcome."
+      },
+      {
+       "callMs": 43.494209,
+       "durationSeconds": 11.16,
+       "id": "en-1662-noisy-clear",
+       "inferenceMs": 43.0070161819458,
+       "repeat": 0,
+       "text": "Owers are basically a CNAV. Not for that there are many elements in the periodic status."
+      },
+      {
+       "callMs": 53.312666,
+       "durationSeconds": 12.12,
+       "id": "en-1663-noisy-clear",
+       "inferenceMs": 52.86896228790283,
+       "repeat": 0,
+       "text": "The Promo Valley, Chile's premier climbing destination, known as the extremity of South America, with a variety of granite big walls and facts"
+      },
+      {
+       "callMs": 47.155875,
+       "durationSeconds": 5.4,
+       "id": "en-1664-noisy-clear",
+       "inferenceMs": 42.326927185058594,
+       "repeat": 0,
+       "text": "Pour the dry powder together and made the spoon that we're seeing a tool."
+      },
+      {
+       "callMs": 53.355916,
+       "durationSeconds": 8.28,
+       "id": "en-1665-noisy-clear",
+       "inferenceMs": 52.929043769836426,
+       "repeat": 0,
+       "text": "The document, according to the least war refer to the borders, was Palestine launched based on the borders before the 1967 and 194."
+      },
+      {
+       "callMs": 57.522375,
+       "durationSeconds": 8.34,
+       "id": "en-1666-noisy-clear",
+       "inferenceMs": 50.909996032714844,
+       "repeat": 0,
+       "text": "You may also wish to accept the advice of governments other than your own, but their advice is designed for their citizens."
+      },
+      {
+       "callMs": 64.572792,
+       "durationSeconds": 14.22,
+       "id": "en-1667-noisy-clear",
+       "inferenceMs": 64.11004066467285,
+       "repeat": 0,
+       "text": "Generally speaking, two behaviors can emerge as managers begin to leave their former gears. One end of the spectrum is trying to remain Warner's guys, or gaps."
+      },
+      {
+       "callMs": 74.325833,
+       "durationSeconds": 10.44,
+       "id": "en-1668-noisy-clear",
+       "inferenceMs": 71.5569257736206,
+       "repeat": 0,
+       "text": "It may also be beneficial for one to buy a wildfire, which provides entry to either selecting the parks in South Africa or all of the South African National Parks."
+      },
+      {
+       "callMs": 62.380667,
+       "durationSeconds": 9.14,
+       "id": "en-1669-noisy-clear",
+       "inferenceMs": 57.57105350494385,
+       "repeat": 0,
+       "text": "Police Superintendent Sharons does conclude the fluent and for its covered spaces."
+      },
+      {
+       "callMs": 274.611542,
+       "durationSeconds": 29.3,
+       "id": "en-1670-noisy-clear",
+       "inferenceMs": 271.8120813369751,
+       "repeat": 0,
+       "text": "The fermenter is not as steady as large it is on Earth, but at least various at some temperature. As it's consistent of these being seen, And as a little arizona inverse, this season is flashback arizom."
+      },
+      {
+       "callMs": 81.15525,
+       "durationSeconds": 10.02,
+       "id": "en-1671-noisy-clear",
+       "inferenceMs": 78.19199562072754,
+       "repeat": 0,
+       "text": "Markets began funding the Affinity Initiative in Fiscal 2005 and specified that the FBI must devote 10 agents to adult channel"
+      },
+      {
+       "callMs": 72.221584,
+       "durationSeconds": 10.16,
+       "id": "en-1672-noisy-clear",
+       "inferenceMs": 69.26596164703369,
+       "repeat": 0,
+       "text": "In case you're not paying off the other series become too hard and fast printer, right in screen case,"
+      },
+      {
+       "callMs": 81.093875,
+       "durationSeconds": 10.08,
+       "id": "en-1673-noisy-clear",
+       "inferenceMs": 78.1790018081665,
+       "repeat": 0,
+       "text": "During the Revolutionary War, 13 states were formed in this central government with the Climbers and its departments under the Articles of Confederation."
+      },
+      {
+       "callMs": 67.402709,
+       "durationSeconds": 5.64,
+       "id": "en-1674-noisy-clear",
+       "inferenceMs": 64.48900699615479,
+       "repeat": 0,
+       "text": "In some areas, border water storm only is enough and others several minutes are used."
+      },
+      {
+       "callMs": 48.256625,
+       "durationSeconds": 6.6,
+       "id": "en-1675-noisy-clear",
+       "inferenceMs": 47.64699935913086,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 64.413,
+       "durationSeconds": 9.42,
+       "id": "en-1676-noisy-clear",
+       "inferenceMs": 63.83407115936279,
+       "repeat": 0,
+       "text": "As with all South African national parks, there are daily conservations and entry parts."
+      },
+      {
+       "callMs": 69.923875,
+       "durationSeconds": 6.18,
+       "id": "en-1677-noisy-clear",
+       "inferenceMs": 67.01600551605225,
+       "repeat": 0,
+       "text": "Today, the only insects that cannot hold back their wings are dragonflies and mateflies."
+      },
+      {
+       "callMs": 99.215917,
+       "durationSeconds": 12.78,
+       "id": "en-1678-noisy-clear",
+       "inferenceMs": 94.38800811767578,
+       "repeat": 0,
+       "text": "Oliver Sachs in his papers this president's speech indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity as"
+      },
+      {
+       "callMs": 64.853625,
+       "durationSeconds": 3.96,
+       "id": "en-1679-noisy-clear",
+       "inferenceMs": 61.99193000793457,
+       "repeat": 0,
+       "text": "Erither had canceled their remaining onto 24."
+      },
+      {
+       "callMs": 89.565875,
+       "durationSeconds": 10.2,
+       "id": "en-1680-noisy-clear",
+       "inferenceMs": 86.68994903564453,
+       "repeat": 0,
+       "text": "A well-rounded athlete with hybrid incline, though not well, when great distances and full with five times before a strong hand."
+      },
+      {
+       "callMs": 147.198208,
+       "durationSeconds": 19.98,
+       "id": "en-1681-noisy-clear",
+       "inferenceMs": 143.74494552612305,
+       "repeat": 0,
+       "text": "It is not wrong though, experimentation. And an experiment theory is a test that is used to be running with much unwrong the responsible hypotheses and I'm not enough to pay for those guys are scientific to"
+      },
+      {
+       "callMs": 115.654583,
+       "durationSeconds": 15.64,
+       "id": "en-1682-noisy-clear",
+       "inferenceMs": 112.8009557723999,
+       "repeat": 0,
+       "text": "Well never screen there that aid and large person document in Mrs. 29 that came for roll up the stage."
+      },
+      {
+       "callMs": 131.0915,
+       "durationSeconds": 17.7,
+       "id": "en-1683-noisy-clear",
+       "inferenceMs": 128.23498249053955,
+       "repeat": 0,
+       "text": "There are still many men and women alive who survived their time here and many more who had loved ones who were murdered or worked to death with their Jews or non-Jews alike."
+      },
+      {
+       "callMs": 76.567417,
+       "durationSeconds": 10.96,
+       "id": "en-1684-noisy-clear",
+       "inferenceMs": 75.89399814605713,
+       "repeat": 0,
+       "text": "Apuya is the capital of Timera. The town is on the island of Nkosu and has a population of just under 40,000."
+      },
+      {
+       "callMs": 92.352958,
+       "durationSeconds": 13.92,
+       "id": "en-1685-noisy-clear",
+       "inferenceMs": 89.47300910949707,
+       "repeat": 0,
+       "text": "For example, the most common scale image photography format in the world is 35 mm, which was the dominant film size at the close of the analog film era."
+      },
+      {
+       "callMs": 80.813041,
+       "durationSeconds": 8.76,
+       "id": "en-1686-noisy-clear",
+       "inferenceMs": 77.95405387878418,
+       "repeat": 0,
+       "text": "As a result, the project of an organization working together to overcome an obstacle to lead during an innovative process preferred up to my."
+      },
+      {
+       "callMs": 71.890459,
+       "durationSeconds": 11.22,
+       "id": "en-1687-noisy-clear",
+       "inferenceMs": 68.96603107452393,
+       "repeat": 0,
+       "text": "Vedration and combination suffered regulation back and forth between the two poles to keep the energy"
+      },
+      {
+       "callMs": 125.101167,
+       "durationSeconds": 15.36,
+       "id": "en-1688-noisy-clear",
+       "inferenceMs": 122.25794792175293,
+       "repeat": 0,
+       "text": "The job of Navy has predicted been to ensure that your country maintains the ability to use more people than giving, while at the same time interfering to your enemy abilities to meet two people in."
+      },
+      {
+       "callMs": 128.005792,
+       "durationSeconds": 20.76,
+       "id": "en-1689-noisy-clear",
+       "inferenceMs": 123.1449842453003,
+       "repeat": 0,
+       "text": "Europe is a continent that is relatively small at its many contingent countries. Under normal circumstances, traveling to multiple countries with me coming to just the reason application and ask for this time."
+      },
+      {
+       "callMs": 122.687833,
+       "durationSeconds": 19.66,
+       "id": "en-1690-noisy-clear",
+       "inferenceMs": 117.82205104827881,
+       "repeat": 0,
+       "text": "We agree with the USOC statements that the interests of our athletes and clubs and their sports can be better served by using forward and meeting 15 within our organization rather rather than certification"
+      },
+      {
+       "callMs": 112.016041,
+       "durationSeconds": 5.76,
+       "id": "en-1691-noisy-clear",
+       "inferenceMs": 108.63304138183594,
+       "repeat": 0,
+       "text": "But for other groups, smaller stories are really problems."
+      },
+      {
+       "callMs": 69.878458,
+       "durationSeconds": 7.38,
+       "id": "en-1692-noisy-clear",
+       "inferenceMs": 66.91908836364746,
+       "repeat": 0,
+       "text": "According to Japan's nuclear agencies, radioactive Cam and Iodine have been identified as the planet"
+      },
+      {
+       "callMs": 46.462625,
+       "durationSeconds": 6.66,
+       "id": "en-1693-noisy-clear",
+       "inferenceMs": 43.560028076171875,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 59.68575,
+       "durationSeconds": 7.98,
+       "id": "en-1694-noisy-clear",
+       "inferenceMs": 59.09097194671631,
+       "repeat": 0,
+       "text": "Children are placed in foster care for a wide variety of reasons that range from neglective use to"
+      },
+      {
+       "callMs": 71.110292,
+       "durationSeconds": 9.96,
+       "id": "en-1695-noisy-clear",
+       "inferenceMs": 66.3079023361206,
+       "repeat": 0,
+       "text": "A simple popular dinner expected during the summer is August. Bertals olive oil tomato and any available firm exists on the summer."
+      },
+      {
+       "callMs": 61.724959,
+       "durationSeconds": 7.44,
+       "id": "en-1696-noisy-clear",
+       "inferenceMs": 59.01193618774414,
+       "repeat": 0,
+       "text": "The student house reacting on the performed settlement blocking and some researchers at the university state."
+      },
+      {
+       "callMs": 51.843666,
+       "durationSeconds": 6.36,
+       "id": "en-1697-noisy-clear",
+       "inferenceMs": 49.063920974731445,
+       "repeat": 0,
+       "text": "He has been able to get the dog needed to overcome his time as they are danced in."
+      },
+      {
+       "callMs": 53.43125,
+       "durationSeconds": 6.42,
+       "id": "en-1698-noisy-clear",
+       "inferenceMs": 52.996039390563965,
+       "repeat": 0,
+       "text": "The reason of the window is made of matter. All matter is made. Any part of all battles."
+      },
+      {
+       "callMs": 66.210125,
+       "durationSeconds": 9.6,
+       "id": "en-1699-noisy-clear",
+       "inferenceMs": 65.72699546813965,
+       "repeat": 0,
+       "text": "This depth was described as sticking into a state of anarchy by one of Zember as games of composed on the streets and thundered swords of the"
+      },
+      {
+       "callMs": 51.277625,
+       "durationSeconds": 7.2,
+       "id": "en-1700-noisy-clear",
+       "inferenceMs": 48.51090908050537,
+       "repeat": 0,
+       "text": "It is thinner under the Maria and thicker under the Highland."
+      },
+      {
+       "callMs": 60.11175,
+       "durationSeconds": 6.9,
+       "id": "en-1701-noisy-clear",
+       "inferenceMs": 59.63897705078125,
+       "repeat": 0,
+       "text": "Group seems to have been the first investigated record 10,000 years ago in the Bradford Mountains of I"
+      },
+      {
+       "callMs": 64.116041,
+       "durationSeconds": 10.18,
+       "id": "en-1702-noisy-clear",
+       "inferenceMs": 59.30197238922119,
+       "repeat": 0,
+       "text": "He just released an Americans and three French forces at Israel's southern France and was turning with Germany."
+      },
+      {
+       "callMs": 59.111042,
+       "durationSeconds": 10.12,
+       "id": "en-1703-noisy-clear",
+       "inferenceMs": 56.34498596191406,
+       "repeat": 0,
+       "text": "Mattelli sword in a new provisional electoral council nine members yesterday."
+      },
+      {
+       "callMs": 61.917958,
+       "durationSeconds": 10.26,
+       "id": "en-1704-noisy-clear",
+       "inferenceMs": 61.39802932739258,
+       "repeat": 0,
+       "text": "In 1990, it was added to the list of World Heritage sites in danger due to the threat of desert sands."
+      },
+      {
+       "callMs": 62.743,
+       "durationSeconds": 10.12,
+       "id": "en-1705-noisy-clear",
+       "inferenceMs": 62.18993663787842,
+       "repeat": 0,
+       "text": "On August 15, 1940, the Allies invaded southern France and the invasion was called Operation Bravo."
+      },
+      {
+       "callMs": 133.848042,
+       "durationSeconds": 12.72,
+       "id": "en-1706-noisy-clear",
+       "inferenceMs": 133.20398330688477,
+       "repeat": 0,
+       "text": "More traditional shirts often would be considered, but the country reasons often break for set of reasons, at the strip of mimic for the great crisis record."
+      },
+      {
+       "callMs": 96.125291,
+       "durationSeconds": 10.92,
+       "id": "en-1707-noisy-clear",
+       "inferenceMs": 93.269944190979,
+       "repeat": 0,
+       "text": "If one of the main attractions of the restaurant and is considered the practice of South African National Park. How's that?"
+      },
+      {
+       "callMs": 61.289292,
+       "durationSeconds": 9.48,
+       "id": "en-1708-noisy-clear",
+       "inferenceMs": 58.4559440612793,
+       "repeat": 0,
+       "text": "Junior Dion has been replaced in the cabinet by Ed James on the land and respectively dropped into"
+      },
+      {
+       "callMs": 67.327959,
+       "durationSeconds": 8.64,
+       "id": "en-1709-noisy-clear",
+       "inferenceMs": 64.5369291305542,
+       "repeat": 0,
+       "text": "The reported higher critical almost every aspect of the policy of the executive towards Iraq and it urges an immediate change of direction."
+      },
+      {
+       "callMs": 93.330667,
+       "durationSeconds": 7.92,
+       "id": "en-1710-noisy-clear",
+       "inferenceMs": 90.54791927337646,
+       "repeat": 0,
+       "text": "Overseeding entrance of the fourth number"
+      },
+      {
+       "callMs": 121.930042,
+       "durationSeconds": 15.56,
+       "id": "en-1711-noisy-clear",
+       "inferenceMs": 119.09902095794678,
+       "repeat": 0,
+       "text": "We look at what is about certain people that make them want the things that they do and what things in their environment that make them do or not do three things."
+      },
+      {
+       "callMs": 109.365958,
+       "durationSeconds": 17.46,
+       "id": "en-1712-noisy-clear",
+       "inferenceMs": 104.50899600982666,
+       "repeat": 0,
+       "text": "Since 1966, the son Darkness helped in a wildlife sanctuary and it is estimated there are now 400 oil Bengal fibers and about 30,000 spotted sewer in the area."
+      },
+      {
+       "callMs": 45.823875,
+       "durationSeconds": 9.84,
+       "id": "en-1713-noisy-clear",
+       "inferenceMs": 45.14110088348389,
+       "repeat": 0,
+       "text": "But the siding left with this is a north to use out"
+      },
+      {
+       "callMs": 64.726,
+       "durationSeconds": 10.84,
+       "id": "en-1714-noisy-clear",
+       "inferenceMs": 64.23890590667725,
+       "repeat": 0,
+       "text": "Skylight is working to screw dialogue. Scientists use telescope instructor because the earth item screws from the highlight and be."
+      },
+      {
+       "callMs": 88.640375,
+       "durationSeconds": 11.52,
+       "id": "en-1715-noisy-clear",
+       "inferenceMs": 85.39104461669922,
+       "repeat": 0,
+       "text": "Regular announcements in the lecture on day 20 was the following. The context instructions are announced by an automated center in a broader variety of languages, including Spanish, English, French, Arabic, and Japanese."
+      },
+      {
+       "callMs": 126.092,
+       "durationSeconds": 21.72,
+       "id": "en-1716-noisy-clear",
+       "inferenceMs": 121.27804756164551,
+       "repeat": 0,
+       "text": "Entertainment News website CMZ understands the photographers stopped his vehicle on the other side of the Bruce Boulevard and attempted to take pictures of the police stops before crossing the road and continued Highway control police officer conducting the traffic stop to order him back to"
+      },
+      {
+       "callMs": 44.853958,
+       "durationSeconds": 10.92,
+       "id": "en-1717-noisy-clear",
+       "inferenceMs": 39.988040924072266,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 61.423542,
+       "durationSeconds": 11.8,
+       "id": "en-1718-noisy-clear",
+       "inferenceMs": 60.94002723693848,
+       "repeat": 0,
+       "text": "There is no universal definition for which manufactured items are at use. Some tax agencies define goods older than 100 years as anti."
+      },
+      {
+       "callMs": 65.725375,
+       "durationSeconds": 13.26,
+       "id": "en-1719-noisy-clear",
+       "inferenceMs": 60.93108654022217,
+       "repeat": 0,
+       "text": "To do weather is a narrow term for any dangerous weather phenomenon if the defensive has been serious social distress or lost in the life."
+      },
+      {
+       "callMs": 50.203459,
+       "durationSeconds": 6.42,
+       "id": "en-1720-noisy-clear",
+       "inferenceMs": 47.4400520324707,
+       "repeat": 0,
+       "text": "The hot public is up to Belgian standards. Refused are prices, but after"
+      },
+      {
+       "callMs": 55.065583,
+       "durationSeconds": 6.48,
+       "id": "en-1721-noisy-clear",
+       "inferenceMs": 54.48603630065918,
+       "repeat": 0,
+       "text": "After the diamond three, the season of books that were spread diamond throughout the river were five foot"
+      },
+      {
+       "callMs": 59.378125,
+       "durationSeconds": 9.42,
+       "id": "en-1722-noisy-clear",
+       "inferenceMs": 58.9139461517334,
+       "repeat": 0,
+       "text": "Uomo Bitcoin began its governmentship earlier this year and signed a bill last month legalizing same-sex marriage."
+      },
+      {
+       "callMs": 69.726041,
+       "durationSeconds": 12.78,
+       "id": "en-1723-noisy-clear",
+       "inferenceMs": 64.94998931884766,
+       "repeat": 0,
+       "text": "The harbor was the site of the naval standard in 1889 when 7th Switzerland Germany, the U.S. and distance used to read the harbor."
+      },
+      {
+       "callMs": 93.00025,
+       "durationSeconds": 11.48,
+       "id": "en-1724-noisy-clear",
+       "inferenceMs": 92.42892265319824,
+       "repeat": 0,
+       "text": "The standard left group began in about 400 years and actually up until about 1100 AD."
+      },
+      {
+       "callMs": 70.243375,
+       "durationSeconds": 10.74,
+       "id": "en-1725-noisy-clear",
+       "inferenceMs": 67.39294528961182,
+       "repeat": 0,
+       "text": "ASICS ECC earlier launched worldwide cost pagan functionality backwards became the hot topic of 2007 Hi-Fi IT."
+      },
+      {
+       "callMs": 66.20725,
+       "durationSeconds": 9.84,
+       "id": "en-1726-noisy-clear",
+       "inferenceMs": 63.32194805145264,
+       "repeat": 0,
+       "text": "Field trips are a large part of any class. Quite often a teacher is left to take her students' place to which a bus trip is not attached."
+      },
+      {
+       "callMs": 56.308042,
+       "durationSeconds": 7.2,
+       "id": "en-1727-noisy-clear",
+       "inferenceMs": 53.53200435638428,
+       "repeat": 0,
+       "text": "Feral children may have experienced a year child abuse or trauma before being abandoned or running away."
+      },
+      {
+       "callMs": 38.940666,
+       "durationSeconds": 5.76,
+       "id": "en-1728-noisy-clear",
+       "inferenceMs": 34.24108028411865,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 76.669375,
+       "durationSeconds": 11.4,
+       "id": "en-1729-noisy-clear",
+       "inferenceMs": 76.21002197265625,
+       "repeat": 0,
+       "text": "For example, each year students from Bennett School in North Carolina designed a website about their different capital. Each year the website gets remodeled for integration or tech online before the suspended."
+      },
+      {
+       "callMs": 77.064667,
+       "durationSeconds": 12.12,
+       "id": "en-1730-noisy-clear",
+       "inferenceMs": 73.74405860900879,
+       "repeat": 0,
+       "text": "Bus is the park that interdistrict bus station across the river throughout the day, though most expressive located to the east in Jakar and Sang lead between 630 and 730."
+      },
+      {
+       "callMs": 46.685583,
+       "durationSeconds": 7.48,
+       "id": "en-1731-noisy-clear",
+       "inferenceMs": 43.93196105957031,
+       "repeat": 0,
+       "text": "Using architecture and this do not necessarily need"
+      },
+      {
+       "callMs": 82.369833,
+       "durationSeconds": 13.68,
+       "id": "en-1732-noisy-clear",
+       "inferenceMs": 81.83789253234863,
+       "repeat": 0,
+       "text": "The age where their event took place is commonly referred as the High Middle Ages of the period of European history of the 11th, 12th, and 13th centuries, AD or 1000s of Christmas."
+      },
+      {
+       "callMs": 112.921542,
+       "durationSeconds": 17.58,
+       "id": "en-1733-noisy-clear",
+       "inferenceMs": 112.32602596282959,
+       "repeat": 0,
+       "text": "First among the seventy eight recommendations is that our new diplomatic initiative should be taken before the end of this year to secure Iraq's warriors against hostile intervention and to reestablish diplomatic relations I think you"
+      },
+      {
+       "callMs": 66.243667,
+       "durationSeconds": 12.12,
+       "id": "en-1734-noisy-clear",
+       "inferenceMs": 63.49897384643555,
+       "repeat": 0,
+       "text": "The science system enables to conclude that sort of matter in expressing the select matter in the same areas right within the colour."
+      },
+      {
+       "callMs": 141.785458,
+       "durationSeconds": 20.4,
+       "id": "en-1735-noisy-clear",
+       "inferenceMs": 138.9390230178833,
+       "repeat": 0,
+       "text": "Researchers from our study of Solar University work on these things of all kinds of interesting, focus off the fact that the pandemic Despite puestos con el package, despica con el dos."
+      },
+      {
+       "callMs": 44.525667,
+       "durationSeconds": 6,
+       "id": "en-1736-noisy-clear",
+       "inferenceMs": 43.93601417541504,
+       "repeat": 0,
+       "text": "The wonderman goes that fire his own life and serious."
+      },
+      {
+       "callMs": 39.172833,
+       "durationSeconds": 4.14,
+       "id": "en-1737-noisy-clear",
+       "inferenceMs": 38.6580228805542,
+       "repeat": 0,
+       "text": "I understand the factor streets outside"
+      },
+      {
+       "callMs": 81.198709,
+       "durationSeconds": 8.28,
+       "id": "en-1738-noisy-clear",
+       "inferenceMs": 80.64305782318115,
+       "repeat": 0,
+       "text": "It also adds in a guarantee of the water using the general"
+      },
+      {
+       "callMs": 66.571917,
+       "durationSeconds": 10.14,
+       "id": "en-1739-noisy-clear",
+       "inferenceMs": 61.71298027038574,
+       "repeat": 0,
+       "text": "Resting on the top of one of the mountains north of Mecca, the case is closely isolated from the rest of the world."
+      },
+      {
+       "callMs": 48.262958,
+       "durationSeconds": 7.02,
+       "id": "en-1740-noisy-clear",
+       "inferenceMs": 47.71602153778076,
+       "repeat": 0,
+       "text": "The two that started light there is one of the most interesting things in the area for here."
+      },
+      {
+       "callMs": 52.337834,
+       "durationSeconds": 7.68,
+       "id": "en-1741-noisy-clear",
+       "inferenceMs": 51.831960678100586,
+       "repeat": 0,
+       "text": "Large areas from the north are quite sparsely populated and some of nearly uninhabited will be"
+      },
+      {
+       "callMs": 52.849833,
+       "durationSeconds": 7.02,
+       "id": "en-1742-noisy-clear",
+       "inferenceMs": 52.39701271057129,
+       "repeat": 0,
+       "text": "Hong Kong Island is the territory of Hong Kong is name with the place that many forest provided for resources."
+      },
+      {
+       "callMs": 118.133708,
+       "durationSeconds": 16.44,
+       "id": "en-1743-noisy-clear",
+       "inferenceMs": 117.66493320465088,
+       "repeat": 0,
+       "text": "Most interpretations of technological concerns based on digital ideas, but the development of technology itself follows a path largely beyond cultural or political influence, and that technology in terms of effects on society that are inherent rather than system to use."
+      },
+      {
+       "callMs": 38.730208,
+       "durationSeconds": 5.64,
+       "id": "en-1744-noisy-clear",
+       "inferenceMs": 35.41910648345947,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 52.059917,
+       "durationSeconds": 7.68,
+       "id": "en-1745-noisy-clear",
+       "inferenceMs": 51.54693126678467,
+       "repeat": 0,
+       "text": "Plants put their beds in a natural environment, but the precipitation remains just pointing."
+      },
+      {
+       "callMs": 54.210416,
+       "durationSeconds": 7.94,
+       "id": "en-1746-noisy-clear",
+       "inferenceMs": 49.93605613708496,
+       "repeat": 0,
+       "text": "Plants make their food from the sun by photosynthesis. They also provide shade."
+      },
+      {
+       "callMs": 42.053208,
+       "durationSeconds": 5.22,
+       "id": "en-1747-noisy-clear",
+       "inferenceMs": 41.57900810241699,
+       "repeat": 0,
+       "text": "Fellow wrestling also paid for you to Nuna."
+      },
+      {
+       "callMs": 51.451917,
+       "durationSeconds": 7.12,
+       "id": "en-1748-noisy-clear",
+       "inferenceMs": 50.97091197967529,
+       "repeat": 0,
+       "text": "Fire residences eventually doused to fire by eleven thirty-five p.m."
+      },
+      {
+       "callMs": 119.873333,
+       "durationSeconds": 13.74,
+       "id": "en-1749-noisy-clear",
+       "inferenceMs": 114.85600471496582,
+       "repeat": 0,
+       "text": "These are people who can sit with a German in 1940 and work with the instead of writing them."
+      },
+      {
+       "callMs": 52.389708,
+       "durationSeconds": 4.62,
+       "id": "en-1750-noisy-clear",
+       "inferenceMs": 49.61895942687988,
+       "repeat": 0,
+       "text": "The find off the craft in technology at least in the 70s and 30"
+      },
+      {
+       "callMs": 72.590834,
+       "durationSeconds": 12.36,
+       "id": "en-1751-noisy-clear",
+       "inferenceMs": 72.0590353012085,
+       "repeat": 0,
+       "text": "The debate was sparked by controversy over Spain Oil and the expression in the waste of Hurricane Decrement, which some fiscal conservatives have seen the label booking here."
+      },
+      {
+       "callMs": 67.488958,
+       "durationSeconds": 11.44,
+       "id": "en-1752-noisy-clear",
+       "inferenceMs": 64.57996368408203,
+       "repeat": 0,
+       "text": "As a result, two fish species have become extinct and two others have become endangered, including the home back stuff."
+      },
+      {
+       "callMs": 113.245833,
+       "durationSeconds": 16.5,
+       "id": "en-1753-noisy-clear",
+       "inferenceMs": 110.40496826171875,
+       "repeat": 0,
+       "text": "While it is often an actual thing, like the best way to get along with characters is still the undergrad. Actually like somebody who is a C Vol. It doesn't really matter about and still be easy."
+      },
+      {
+       "callMs": 61.6585,
+       "durationSeconds": 10.74,
+       "id": "en-1754-noisy-clear",
+       "inferenceMs": 56.884050369262695,
+       "repeat": 0,
+       "text": "The noise more model and the nearby is the best dependent. It is easier for water to advertise to the picture."
+      },
+      {
+       "callMs": 39.822916,
+       "durationSeconds": 4.86,
+       "id": "en-1755-noisy-clear",
+       "inferenceMs": 35.02500057220459,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 70.467875,
+       "durationSeconds": 9.96,
+       "id": "en-1756-noisy-clear",
+       "inferenceMs": 69.98395919799805,
+       "repeat": 0,
+       "text": "Late on Sunday, the United States President Donald Trump, in a statement delivered via the press secretary, announced U.S. troops would be leaving Syria"
+      },
+      {
+       "callMs": 65.383959,
+       "durationSeconds": 10.44,
+       "id": "en-1757-noisy-clear",
+       "inferenceMs": 60.60206890106201,
+       "repeat": 0,
+       "text": "Only mutation is in done by delta is passed by in security, while mutation delta is involved still death or death."
+      },
+      {
+       "callMs": 43.482375,
+       "durationSeconds": 9,
+       "id": "en-1758-noisy-clear",
+       "inferenceMs": 38.6960506439209,
+       "repeat": 0,
+       "text": ""
+      },
+      {
+       "callMs": 84.362166,
+       "durationSeconds": 14.28,
+       "id": "en-1759-noisy-clear",
+       "inferenceMs": 83.84692668914795,
+       "repeat": 0,
+       "text": "After Mel, Alaska Wellington, Ohio, the suburb of Martin, 15 miles in a distance of Island, lying on the ground before the village of intensive underwater, and apparently having the first time"
+      }
+     ],
+     "sdk": "4.1.0"
+    },
+    "whisper": {
+     "model": "whisper.cpp 1.9.1 / large-v3",
+     "loadMs": 865.41,
+     "wallMs": 348455.43904206716,
+     "texts": {
+      "en-1660-noisy-clear": "Romanticism had a large element of cultural discernism drawn from writers such as Goethe, Hitch, and Schlegel.",
+      "en-1661-noisy-clear": "We do not set a figure for this test saying that it will be made based on financial and economic output.",
+      "en-1662-noisy-clear": "Owls are basically a mixture of two or more mothers. Don't forget there are many other names in the periodic sequence.",
+      "en-1663-noisy-clear": "The Carmel Valley, Chile's premier climate destination, known as the Yosemite of South America, with a variety of granite big walls and cracks.",
+      "en-1664-noisy-clear": "So, you have a few dry powders together and then the spoon that you use is in the bowl.",
+      "en-1665-noisy-clear": "This document, according to the leak, will refer to the border dispute with Palestine on Space on the border dispute for the 1967 mid-feud war.",
+      "en-1666-noisy-clear": "You may also wish to use the advice of governments other than your own, but their advice is designed for their citizens.",
+      "en-1667-noisy-clear": "Generally speaking, two behaviors can emerge as the managers begin to lead their former peers. One end of the spectrum is trying to remain one of the guys or gals.",
+      "en-1668-noisy-clear": "It may also be beneficial for one to buy a wild card which provides entry to either selections of parks in South Africa or all of the South African National Parks.",
+      "en-1669-noisy-clear": "Police Lieutenant Shano Shankar Siranshi doesn't seem to be important for this public station.",
+      "en-1670-noisy-clear": "The Affirmative Review is not a study of large citizenry that are being used in the United States as a context, but is consistent with the use of new features for the team's learning, for exploring systems, and the use of realistic systems, and for the use of RRVs, and as a main Arizona university, located in South-South Arizona.",
+      "en-1671-noisy-clear": "Congress began funding the Affinity Initiative in fiscal 2005 and specified that the FBI must devote 10 years to adult pornography.",
+      "en-1672-noisy-clear": "The person not so well fabricated becomes too hot and becomes cranky, right in the same place as the spirit.",
+      "en-1673-noisy-clear": "During the Revolutionary War, the 13 states first formed a East Central Government, with the Congress being its only component under the Articles of Confederation.",
+      "en-1674-noisy-clear": "In some areas, boring water swimming is enough, and other several minutes are needed.",
+      "en-1675-noisy-clear": "Thank you.",
+      "en-1676-noisy-clear": "As with all South African National Parks, there are daily conservation and entry tours for the parks.",
+      "en-1677-noisy-clear": "Today, the only insects that cannot fade back their wings are dragonflies and naysayers.",
+      "en-1678-noisy-clear": "Oliver Sacks, in his paper, His President's Speech, indicated how people who are unable to understand speech because of brain damage are nevertheless able to assess sincerity accurately.",
+      "en-1679-noisy-clear": "There is no text message remaining on this phone.",
+      "en-1680-noisy-clear": "A well-oriented athlete is either going to climb, go not well, win, lose great races, and fall with five times the force of a strong team.",
+      "en-1681-noisy-clear": "It isn't a long-term experimentation, and an experiment is a test that a UC alumnus wants to know about possible hypotheses and questions in looking up the data that those guys seek for scientific use.",
+      "en-1682-noisy-clear": "While no one knows what's going on in those, we've found that eight mid-size large-person documents, and this is 29 C-Square inches, and 24 S-inches, have rolled up the stairs.",
+      "en-1683-noisy-clear": "There are still many men and women alive who survived their time here, and many more who had loved ones who were murdered or worked to death to their Jews or non-Jews alike.",
+      "en-1684-noisy-clear": "Apulia is the capital of Samoa. The town is on the island of Nipozi and has a population of just under 40,000.",
+      "en-1685-noisy-clear": "For example, the most common still image photography format in the world is 35mm, which was the dominant film science at the close of the analog film era.",
+      "en-1686-noisy-clear": "As a result, the process of an organization working together to overcome an obstacle can lead to a new innovative process to serve the customer's needs.",
+      "en-1687-noisy-clear": "Segregation and decommissioning, a couple of variations back and forth between the two poles of each dimension.",
+      "en-1688-noisy-clear": "The job of the Navy has traditionally been to ensure that your country maintains the ability to use your people in good, while at the same time interfering with your enemy's ability to use your people in good.",
+      "en-1689-noisy-clear": "Europe is a continent that is very, very small, that is, many, many countries. In the normal circumstances, traveling through multiple countries would mean having to go through these applications, and ask for support, and to respond.",
+      "en-1690-noisy-clear": "We agree with the USOC's statement that each of our athletes and clubs and their sports may be better served by moving forward in meaningful change to bring our organization brighter than ever in a specific situation.",
+      "en-1691-noisy-clear": "For other reasons, small or large, there was a problem.",
+      "en-1692-noisy-clear": "According to DCM's nuclear agency, radioactive CCM iodine has been identified at the plant.",
+      "en-1693-noisy-clear": "Thank you.",
+      "en-1694-noisy-clear": "Children are safe and fostered here for a wide variety of reasons that range from the",
+      "en-1695-noisy-clear": "A simple topic of gaming, especially during the summer, is online gaming, but with all of our community and any available funding to support us during this summer.",
+      "en-1696-noisy-clear": "The system is now reacting 100 to form systems that make a lot of significant changes in researchers at the University of St. Louis.",
+      "en-1697-noisy-clear": "Yes, ma'am.",
+      "en-1698-noisy-clear": "The reason we win is because of matter. All matter is made of 20 parts of 12 atoms.",
+      "en-1699-noisy-clear": "This text was described as sinking into a state of anarchy by one of Denver as games of people roamed the streets and plundered stores of consumer goods.",
+      "en-1700-noisy-clear": "It is thinner under the muria and thicker under the island.",
+      "en-1701-noisy-clear": "Ghosts can be seen as their first domesticated reference 10,000 years ago in the godless mountains of Andes.",
+      "en-1702-noisy-clear": "We just see the Americans and three French forces at liberty plugging France and returning to its enemies.",
+      "en-1703-noisy-clear": "Kelly Schwartz and a new provisional electoral council, nine members yesterday.",
+      "en-1704-noisy-clear": "In 1990, it was added to the list of World Heritage Sites in Danger due to the threat of desert sand.",
+      "en-1705-noisy-clear": "On August 15, 1940, the Allies invaded southern France, and the invasion was called Operation Dragoon.",
+      "en-1706-noisy-clear": "More traditional churches often hold a celebration, but the confederations often break the celebration at the scope of the night to celebrate Christ's resurrection.",
+      "en-1707-noisy-clear": "It's one of the main attractions of South Africa, and it's considered the flagship of South African national parks.",
+      "en-1708-noisy-clear": "Kenny has resigned and will be replaced in the cabinet by Eddie A.D. Anderson, former land interviewer and executive assistant to the business minister's office in the state building.",
+      "en-1709-noisy-clear": "The report is highly critical for almost every aspect of the central policy being accepted in sports Iraq, and it urges an immediate change of direction.",
+      "en-1710-noisy-clear": "Please remember that there will be a total of 34 additional, or preceding, interns in the company or student series.",
+      "en-1711-noisy-clear": "You can look at what it is about seeing people that make them want the things that they do and what things in their environment will make them do or not do certain things.",
+      "en-1712-noisy-clear": "Since 1966, it's gone dark and has been a wildlife sanctuary and is estimated there are now 400 oil bengal tigers and about 30,000 spotted deer in the area.",
+      "en-1713-noisy-clear": "The program is used in the state and in places like California, Louisiana, Tennessee and the state for the fighting that takes place in the North Sea of California.",
+      "en-1714-noisy-clear": "The skylight is painted with gray skylighting. Scientists use color-spotting spurs because the air-spotting spurs protect from the skylight and the air.",
+      "en-1715-noisy-clear": "Regular and instant communication on a day-to-day basis only, but sometimes it's best to be around for an automated system in a wide variety of languages, including Spanish, English, French, Arabic, and Japanese.",
+      "en-1716-noisy-clear": "Entertainment News website TMZ understands that the photographer stopped his vehicle on the other side of the road and attempted to take pictures of the police stop before crossing the road and continued, prompting the California Highway Patrol police officer conducting the traffic stop to order him back across once.",
+      "en-1717-noisy-clear": "Due to the underwater pathologies, the deep mixture is concentrated at a few different sections in a fast current to deep water nature.",
+      "en-1718-noisy-clear": "There is no universal definition for which manufactured items are as good. Some past agencies defined goods older than 100 years as antiques.",
+      "en-1719-noisy-clear": "To do weathering is a general term for any dangerous weather phenomenon, and for the things that cause damage, serious social distress, or lost human life.",
+      "en-1720-noisy-clear": "The hot chocolate is up to Belgian standards. Street foods are spicy, but excellent.",
+      "en-1721-noisy-clear": "After the dam was built in 1953, the season of bugs that would spread diamond throughout the river were halted.",
+      "en-1722-noisy-clear": "Hello, Moe. This is Lynn. The Kansas government missed this earlier this year and signed a bill last month legalizing same-sex marriage.",
+      "en-1723-noisy-clear": "The harbor was the site of an intense legal standoff in 1889 when Southern Switzerland's only U.S. condition ceased to be the harbor.",
+      "en-1724-noisy-clear": "It's been now 15 years since I was last here. I've gone in about 400 innings, and that's been up until about 1100 innings.",
+      "en-1725-noisy-clear": "ASIC/ECP earlier launched worldwide first-class staging functionality back for receiving the Hot Topic in 2007's Hi-Fi IT Month.",
+      "en-1726-noisy-clear": "Children are a large part of any class. Quite often a teacher would love to take their students places to which a bus trip is not an option.",
+      "en-1727-noisy-clear": "Feral children may have experienced severe child abuse or trauma before being abandoned or run away.",
+      "en-1728-noisy-clear": "The capacity to discover depends on how acidic, basic, alkaline, and chemical it is.",
+      "en-1729-noisy-clear": "For example, each year students from Bennett School in North Carolina can find a website about their trip to state capitol. Each year the website gets remodeled for encouraging our Tech Online to serve as a scratcher.",
+      "en-1730-noisy-clear": "Bussins departs at inter-district bus stations across the river throughout the day, though most expressways heading to the east in Yakar and Zang use between 6:30 and 7:30.",
+      "en-1731-noisy-clear": "We are just a way of life and we do not need to care when we need to die.",
+      "en-1732-noisy-clear": "The age where the event took place is commonly referred to as the High Middle Ages, the period of European history in the 11th, 12th, and 13th centuries, A.D. 1000-13.",
+      "en-1733-noisy-clear": "First among the 78 recommendations is that our new diplomatic initiative should be taken before the end of this year to secure Iraq's borders against hostile interventions and to reestablish diplomatic relations with its leaders.",
+      "en-1734-noisy-clear": "The scientist in the book has concluded that dark matter is an excess of energy. Dark matter in the same way regulates time travel.",
+      "en-1735-noisy-clear": "Researchers from Princeton University and the University of Missouri have followed University of Missouri's report that these species evolved in the few generations, though dispossessability made more problems with the species in an endemic valley soon. These species were forced into the immigrant practice soon, just because of their growth.",
+      "en-1736-noisy-clear": "The wonderment goes as far as he seems to realize it as theory.",
+      "en-1737-noisy-clear": "I am going to say this after my first post-doc.",
+      "en-1738-noisy-clear": "It also helps making an image alive, even if it doesn't sound like what you actually want it to sound like.",
+      "en-1739-noisy-clear": "Resting on the top of one of the mountains north of Mecca, the Cape is closely isolated from the rest of the world.",
+      "en-1740-noisy-clear": "It even sounded like there was one of the most interesting things in the area up there.",
+      "en-1741-noisy-clear": "Large areas further north are quite sparsely populated and some is nearly unaccompanied with.",
+      "en-1742-noisy-clear": "Hong Kong Island is the territory of Hong Kong's name and is the place that many tourists regard as their new focus.",
+      "en-1743-noisy-clear": "Most interpretations of technological disinformation should be general ideas, that the development of technology itself follows a path largely beyond cultural or political influence, and that technology in turn has effects on societies that are in here rather than for society.",
+      "en-1744-noisy-clear": "Thank you.",
+      "en-1745-noisy-clear": "Plants with the rest remain in a natural environment, but with this situation, they remain within just one specimen.",
+      "en-1746-noisy-clear": "Plants make their food from the sun by photosynthesis. We also provide shade.",
+      "en-1747-noisy-clear": "Fellow wrestlers also take with them Karina.",
+      "en-1748-noisy-clear": "Fire rescue teams eventually doused the fire by 11:35 p.m.",
+      "en-1749-noisy-clear": "It is ruled by the Dukes of France. Even some people who think peace is a German can actually go and work with the Gauls instead of fighting the Gauls.",
+      "en-1750-noisy-clear": "We'll find also that since that is the evolution of feathers and birds,",
+      "en-1751-noisy-clear": "The debate was sparked by controversy over same-line relief and disinstruction in the voice of Hurricane Katrina, which some fiscal concert groups have came up to label \"this is you or me\" here.",
+      "en-1752-noisy-clear": "As we recall, two fish species have become extinct, and two others have become endangered, including the humpback tub.",
+      "en-1753-noisy-clear": "While it is often an internet-specific place, the best way to get along in San Francisco is to stay beyond the investigation. Act like somebody who is a \"beyond the surveillance\" or whatever. They may get in your way as well, and it's typically easy.",
+      "en-1754-noisy-clear": "There may be more modelers on the news side because of the stress it's going on. It's as easy as a lot of the right words to the patient.",
+      "en-1755-noisy-clear": "Thank you.",
+      "en-1756-noisy-clear": "Late on Sunday, the United States President Donald Trump, in a statement delivered via the press secretary, announced U.S. troops would be leaving Syria.",
+      "en-1757-noisy-clear": "Only mutations in germline cells can be passed on to children, but mutations elsewhere can cause skull death or cancer.",
+      "en-1758-noisy-clear": "The project is being presented as a family and funeral work experience.",
+      "en-1759-noisy-clear": "Pastor Noir, a law student from Wyoming, in the area of San Jose, Ohio, discovered a vaccine in 15 hours in a 16-minute room, lying on the ground beside the road in which he was living, and apparently having a medical issue."
+     }
+    }
+   }
+  }
+ }
+}

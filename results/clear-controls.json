@@ -1,0 +1,54 @@
+{
+ "stage": "clear-controls",
+ "levelDbfsRms": -23,
+ "before": {
+  "at": "2026-10-24T17:12:17+0200",
+  "power": "ac",
+  "battery": "69",
+  "loadAverage": [
+   2.11,
+   1.55,
+   1.7
+  ],
+  "cpuIdlePercent": 91.68,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "after": {
+  "at": "2026-10-24T17:13:02+0200",
+  "power": "ac",
+  "battery": "70",
+  "loadAverage": [
+   2.11,
+   1.64,
+   1.73
+  ],
+  "cpuIdlePercent": 85.95,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "sets": {
+  "clean-raw": {
+   "werVoz": 5.84,
+   "files": 100
+  },
+  "clean-clear": {
+   "werVoz": 6.06,
+   "files": 100
+  },
+  "snr15-raw": {
+   "werVoz": 7.16,
+   "files": 100
+  },
+  "snr15-clear": {
+   "werVoz": 13.18,
+   "files": 100
+  },
+  "snr5-raw": {
+   "werVoz": 13.18,
+   "files": 100
+  },
+  "snr5-clear": {
+   "werVoz": 36.25,
+   "files": 100
+  }
+ }
+}

@@ -1,0 +1,1366 @@
+{
+ "stage": "text",
+ "passes": 3,
+ "sdk": "4.1.0",
+ "machine": {
+  "chip": "Apple M5",
+  "memoryBytes": 34359738368,
+  "os": "26.6.2",
+  "arch": "arm64"
+ },
+ "cooldownSeconds": 2,
+ "before": {
+  "at": "2026-10-24T17:10:46+0200",
+  "power": "ac",
+  "battery": "67",
+  "loadAverage": [
+   2.06,
+   1.29,
+   1.64
+  ],
+  "cpuIdlePercent": 89.84,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "after": {
+  "at": "2026-10-24T17:11:01+0200",
+  "power": "ac",
+  "battery": "67",
+  "loadAverage": [
+   2.28,
+   1.38,
+   1.66
+  ],
+  "cpuIdlePercent": 85.3,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "controlled": true,
+ "data": {
+  "gist": {
+   "initiallyDownloaded": true,
+   "loadMs": 169.816875,
+   "model": "gist",
+   "revision": "v2.2.0",
+   "rows": [
+    {
+     "id": "ru-poc",
+     "inferenceMs": 9.5955,
+     "repeat": 0,
+     "topics": [
+      {
+       "score": 0.740234375,
+       "slug": "finance"
+      },
+      {
+       "score": 0.66796875,
+       "slug": "technology"
+      },
+      {
+       "score": 0.5791015625,
+       "slug": "business"
+      }
+     ]
+    },
+    {
+     "id": "ru-poc",
+     "inferenceMs": 6.661125,
+     "repeat": 1,
+     "topics": [
+      {
+       "score": 0.740234375,
+       "slug": "finance"
+      },
+      {
+       "score": 0.66796875,
+       "slug": "technology"
+      },
+      {
+       "score": 0.5791015625,
+       "slug": "business"
+      }
+     ]
+    },
+    {
+     "id": "ru-poc",
+     "inferenceMs": 6.562167,
+     "repeat": 2,
+     "topics": [
+      {
+       "score": 0.740234375,
+       "slug": "finance"
+      },
+      {
+       "score": 0.66796875,
+       "slug": "technology"
+      },
+      {
+       "score": 0.5791015625,
+       "slug": "business"
+      }
+     ]
+    },
+    {
+     "id": "ru-tech",
+     "inferenceMs": 6.400584,
+     "repeat": 0,
+     "topics": [
+      {
+       "score": 0.96533203125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.73779296875,
+       "slug": "business"
+      },
+      {
+       "score": 0.2958984375,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "ru-tech",
+     "inferenceMs": 5.950791,
+     "repeat": 1,
+     "topics": [
+      {
+       "score": 0.96533203125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.73779296875,
+       "slug": "business"
+      },
+      {
+       "score": 0.2958984375,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "ru-tech",
+     "inferenceMs": 5.918208,
+     "repeat": 2,
+     "topics": [
+      {
+       "score": 0.96533203125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.73779296875,
+       "slug": "business"
+      },
+      {
+       "score": 0.2958984375,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "en-tech",
+     "inferenceMs": 4.850583,
+     "repeat": 0,
+     "topics": [
+      {
+       "score": 0.99267578125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.9111328125,
+       "slug": "business"
+      },
+      {
+       "score": 0.256103515625,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "en-tech",
+     "inferenceMs": 4.662291,
+     "repeat": 1,
+     "topics": [
+      {
+       "score": 0.99267578125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.9111328125,
+       "slug": "business"
+      },
+      {
+       "score": 0.256103515625,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "en-tech",
+     "inferenceMs": 4.60675,
+     "repeat": 2,
+     "topics": [
+      {
+       "score": 0.99267578125,
+       "slug": "technology"
+      },
+      {
+       "score": 0.9111328125,
+       "slug": "business"
+      },
+      {
+       "score": 0.256103515625,
+       "slug": "career"
+      }
+     ]
+    },
+    {
+     "id": "fr-food",
+     "inferenceMs": 5.024292,
+     "repeat": 0,
+     "topics": [
+      {
+       "score": 0.8701171875,
+       "slug": "food-drink"
+      },
+      {
+       "score": 0.28125,
+       "slug": "home-garden"
+      },
+      {
+       "score": 0.1419677734375,
+       "slug": "parenting-family"
+      }
+     ]
+    },
+    {
+     "id": "fr-food",
+     "inferenceMs": 4.671292,
+     "repeat": 1,
+     "topics": [
+      {
+       "score": 0.8701171875,
+       "slug": "food-drink"
+      },
+      {
+       "score": 0.28125,
+       "slug": "home-garden"
+      },
+      {
+       "score": 0.1419677734375,
+       "slug": "parenting-family"
+      }
+     ]
+    },
+    {
+     "id": "fr-food",
+     "inferenceMs": 4.827416,
+     "repeat": 2,
+     "topics": [
+      {
+       "score": 0.8701171875,
+       "slug": "food-drink"
+      },
+      {
+       "score": 0.28125,
+       "slug": "home-garden"
+      },
+      {
+       "score": 0.1419677734375,
+       "slug": "parenting-family"
+      }
+     ]
+    },
+    {
+     "id": "en-sports",
+     "inferenceMs": 3.607208,
+     "repeat": 0,
+     "topics": [
+      {
+       "score": 0.99755859375,
+       "slug": "sports"
+      },
+      {
+       "score": 0.252197265625,
+       "slug": "gaming"
+      },
+      {
+       "score": 0.1357421875,
+       "slug": "history"
+      }
+     ]
+    },
+    {
+     "id": "en-sports",
+     "inferenceMs": 3.370875,
+     "repeat": 1,
+     "topics": [
+      {
+       "score": 0.99755859375,
+       "slug": "sports"
+      },
+      {
+       "score": 0.252197265625,
+       "slug": "gaming"
+      },
+      {
+       "score": 0.1357421875,
+       "slug": "history"
+      }
+     ]
+    },
+    {
+     "id": "en-sports",
+     "inferenceMs": 3.4455,
+     "repeat": 2,
+     "topics": [
+      {
+       "score": 0.99755859375,
+       "slug": "sports"
+      },
+      {
+       "score": 0.252197265625,
+       "slug": "gaming"
+      },
+      {
+       "score": 0.1357421875,
+       "slug": "history"
+      }
+     ]
+    }
+   ],
+   "sdk": "4.1.0"
+  },
+  "title": {
+   "model": "title",
+   "revision": "0a7c63976754b2e2af23c9f835218fb88e122dbe",
+   "backend": "mlx-gpu-python",
+   "loadMs": 1269.7024999652058,
+   "rows": [
+    {
+     "id": "ru-poc",
+     "repeat": 0,
+     "inferenceMs": 371.0130830295384,
+     "title": "Промежуточный PoC и схема продукта",
+     "description": "Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "raw": "TITLE: Промежуточный PoC и схема продукта\nDESC: Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "promptTokens": 168,
+     "generationTokens": 96,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "ru-poc",
+     "repeat": 1,
+     "inferenceMs": 338.9070420525968,
+     "title": "Промежуточный PoC и схема продукта",
+     "description": "Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "raw": "TITLE: Промежуточный PoC и схема продукта\nDESC: Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "promptTokens": 168,
+     "generationTokens": 96,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "ru-poc",
+     "repeat": 2,
+     "inferenceMs": 342.6549171563238,
+     "title": "Промежуточный PoC и схема продукта",
+     "description": "Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "raw": "TITLE: Промежуточный PoC и схема продукта\nDESC: Сейчас проходит промежуточный PoC, где поле зависит от источника. Проверка на других компаниях не передаются для утверждения требований и не обещают срок масштабирования.",
+     "promptTokens": 168,
+     "generationTokens": 96,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-date",
+     "repeat": 0,
+     "inferenceMs": 155.4418341256678,
+     "title": "Architecture review schedule change",
+     "description": "The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "raw": "TITLE: Architecture review schedule change\nDESC: The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "promptTokens": 107,
+     "generationTokens": 39,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-date",
+     "repeat": 1,
+     "inferenceMs": 162.1690420433879,
+     "title": "Architecture review schedule change",
+     "description": "The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "raw": "TITLE: Architecture review schedule change\nDESC: The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "promptTokens": 107,
+     "generationTokens": 39,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-date",
+     "repeat": 2,
+     "inferenceMs": 178.79220796748996,
+     "title": "Architecture review schedule change",
+     "description": "The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "raw": "TITLE: Architecture review schedule change\nDESC: The architecture review has shifted from Tuesday to Thursday and requires the draft to be published before the review date. The deployment date has not been finalized.",
+     "promptTokens": 107,
+     "generationTokens": 39,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-condition",
+     "repeat": 0,
+     "inferenceMs": 191.9006248936057,
+     "title": "Data migration data migration process",
+     "description": "Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "raw": "TITLE: Data migration data migration process\nDESC: Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "promptTokens": 108,
+     "generationTokens": 34,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-condition",
+     "repeat": 1,
+     "inferenceMs": 266.68329210951924,
+     "title": "Data migration data migration process",
+     "description": "Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "raw": "TITLE: Data migration data migration process\nDESC: Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "promptTokens": 108,
+     "generationTokens": 34,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "en-condition",
+     "repeat": 2,
+     "inferenceMs": 705.8702080976218,
+     "title": "Data migration data migration process",
+     "description": "Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "raw": "TITLE: Data migration data migration process\nDESC: Data migration is initiated only after security approves the access request. The process is not a commitment to deliver on Friday.",
+     "promptTokens": 108,
+     "generationTokens": 34,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "fr-date",
+     "repeat": 0,
+     "inferenceMs": 1006.8122500088066,
+     "title": "Réunion de mardi à jeudi",
+     "description": "La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "raw": "TITLE: Réunion de mardi à jeudi\nDESC: La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "promptTokens": 116,
+     "generationTokens": 49,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "fr-date",
+     "repeat": 1,
+     "inferenceMs": 356.78837494924664,
+     "title": "Réunion de mardi à jeudi",
+     "description": "La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "raw": "TITLE: Réunion de mardi à jeudi\nDESC: La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "promptTokens": 116,
+     "generationTokens": 49,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "fr-date",
+     "repeat": 2,
+     "inferenceMs": 312.53712507896125,
+     "title": "Réunion de mardi à jeudi",
+     "description": "La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "raw": "TITLE: Réunion de mardi à jeudi\nDESC: La réunion est déplacée de mardi à jeudi et reste un prototype actuel. La date de mise en production n'est pas encore décidée.",
+     "promptTokens": 116,
+     "generationTokens": 49,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "ru-tech",
+     "repeat": 0,
+     "inferenceMs": 577.9382500331849,
+     "title": "Распределённый веб-краулер, API и базу данных",
+     "description": "Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "raw": "TITLE: Распределённый веб-краулер, API и базу данных\nDESC: Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "promptTokens": 152,
+     "generationTokens": 99,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "ru-tech",
+     "repeat": 1,
+     "inferenceMs": 781.6747080069035,
+     "title": "Распределённый веб-краулер, API и базу данных",
+     "description": "Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "raw": "TITLE: Распределённый веб-краулер, API и базу данных\nDESC: Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "promptTokens": 152,
+     "generationTokens": 99,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    },
+    {
+     "id": "ru-tech",
+     "repeat": 2,
+     "inferenceMs": 956.1105000320822,
+     "title": "Распределённый веб-краулер, API и базу данных",
+     "description": "Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "raw": "TITLE: Распределённый веб-краулер, API и базу данных\nDESC: Команда разрабатывает программное обеспечение, включая распределённый веб-краулер, API и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+     "promptTokens": 152,
+     "generationTokens": 99,
+     "tokenLimit": 128,
+     "hitTokenLimit": false
+    }
+   ],
+   "versions": {
+    "mlx-lm": "0.32.2",
+    "mlx": "0.32.4",
+    "onnxruntime": "1.31.0",
+    "tokenizers": "0.23.3"
+   }
+  },
+  "toxic": {
+   "model": "toxic",
+   "revision": "3553f77942789ade867a462387bc2dbf8e92743f",
+   "backend": "onnxruntime-cpu-4threads",
+   "loadMs": 378.747042035684,
+   "rows": [
+    {
+     "id": "en-clean",
+     "repeat": 0,
+     "inferenceMs": 105.35670793615282,
+     "scores": {
+      "HATEFUL": 0.0025764803867787123,
+      "ABUSIVE": 0.03154835104942322,
+      "THREAT": 0.02364535443484783
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 24,
+     "originalTokens": 24,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-clean",
+     "repeat": 1,
+     "inferenceMs": 115.84870889782906,
+     "scores": {
+      "HATEFUL": 0.0025764803867787123,
+      "ABUSIVE": 0.03154835104942322,
+      "THREAT": 0.02364535443484783
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 24,
+     "originalTokens": 24,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-clean",
+     "repeat": 2,
+     "inferenceMs": 129.03108284808695,
+     "scores": {
+      "HATEFUL": 0.0025764803867787123,
+      "ABUSIVE": 0.03154835104942322,
+      "THREAT": 0.02364535443484783
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 24,
+     "originalTokens": 24,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-abuse",
+     "repeat": 0,
+     "inferenceMs": 138.92020797356963,
+     "scores": {
+      "HATEFUL": 0.16598397493362427,
+      "ABUSIVE": 0.919274091720581,
+      "THREAT": 0.20338766276836395
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 19,
+     "originalTokens": 19,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-abuse",
+     "repeat": 1,
+     "inferenceMs": 138.81808309815824,
+     "scores": {
+      "HATEFUL": 0.16598397493362427,
+      "ABUSIVE": 0.919274091720581,
+      "THREAT": 0.20338766276836395
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 19,
+     "originalTokens": 19,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-abuse",
+     "repeat": 2,
+     "inferenceMs": 138.7773749884218,
+     "scores": {
+      "HATEFUL": 0.16598397493362427,
+      "ABUSIVE": 0.919274091720581,
+      "THREAT": 0.20338766276836395
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 19,
+     "originalTokens": 19,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-threat",
+     "repeat": 0,
+     "inferenceMs": 140.85016609169543,
+     "scores": {
+      "HATEFUL": 0.18588200211524963,
+      "ABUSIVE": 0.3155185282230377,
+      "THREAT": 0.6076214909553528
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 14,
+     "originalTokens": 14,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-threat",
+     "repeat": 1,
+     "inferenceMs": 149.12083302624524,
+     "scores": {
+      "HATEFUL": 0.18588200211524963,
+      "ABUSIVE": 0.3155185282230377,
+      "THREAT": 0.6076214909553528
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 14,
+     "originalTokens": 14,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-threat",
+     "repeat": 2,
+     "inferenceMs": 142.8856251295656,
+     "scores": {
+      "HATEFUL": 0.18588200211524963,
+      "ABUSIVE": 0.3155185282230377,
+      "THREAT": 0.6076214909553528
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 14,
+     "originalTokens": 14,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-hate",
+     "repeat": 0,
+     "inferenceMs": 139.1218330245465,
+     "scores": {
+      "HATEFUL": 0.7809900045394897,
+      "ABUSIVE": 0.9597892761230469,
+      "THREAT": 0.7587730884552002
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 16,
+     "originalTokens": 16,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-hate",
+     "repeat": 1,
+     "inferenceMs": 138.77691701054573,
+     "scores": {
+      "HATEFUL": 0.7809900045394897,
+      "ABUSIVE": 0.9597892761230469,
+      "THREAT": 0.7587730884552002
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 16,
+     "originalTokens": 16,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-hate",
+     "repeat": 2,
+     "inferenceMs": 138.8551250565797,
+     "scores": {
+      "HATEFUL": 0.7809900045394897,
+      "ABUSIVE": 0.9597892761230469,
+      "THREAT": 0.7587730884552002
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": true
+     },
+     "languageSupported": true,
+     "inputTokens": 16,
+     "originalTokens": 16,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-quote",
+     "repeat": 0,
+     "inferenceMs": 152.9981659259647,
+     "scores": {
+      "HATEFUL": 0.00329633173532784,
+      "ABUSIVE": 0.04176071286201477,
+      "THREAT": 0.010765559040009975
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 37,
+     "originalTokens": 37,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-quote",
+     "repeat": 1,
+     "inferenceMs": 150.41179209947586,
+     "scores": {
+      "HATEFUL": 0.00329633173532784,
+      "ABUSIVE": 0.04176071286201477,
+      "THREAT": 0.010765559040009975
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 37,
+     "originalTokens": 37,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-quote",
+     "repeat": 2,
+     "inferenceMs": 141.42191619612277,
+     "scores": {
+      "HATEFUL": 0.00329633173532784,
+      "ABUSIVE": 0.04176071286201477,
+      "THREAT": 0.010765559040009975
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 37,
+     "originalTokens": 37,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-counter-threat",
+     "repeat": 0,
+     "inferenceMs": 143.60424992628396,
+     "scores": {
+      "HATEFUL": 0.0055361175909638405,
+      "ABUSIVE": 0.04826773330569267,
+      "THREAT": 0.06962939351797104
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 35,
+     "originalTokens": 35,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-counter-threat",
+     "repeat": 1,
+     "inferenceMs": 141.2667091935873,
+     "scores": {
+      "HATEFUL": 0.0055361175909638405,
+      "ABUSIVE": 0.04826773330569267,
+      "THREAT": 0.06962939351797104
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 35,
+     "originalTokens": 35,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-counter-threat",
+     "repeat": 2,
+     "inferenceMs": 138.76270805485547,
+     "scores": {
+      "HATEFUL": 0.0055361175909638405,
+      "ABUSIVE": 0.04826773330569267,
+      "THREAT": 0.06962939351797104
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 35,
+     "originalTokens": 35,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-positive-identity",
+     "repeat": 0,
+     "inferenceMs": 138.68124992586672,
+     "scores": {
+      "HATEFUL": 0.016794132068753242,
+      "ABUSIVE": 0.32928594946861267,
+      "THREAT": 0.19323450326919556
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 26,
+     "originalTokens": 26,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-positive-identity",
+     "repeat": 1,
+     "inferenceMs": 138.91995791345835,
+     "scores": {
+      "HATEFUL": 0.016794132068753242,
+      "ABUSIVE": 0.32928594946861267,
+      "THREAT": 0.19323450326919556
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 26,
+     "originalTokens": 26,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "en-positive-identity",
+     "repeat": 2,
+     "inferenceMs": 138.8873748946935,
+     "scores": {
+      "HATEFUL": 0.016794132068753242,
+      "ABUSIVE": 0.32928594946861267,
+      "THREAT": 0.19323450326919556
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 26,
+     "originalTokens": 26,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-clean",
+     "repeat": 0,
+     "inferenceMs": 139.1198339406401,
+     "scores": {
+      "HATEFUL": 0.005223618354648352,
+      "ABUSIVE": 0.025276852771639824,
+      "THREAT": 0.007960597984492779
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 27,
+     "originalTokens": 27,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-clean",
+     "repeat": 1,
+     "inferenceMs": 138.87599995359778,
+     "scores": {
+      "HATEFUL": 0.005223618354648352,
+      "ABUSIVE": 0.025276852771639824,
+      "THREAT": 0.007960597984492779
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 27,
+     "originalTokens": 27,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-clean",
+     "repeat": 2,
+     "inferenceMs": 134.1280417982489,
+     "scores": {
+      "HATEFUL": 0.005223618354648352,
+      "ABUSIVE": 0.025276852771639824,
+      "THREAT": 0.007960597984492779
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 27,
+     "originalTokens": 27,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-abuse",
+     "repeat": 0,
+     "inferenceMs": 131.21162494644523,
+     "scores": {
+      "HATEFUL": 0.6272727847099304,
+      "ABUSIVE": 0.9941678047180176,
+      "THREAT": 0.3892879784107208
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 25,
+     "originalTokens": 25,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-abuse",
+     "repeat": 1,
+     "inferenceMs": 131.20366702787578,
+     "scores": {
+      "HATEFUL": 0.6272727847099304,
+      "ABUSIVE": 0.9941678047180176,
+      "THREAT": 0.3892879784107208
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 25,
+     "originalTokens": 25,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "fr-abuse",
+     "repeat": 2,
+     "inferenceMs": 131.50666700676084,
+     "scores": {
+      "HATEFUL": 0.6272727847099304,
+      "ABUSIVE": 0.9941678047180176,
+      "THREAT": 0.3892879784107208
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": true,
+     "inputTokens": 25,
+     "originalTokens": 25,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-clean",
+     "repeat": 0,
+     "inferenceMs": 131.91187498159707,
+     "scores": {
+      "HATEFUL": 0.013020221143960953,
+      "ABUSIVE": 0.016929248347878456,
+      "THREAT": 0.008538108319044113
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 34,
+     "originalTokens": 34,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-clean",
+     "repeat": 1,
+     "inferenceMs": 136.16274995729327,
+     "scores": {
+      "HATEFUL": 0.013020221143960953,
+      "ABUSIVE": 0.016929248347878456,
+      "THREAT": 0.008538108319044113
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 34,
+     "originalTokens": 34,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-clean",
+     "repeat": 2,
+     "inferenceMs": 144.18966718949378,
+     "scores": {
+      "HATEFUL": 0.013020221143960953,
+      "ABUSIVE": 0.016929248347878456,
+      "THREAT": 0.008538108319044113
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": false,
+      "ABUSIVE": false,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 34,
+     "originalTokens": 34,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-abuse",
+     "repeat": 0,
+     "inferenceMs": 146.0242080502212,
+     "scores": {
+      "HATEFUL": 0.5879618525505066,
+      "ABUSIVE": 0.9895246624946594,
+      "THREAT": 0.19407260417938232
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 22,
+     "originalTokens": 22,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-abuse",
+     "repeat": 1,
+     "inferenceMs": 144.93191707879305,
+     "scores": {
+      "HATEFUL": 0.5879618525505066,
+      "ABUSIVE": 0.9895246624946594,
+      "THREAT": 0.19407260417938232
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 22,
+     "originalTokens": 22,
+     "truncated": false,
+     "disabledHeads": []
+    },
+    {
+     "id": "ru-abuse",
+     "repeat": 2,
+     "inferenceMs": 144.2657911684364,
+     "scores": {
+      "HATEFUL": 0.5879618525505066,
+      "ABUSIVE": 0.9895246624946594,
+      "THREAT": 0.19407260417938232
+     },
+     "thresholds": {
+      "HATEFUL": 0.4,
+      "ABUSIVE": 0.5,
+      "THREAT": 0.5
+     },
+     "flags": {
+      "HATEFUL": true,
+      "ABUSIVE": true,
+      "THREAT": false
+     },
+     "languageSupported": false,
+     "inputTokens": 22,
+     "originalTokens": 22,
+     "truncated": false,
+     "disabledHeads": []
+    }
+   ],
+   "versions": {
+    "mlx-lm": "0.32.2",
+    "mlx": "0.32.4",
+    "onnxruntime": "1.31.0",
+    "tokenizers": "0.23.3"
+   }
+  }
+ }
+}

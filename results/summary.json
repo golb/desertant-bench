@@ -1,0 +1,163 @@
+{
+ "asr": {
+  "controlled": false,
+  "conditions": [
+   {
+    "at": "2026-10-24T16:42:03+0200",
+    "power": "ac",
+    "battery": "25",
+    "loadAverage": [
+     3.54,
+     4.99,
+     4.85
+    ],
+    "cpuIdlePercent": 83.77,
+    "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+   },
+   {
+    "at": "2026-10-24T16:58:21+0200",
+    "power": "ac",
+    "battery": "50",
+    "loadAverage": [
+     1.5,
+     1.49,
+     2.34
+    ],
+    "cpuIdlePercent": 94.85,
+    "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+   }
+  ],
+  "en": {
+   "files": 100,
+   "audioMinutes": 17.6,
+   "werVoz": 5.76,
+   "werWhisper": 5.03,
+   "vozLoadMs": 465,
+   "whisperLoadMs": 720,
+   "vozMs": 5257,
+   "whisperMs": 217554,
+   "vozRealtime": 200.4,
+   "whisperRealtime": 4.8,
+   "speedup": 41.4
+  },
+  "ru": {
+   "files": 100,
+   "audioMinutes": 20.4,
+   "werVoz": 7.09,
+   "werWhisper": 4.92,
+   "vozLoadMs": 483,
+   "whisperLoadMs": 678,
+   "vozMs": 6981,
+   "whisperMs": 349533,
+   "vozRealtime": 175.5,
+   "whisperRealtime": 3.5,
+   "speedup": 50.1
+  },
+  "es": {
+   "files": 100,
+   "audioMinutes": 21.8,
+   "werVoz": 3.93,
+   "werWhisper": 2.8,
+   "vozLoadMs": 473,
+   "whisperLoadMs": 774,
+   "vozMs": 8415,
+   "whisperMs": 384953,
+   "vozRealtime": 155.1,
+   "whisperRealtime": 3.4,
+   "speedup": 45.7
+  }
+ },
+ "clear": {
+  "controlled": true,
+  "requestedSampleRate": 16000,
+  "reportedSampleRates": [
+   48000
+  ],
+  "outputHeaders": {
+   "10197164397713068203.wav": "1 ch,  48000 Hz, Int16",
+   "1043394666292127188.wav": "1 ch,  48000 Hz, Int16",
+   "1045619486290403122.wav": "1 ch,  48000 Hz, Int16"
+  },
+  "medianMsPerFile": 32,
+  "en-noisy": {
+   "files": 100,
+   "audioMinutes": 17.6,
+   "werVoz": 13.13,
+   "werWhisper": 11.68,
+   "vozLoadMs": 468,
+   "whisperLoadMs": 872,
+   "vozMs": 6672,
+   "whisperMs": 334865,
+   "vozRealtime": 157.9,
+   "whisperRealtime": 3.1,
+   "speedup": 50.2
+  },
+  "en-noisy+clear": {
+   "files": 100,
+   "audioMinutes": 17.6,
+   "werVoz": 48.53,
+   "werWhisper": 44.61,
+   "vozLoadMs": 502,
+   "whisperLoadMs": 865,
+   "vozMs": 7496,
+   "whisperMs": 347590,
+   "vozRealtime": 140.5,
+   "whisperRealtime": 3.0,
+   "speedup": 46.4
+  }
+ },
+ "ear": {
+  "controlled": true,
+  "files": 300,
+  "correct": 294,
+  "wrongButReliable": [
+   {
+    "id": "ru-1689",
+    "got": "uk",
+    "confidence": 0.86
+   },
+   {
+    "id": "ru-1724",
+    "got": "hr",
+    "confidence": 0.585
+   },
+   {
+    "id": "ru-1737",
+    "got": "uk",
+    "confidence": 0.941
+   }
+  ],
+  "medianMs": 31
+ },
+ "who": {
+  "controlled": true,
+  "firstLoadMs": 215,
+  "initiallyDownloaded": true,
+  "ES2004a": {
+   "audioMinutes": 17.5,
+   "refSpeakers": 4,
+   "whoSpeakers": 4,
+   "derNoCollar": 16.98,
+   "derCollar250ms": 10.62,
+   "runsMs": [
+    1343,
+    1264,
+    1269
+   ],
+   "sameOutputAllRuns": true
+  },
+  "IS1009a": {
+   "audioMinutes": 14.0,
+   "refSpeakers": 4,
+   "whoSpeakers": 4,
+   "derNoCollar": 22.19,
+   "derCollar250ms": 16.39,
+   "runsMs": [
+    1056,
+    1213,
+    1223
+   ],
+   "sameOutputAllRuns": true
+  }
+ }
+}

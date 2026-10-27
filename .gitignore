@@ -1,0 +1,21 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded models and generated benchmark data
+cache/
+models/
+data/manifest.json
+data/fleurs/
+data/ami/
+data/clear_controls/
+demo/
+
+# Swift build artifacts
+.build/
+native/.build/
+
+# Local application and video workspaces are deliberately not part of this repo
+anna-stand/
+video/

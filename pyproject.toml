@@ -1,0 +1,5 @@
+[project]
+name = "desertant-bench"
+version = "0.1.0"
+requires-python = ">=3.12,<3.14"
+dependencies = ["jiwer", "numpy", "soundfile", "pyannote.metrics", "mlx-lm", "onnxruntime", "tokenizers", "huggingface_hub"]

@@ -1,0 +1,249 @@
+[
+ {
+  "id": "ru-poc",
+  "language": "ru",
+  "tasks": [
+   "title",
+   "gist"
+  ],
+  "text": "Сейчас это промежуточный PoC. Набор полей зависит от источника, это не фиксированная схема продукта. До проверки на других компаниях не передаю его для утверждения требований и не обещаю срок масштабирования.",
+  "facts": "Промежуточный PoC; поля зависят от источника; передачи и срока пока нет."
+ },
+ {
+  "id": "en-date",
+  "language": "en",
+  "tasks": [
+   "title"
+  ],
+  "text": "The architecture review has moved from Tuesday to Thursday. Please do not publish the draft before the review. The deployment date has not been agreed.",
+  "facts": "Review is Thursday, not a Tuesday–Thursday event; no publishing before review; deployment date unknown."
+ },
+ {
+  "id": "en-condition",
+  "language": "en",
+  "tasks": [
+   "title"
+  ],
+  "text": "I can start the data migration only after security approves the access request. Approval has not arrived. This is not a commitment to deliver on Friday.",
+  "facts": "Conditional start; approval missing; Friday not promised."
+ },
+ {
+  "id": "fr-date",
+  "language": "fr",
+  "tasks": [
+   "title"
+  ],
+  "text": "La réunion est déplacée de mardi à jeudi. La version actuelle reste un prototype. La date de mise en production n’est pas encore décidée.",
+  "facts": "Réunion jeudi, pas mardi; prototype; aucune date de production."
+ },
+ {
+  "id": "ru-tech",
+  "language": "ru",
+  "tasks": [
+   "gist",
+   "title"
+  ],
+  "text": "Команда разрабатывает программное обеспечение: распределённый веб-краулер, API, базу данных и автоматические тесты. Нужно измерить производительность сервера и исправить ошибки обработки данных.",
+  "expected": {
+   "gist": [
+    "technology"
+   ]
+  }
+ },
+ {
+  "id": "en-tech",
+  "language": "en",
+  "tasks": [
+   "gist"
+  ],
+  "text": "Software engineers are building a distributed web crawler, a database and a REST API. They benchmark server performance, deploy code and write automated tests.",
+  "expected": {
+   "gist": [
+    "technology"
+   ]
+  }
+ },
+ {
+  "id": "fr-food",
+  "language": "fr",
+  "tasks": [
+   "gist"
+  ],
+  "text": "Recette de poulet rôti au four avec des pommes de terre. Ajouter du sel et de l’huile, puis cuire pendant quarante minutes. Un dîner simple pour toute la famille.",
+  "expected": {
+   "gist": [
+    "food-drink"
+   ]
+  }
+ },
+ {
+  "id": "en-sports",
+  "language": "en",
+  "tasks": [
+   "gist"
+  ],
+  "text": "Manchester United beat Arsenal 3-1 at Old Trafford. The football team scored twice in the second half and won the match.",
+  "expected": {
+   "gist": [
+    "sports"
+   ]
+  }
+ },
+ {
+  "id": "en-clean",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "I disagree with this architecture. We need load tests and a clear owner before setting a delivery date.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "en-abuse",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "You are an incompetent idiot. Stop wasting everyone’s time.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": true,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "en-threat",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "I will break your legs when I see you tomorrow.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": true
+   }
+  }
+ },
+ {
+  "id": "en-hate",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "All immigrants are vermin and should be driven out.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": true,
+    "ABUSIVE": true,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "en-quote",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "The message contained the words “you are an idiot”. Please keep the discussion respectful. I am reporting the insult, not endorsing it.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "en-counter-threat",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Do not threaten anyone. Saying “I will break your legs” is unacceptable. Please report threats to the moderator.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "en-positive-identity",
+  "language": "en",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Our Muslim and Jewish colleagues are welcome here. Everyone deserves respect and equal treatment.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "fr-clean",
+  "language": "fr",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Je ne suis pas d’accord avec cette décision technique. Vérifions les données avant de choisir la solution.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": false,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "fr-abuse",
+  "language": "fr",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Tu es un idiot incompétent. Arrête de faire perdre du temps à tout le monde.",
+  "expected": {
+   "toxic": {
+    "HATEFUL": false,
+    "ABUSIVE": true,
+    "THREAT": false
+   }
+  }
+ },
+ {
+  "id": "ru-clean",
+  "language": "ru",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Я не согласен с архитектурой. Сначала нужны нагрузочные тесты и согласование объёма работ.",
+  "expected": {
+   "toxic": null
+  }
+ },
+ {
+  "id": "ru-abuse",
+  "language": "ru",
+  "tasks": [
+   "toxic"
+  ],
+  "text": "Ты некомпетентный идиот. Хватит тратить время команды.",
+  "expected": {
+   "toxic": null
+  }
+ }
+]

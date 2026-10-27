@@ -1,0 +1,6646 @@
+{
+ "stage": "ear",
+ "passes": 1,
+ "sdk": "4.1.0",
+ "machine": {
+  "chip": "Apple M5",
+  "memoryBytes": 34359738368,
+  "os": "26.6.2",
+  "arch": "arm64"
+ },
+ "cooldownSeconds": 2,
+ "before": {
+  "at": "2026-10-24T17:10:18+0200",
+  "power": "ac",
+  "battery": "66",
+  "loadAverage": [
+   1.13,
+   1.06,
+   1.57
+  ],
+  "cpuIdlePercent": 96.7,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "after": {
+  "at": "2026-10-24T17:10:29+0200",
+  "power": "ac",
+  "battery": "67",
+  "loadAverage": [
+   1.64,
+   1.17,
+   1.6
+  ],
+  "cpuIdlePercent": 89.52,
+  "thermal": "Note: No thermal warning level has been recorded\nNote: No performance warning level has been recorded\nNote: No CPU power status has been recorded"
+ },
+ "controlled": true,
+ "data": {
+  "initiallyDownloaded": true,
+  "loadMs": 51.0925,
+  "model": "ear",
+  "revision": "v0.2.0",
+  "rows": [
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9973718068923295
+     },
+     {
+      "language": "cy",
+      "probability": 0.0014117370432521282
+     },
+     {
+      "language": "ga",
+      "probability": 0.0002822962439767314
+     }
+    ],
+    "confidence": 0.9973718068923295,
+    "id": "en-1660",
+    "inferenceMs": 38.782125,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998351835772228
+     },
+     {
+      "language": "no",
+      "probability": 2.247089076801502e-05
+     },
+     {
+      "language": "da",
+      "probability": 2.152579488221321e-05
+     }
+    ],
+    "confidence": 0.9998351835772228,
+    "id": "en-1661",
+    "inferenceMs": 37.266666,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9994118228648688
+     },
+     {
+      "language": "ga",
+      "probability": 0.0005607787847427035
+     },
+     {
+      "language": "pt",
+      "probability": 5.701352673261079e-06
+     }
+    ],
+    "confidence": 0.9994118228648688,
+    "id": "en-1662",
+    "inferenceMs": 35.785458,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9989925233937915
+     },
+     {
+      "language": "ga",
+      "probability": 0.0003727648850871962
+     },
+     {
+      "language": "pt",
+      "probability": 0.00012945465928900475
+     }
+    ],
+    "confidence": 0.9989925233937915,
+    "id": "en-1663",
+    "inferenceMs": 37.521459,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997973382047323
+     },
+     {
+      "language": "no",
+      "probability": 9.277262672373324e-05
+     },
+     {
+      "language": "cy",
+      "probability": 2.663176698054318e-05
+     }
+    ],
+    "confidence": 0.9997973382047323,
+    "id": "en-1664",
+    "inferenceMs": 36.716417,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999679672753667
+     },
+     {
+      "language": "hr",
+      "probability": 1.4063791626278475e-05
+     },
+     {
+      "language": "ga",
+      "probability": 3.5282112861879685e-06
+     }
+    ],
+    "confidence": 0.9999679672753667,
+    "id": "en-1665",
+    "inferenceMs": 34.56125,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9983505833925836
+     },
+     {
+      "language": "cy",
+      "probability": 0.0006845101887509592
+     },
+     {
+      "language": "no",
+      "probability": 0.00015758319319472453
+     }
+    ],
+    "confidence": 0.9983505833925836,
+    "id": "en-1666",
+    "inferenceMs": 32.016291,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9477271070891032
+     },
+     {
+      "language": "ca",
+      "probability": 0.008201948720484584
+     },
+     {
+      "language": "pt",
+      "probability": 0.007654862089125008
+     }
+    ],
+    "confidence": 0.9477271070891032,
+    "id": "en-1667",
+    "inferenceMs": 32.6015,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9988796813503248
+     },
+     {
+      "language": "hr",
+      "probability": 0.0003929055683063234
+     },
+     {
+      "language": "sl",
+      "probability": 0.00011602929894063175
+     }
+    ],
+    "confidence": 0.9988796813503248,
+    "id": "en-1668",
+    "inferenceMs": 31.163208,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9996369892135006
+     },
+     {
+      "language": "ga",
+      "probability": 0.0003162565436697166
+     },
+     {
+      "language": "ceb",
+      "probability": 1.0737488660809082e-05
+     }
+    ],
+    "confidence": 0.9996369892135006,
+    "id": "en-1669",
+    "inferenceMs": 29.425917,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9601606216772794
+     },
+     {
+      "language": "ga",
+      "probability": 0.03909242482433679
+     },
+     {
+      "language": "pt",
+      "probability": 0.00014489766558838427
+     }
+    ],
+    "confidence": 0.9601606216772794,
+    "id": "en-1670",
+    "inferenceMs": 31.546625,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9941803958177
+     },
+     {
+      "language": "af",
+      "probability": 0.0017924068039389708
+     },
+     {
+      "language": "no",
+      "probability": 0.0009659871350772351
+     }
+    ],
+    "confidence": 0.9941803958177,
+    "id": "en-1671",
+    "inferenceMs": 31.015375,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.7493687877165831
+     },
+     {
+      "language": "ga",
+      "probability": 0.24519252929462187
+     },
+     {
+      "language": "mi",
+      "probability": 0.003229021770202254
+     }
+    ],
+    "confidence": 0.7493687877165831,
+    "id": "en-1672",
+    "inferenceMs": 28.959083,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.999852463358768
+     },
+     {
+      "language": "hr",
+      "probability": 6.996395619510726e-05
+     },
+     {
+      "language": "fr",
+      "probability": 1.8304737121334175e-05
+     }
+    ],
+    "confidence": 0.999852463358768,
+    "id": "en-1673",
+    "inferenceMs": 29.379166,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999959680255651
+     },
+     {
+      "language": "hr",
+      "probability": 9.096915217590741e-07
+     },
+     {
+      "language": "de",
+      "probability": 6.012693807306091e-07
+     }
+    ],
+    "confidence": 0.9999959680255651,
+    "id": "en-1674",
+    "inferenceMs": 29.299667,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999448128550196
+     },
+     {
+      "language": "no",
+      "probability": 1.3211403647136541e-05
+     },
+     {
+      "language": "pt",
+      "probability": 9.368288004860514e-06
+     }
+    ],
+    "confidence": 0.9999448128550196,
+    "id": "en-1675",
+    "inferenceMs": 28.988625,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9976188883271369
+     },
+     {
+      "language": "ga",
+      "probability": 0.00216741538414711
+     },
+     {
+      "language": "cy",
+      "probability": 7.188306269389505e-05
+     }
+    ],
+    "confidence": 0.9976188883271369,
+    "id": "en-1676",
+    "inferenceMs": 30.988583,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999923003218418
+     },
+     {
+      "language": "cy",
+      "probability": 1.5056923991094889e-06
+     },
+     {
+      "language": "de",
+      "probability": 1.0887542015726358e-06
+     }
+    ],
+    "confidence": 0.9999923003218418,
+    "id": "en-1677",
+    "inferenceMs": 30.869166,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999404079904758
+     },
+     {
+      "language": "de",
+      "probability": 1.7708499360407754e-05
+     },
+     {
+      "language": "cs",
+      "probability": 7.873461804175342e-06
+     }
+    ],
+    "confidence": 0.9999404079904758,
+    "id": "en-1678",
+    "inferenceMs": 29.169292,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9804066054138931
+     },
+     {
+      "language": "no",
+      "probability": 0.018088775501166304
+     },
+     {
+      "language": "ga",
+      "probability": 0.0009498171981526248
+     }
+    ],
+    "confidence": 0.9804066054138931,
+    "id": "en-1679",
+    "inferenceMs": 29.075917,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.999744440769158
+     },
+     {
+      "language": "no",
+      "probability": 5.353277207825076e-05
+     },
+     {
+      "language": "cy",
+      "probability": 3.231111265394933e-05
+     }
+    ],
+    "confidence": 0.999744440769158,
+    "id": "en-1680",
+    "inferenceMs": 29.261292,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.5665035777600775
+     },
+     {
+      "language": "tr",
+      "probability": 0.07090623681284072
+     },
+     {
+      "language": "no",
+      "probability": 0.061544274938787356
+     }
+    ],
+    "confidence": 0.5665035777600775,
+    "id": "en-1681",
+    "inferenceMs": 29.328458,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9987055139222782
+     },
+     {
+      "language": "ga",
+      "probability": 0.0012508743250343774
+     },
+     {
+      "language": "cy",
+      "probability": 1.5098657888519705e-05
+     }
+    ],
+    "confidence": 0.9987055139222782,
+    "id": "en-1682",
+    "inferenceMs": 30.840667,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9968013264594109
+     },
+     {
+      "language": "ga",
+      "probability": 0.0004995331414976078
+     },
+     {
+      "language": "nl",
+      "probability": 0.00040177832562477144
+     }
+    ],
+    "confidence": 0.9968013264594109,
+    "id": "en-1683",
+    "inferenceMs": 28.932208,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998383460488918
+     },
+     {
+      "language": "da",
+      "probability": 3.562905265821144e-05
+     },
+     {
+      "language": "mi",
+      "probability": 2.4921715103918295e-05
+     }
+    ],
+    "confidence": 0.9998383460488918,
+    "id": "en-1684",
+    "inferenceMs": 30.791459,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9889925765003557
+     },
+     {
+      "language": "sk",
+      "probability": 0.0009856578556601465
+     },
+     {
+      "language": "hr",
+      "probability": 0.0009000847985620298
+     }
+    ],
+    "confidence": 0.9889925765003557,
+    "id": "en-1685",
+    "inferenceMs": 28.876666,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999952914987136
+     },
+     {
+      "language": "no",
+      "probability": 8.680331267876801e-07
+     },
+     {
+      "language": "de",
+      "probability": 7.224412692404741e-07
+     }
+    ],
+    "confidence": 0.9999952914987136,
+    "id": "en-1686",
+    "inferenceMs": 30.696792,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "sd",
+      "probability": 0.23915901822707533
+     },
+     {
+      "language": "nso",
+      "probability": 0.23089716284649556
+     },
+     {
+      "language": "hi",
+      "probability": 0.05822337358131853
+     }
+    ],
+    "confidence": 0.23915901822707533,
+    "id": "en-1687",
+    "inferenceMs": 29.001042,
+    "language": "sd",
+    "reliable": false,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.8220165242996795
+     },
+     {
+      "language": "my",
+      "probability": 0.03523719829229315
+     },
+     {
+      "language": "sd",
+      "probability": 0.024765242585031374
+     }
+    ],
+    "confidence": 0.8220165242996795,
+    "id": "en-1688",
+    "inferenceMs": 29.15725,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997492137588513
+     },
+     {
+      "language": "ga",
+      "probability": 0.00010941440485674391
+     },
+     {
+      "language": "cy",
+      "probability": 4.756678579545462e-05
+     }
+    ],
+    "confidence": 0.9997492137588513,
+    "id": "en-1689",
+    "inferenceMs": 29.361333,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9603640468694621
+     },
+     {
+      "language": "ga",
+      "probability": 0.039177150367902626
+     },
+     {
+      "language": "af",
+      "probability": 0.00015639915996812947
+     }
+    ],
+    "confidence": 0.9603640468694621,
+    "id": "en-1690",
+    "inferenceMs": 29.089583,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999660760281832
+     },
+     {
+      "language": "ga",
+      "probability": 1.4481884281322983e-05
+     },
+     {
+      "language": "cy",
+      "probability": 6.060575474837602e-06
+     }
+    ],
+    "confidence": 0.9999660760281832,
+    "id": "en-1691",
+    "inferenceMs": 29.187708,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998182759857986
+     },
+     {
+      "language": "pt",
+      "probability": 4.280843092578708e-05
+     },
+     {
+      "language": "fr",
+      "probability": 4.149135396905777e-05
+     }
+    ],
+    "confidence": 0.9998182759857986,
+    "id": "en-1692",
+    "inferenceMs": 30.841084,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.997151521287406
+     },
+     {
+      "language": "pt",
+      "probability": 0.0017492718412537758
+     },
+     {
+      "language": "sk",
+      "probability": 0.0002529928277763657
+     }
+    ],
+    "confidence": 0.997151521287406,
+    "id": "en-1693",
+    "inferenceMs": 29.105291,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9988733708822058
+     },
+     {
+      "language": "no",
+      "probability": 0.00030242830200816206
+     },
+     {
+      "language": "ga",
+      "probability": 0.00019469116692318001
+     }
+    ],
+    "confidence": 0.9988733708822058,
+    "id": "en-1694",
+    "inferenceMs": 30.705708,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.99947473090584
+     },
+     {
+      "language": "cy",
+      "probability": 0.0005052328087932727
+     },
+     {
+      "language": "da",
+      "probability": 6.069440346286783e-06
+     }
+    ],
+    "confidence": 0.99947473090584,
+    "id": "en-1695",
+    "inferenceMs": 29.134875,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999495997666703
+     },
+     {
+      "language": "no",
+      "probability": 2.273837228672574e-05
+     },
+     {
+      "language": "hr",
+      "probability": 5.828302440996356e-06
+     }
+    ],
+    "confidence": 0.9999495997666703,
+    "id": "en-1696",
+    "inferenceMs": 28.8425,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999851052061065
+     },
+     {
+      "language": "cy",
+      "probability": 4.975660686299362e-06
+     },
+     {
+      "language": "no",
+      "probability": 4.785046118791697e-06
+     }
+    ],
+    "confidence": 0.9999851052061065,
+    "id": "en-1697",
+    "inferenceMs": 28.913291,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9971216939359806
+     },
+     {
+      "language": "no",
+      "probability": 0.0005308832686963517
+     },
+     {
+      "language": "da",
+      "probability": 0.0003130058409698543
+     }
+    ],
+    "confidence": 0.9971216939359806,
+    "id": "en-1698",
+    "inferenceMs": 28.907584,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9970423869748252
+     },
+     {
+      "language": "pt",
+      "probability": 0.0008942156810600754
+     },
+     {
+      "language": "fr",
+      "probability": 0.0005040647905857315
+     }
+    ],
+    "confidence": 0.9970423869748252,
+    "id": "en-1699",
+    "inferenceMs": 30.842875,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9973389996632634
+     },
+     {
+      "language": "pt",
+      "probability": 0.0007173338288381292
+     },
+     {
+      "language": "ga",
+      "probability": 0.0004963976210297223
+     }
+    ],
+    "confidence": 0.9973389996632634,
+    "id": "en-1700",
+    "inferenceMs": 28.793458,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999528805020301
+     },
+     {
+      "language": "no",
+      "probability": 2.6532066613785955e-05
+     },
+     {
+      "language": "cy",
+      "probability": 7.858196972824471e-06
+     }
+    ],
+    "confidence": 0.9999528805020301,
+    "id": "en-1701",
+    "inferenceMs": 29.005209,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999746711561994
+     },
+     {
+      "language": "ga",
+      "probability": 2.126759276226978e-05
+     },
+     {
+      "language": "cy",
+      "probability": 1.0844904320571167e-06
+     }
+    ],
+    "confidence": 0.9999746711561994,
+    "id": "en-1702",
+    "inferenceMs": 30.775834,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999574429778175
+     },
+     {
+      "language": "ga",
+      "probability": 1.929795728273405e-05
+     },
+     {
+      "language": "nl",
+      "probability": 6.131962680926807e-06
+     }
+    ],
+    "confidence": 0.9999574429778175,
+    "id": "en-1703",
+    "inferenceMs": 30.784334,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9856666250199192
+     },
+     {
+      "language": "fr",
+      "probability": 0.0034270406180369273
+     },
+     {
+      "language": "it",
+      "probability": 0.001058025173289129
+     }
+    ],
+    "confidence": 0.9856666250199192,
+    "id": "en-1704",
+    "inferenceMs": 28.896333,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9820550121021365
+     },
+     {
+      "language": "no",
+      "probability": 0.0017499184769599026
+     },
+     {
+      "language": "sl",
+      "probability": 0.0014282418356229539
+     }
+    ],
+    "confidence": 0.9820550121021365,
+    "id": "en-1705",
+    "inferenceMs": 29.061625,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9981063509415808
+     },
+     {
+      "language": "no",
+      "probability": 0.0013242679745130482
+     },
+     {
+      "language": "ga",
+      "probability": 0.00021199948887153366
+     }
+    ],
+    "confidence": 0.9981063509415808,
+    "id": "en-1706",
+    "inferenceMs": 30.959209,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.42581698900837606
+     },
+     {
+      "language": "no",
+      "probability": 0.04523278477049587
+     },
+     {
+      "language": "bg",
+      "probability": 0.035642576797222006
+     }
+    ],
+    "confidence": 0.42581698900837606,
+    "id": "en-1707",
+    "inferenceMs": 29.010709,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997668026859334
+     },
+     {
+      "language": "no",
+      "probability": 0.0001237430231106345
+     },
+     {
+      "language": "de",
+      "probability": 1.4478998329937235e-05
+     }
+    ],
+    "confidence": 0.9997668026859334,
+    "id": "en-1708",
+    "inferenceMs": 28.96225,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999944756632513
+     },
+     {
+      "language": "de",
+      "probability": 1.5534915858959676e-06
+     },
+     {
+      "language": "hr",
+      "probability": 1.020796452730122e-06
+     }
+    ],
+    "confidence": 0.9999944756632513,
+    "id": "en-1709",
+    "inferenceMs": 29.0285,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9903094314173925
+     },
+     {
+      "language": "no",
+      "probability": 0.009490700013277422
+     },
+     {
+      "language": "da",
+      "probability": 3.302216426017914e-05
+     }
+    ],
+    "confidence": 0.9903094314173925,
+    "id": "en-1710",
+    "inferenceMs": 30.929417,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998969720929616
+     },
+     {
+      "language": "fr",
+      "probability": 1.3445045175661342e-05
+     },
+     {
+      "language": "ms",
+      "probability": 1.0994979667435577e-05
+     }
+    ],
+    "confidence": 0.9998969720929616,
+    "id": "en-1711",
+    "inferenceMs": 29.153584,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9996779833650505
+     },
+     {
+      "language": "ga",
+      "probability": 0.0001310705023712204
+     },
+     {
+      "language": "cy",
+      "probability": 4.700926638810398e-05
+     }
+    ],
+    "confidence": 0.9996779833650505,
+    "id": "en-1712",
+    "inferenceMs": 29.011208,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9953843491447216
+     },
+     {
+      "language": "no",
+      "probability": 0.003233731571237309
+     },
+     {
+      "language": "hy",
+      "probability": 0.00025552138304007533
+     }
+    ],
+    "confidence": 0.9953843491447216,
+    "id": "en-1713",
+    "inferenceMs": 28.968833,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997247237441145
+     },
+     {
+      "language": "ga",
+      "probability": 0.00018381262280953078
+     },
+     {
+      "language": "cy",
+      "probability": 3.943328449504988e-05
+     }
+    ],
+    "confidence": 0.9997247237441145,
+    "id": "en-1714",
+    "inferenceMs": 29.01475,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998401264065809
+     },
+     {
+      "language": "cy",
+      "probability": 4.965973389808412e-05
+     },
+     {
+      "language": "no",
+      "probability": 4.005889200988545e-05
+     }
+    ],
+    "confidence": 0.9998401264065809,
+    "id": "en-1715",
+    "inferenceMs": 28.812291,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9944244438900104
+     },
+     {
+      "language": "pt",
+      "probability": 0.001182687180980639
+     },
+     {
+      "language": "fr",
+      "probability": 0.0010684688276766878
+     }
+    ],
+    "confidence": 0.9944244438900104,
+    "id": "en-1716",
+    "inferenceMs": 29.081542,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9996765605301547
+     },
+     {
+      "language": "no",
+      "probability": 0.00013629156362831988
+     },
+     {
+      "language": "ga",
+      "probability": 4.888183309856385e-05
+     }
+    ],
+    "confidence": 0.9996765605301547,
+    "id": "en-1717",
+    "inferenceMs": 29.079167,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997877675721633
+     },
+     {
+      "language": "ga",
+      "probability": 9.15120061119564e-05
+     },
+     {
+      "language": "nl",
+      "probability": 2.976768184035258e-05
+     }
+    ],
+    "confidence": 0.9997877675721633,
+    "id": "en-1718",
+    "inferenceMs": 28.950791,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "kam",
+      "probability": 0.10759317050134401
+     },
+     {
+      "language": "lg",
+      "probability": 0.08203261730295487
+     },
+     {
+      "language": "nso",
+      "probability": 0.07487412321705587
+     }
+    ],
+    "confidence": 0.10759317050134401,
+    "id": "en-1719",
+    "inferenceMs": 29.840583,
+    "language": "kam",
+    "reliable": false,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998995984084657
+     },
+     {
+      "language": "no",
+      "probability": 5.613797473822438e-05
+     },
+     {
+      "language": "ga",
+      "probability": 2.0282249381751455e-05
+     }
+    ],
+    "confidence": 0.9998995984084657,
+    "id": "en-1720",
+    "inferenceMs": 28.911875,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9952814122042867
+     },
+     {
+      "language": "no",
+      "probability": 0.002582928831305153
+     },
+     {
+      "language": "hr",
+      "probability": 0.0012284582139313676
+     }
+    ],
+    "confidence": 0.9952814122042867,
+    "id": "en-1721",
+    "inferenceMs": 31.016541,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9997721991404833
+     },
+     {
+      "language": "hr",
+      "probability": 0.00011624643980372516
+     },
+     {
+      "language": "pt",
+      "probability": 3.32077316938421e-05
+     }
+    ],
+    "confidence": 0.9997721991404833,
+    "id": "en-1722",
+    "inferenceMs": 29.179334,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9941802170219114
+     },
+     {
+      "language": "ga",
+      "probability": 0.005335483094491675
+     },
+     {
+      "language": "cy",
+      "probability": 0.00020587144056693693
+     }
+    ],
+    "confidence": 0.9941802170219114,
+    "id": "en-1723",
+    "inferenceMs": 28.758541,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9994192986715227
+     },
+     {
+      "language": "ga",
+      "probability": 0.0005576428760795423
+     },
+     {
+      "language": "cy",
+      "probability": 8.917151552932211e-06
+     }
+    ],
+    "confidence": 0.9994192986715227,
+    "id": "en-1724",
+    "inferenceMs": 28.814916,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9992473587030922
+     },
+     {
+      "language": "de",
+      "probability": 0.00018171743865638958
+     },
+     {
+      "language": "no",
+      "probability": 0.00014587154173627016
+     }
+    ],
+    "confidence": 0.9992473587030922,
+    "id": "en-1725",
+    "inferenceMs": 29.244334,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.998609809435217
+     },
+     {
+      "language": "de",
+      "probability": 0.0006533337819328159
+     },
+     {
+      "language": "no",
+      "probability": 0.0002982429618930673
+     }
+    ],
+    "confidence": 0.998609809435217,
+    "id": "en-1726",
+    "inferenceMs": 29.038875,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9993748870531773
+     },
+     {
+      "language": "ga",
+      "probability": 0.0001614856847722465
+     },
+     {
+      "language": "hr",
+      "probability": 0.00011676901463645678
+     }
+    ],
+    "confidence": 0.9993748870531773,
+    "id": "en-1727",
+    "inferenceMs": 30.697417,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.998951662911112
+     },
+     {
+      "language": "no",
+      "probability": 0.00048663217293217447
+     },
+     {
+      "language": "cy",
+      "probability": 0.0001478358144268225
+     }
+    ],
+    "confidence": 0.998951662911112,
+    "id": "en-1728",
+    "inferenceMs": 28.892792,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999714203959582
+     },
+     {
+      "language": "de",
+      "probability": 3.5698130517072815e-06
+     },
+     {
+      "language": "hr",
+      "probability": 3.1999597383209536e-06
+     }
+    ],
+    "confidence": 0.9999714203959582,
+    "id": "en-1729",
+    "inferenceMs": 29.168417,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9988669450684013
+     },
+     {
+      "language": "no",
+      "probability": 0.0004904072829936234
+     },
+     {
+      "language": "ga",
+      "probability": 0.00016140360810582358
+     }
+    ],
+    "confidence": 0.9988669450684013,
+    "id": "en-1730",
+    "inferenceMs": 29.030917,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9906808161102708
+     },
+     {
+      "language": "ga",
+      "probability": 0.007156152512410598
+     },
+     {
+      "language": "pt",
+      "probability": 0.0005708710223245696
+     }
+    ],
+    "confidence": 0.9906808161102708,
+    "id": "en-1731",
+    "inferenceMs": 30.714417,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9979841557674775
+     },
+     {
+      "language": "no",
+      "probability": 0.001184749483031947
+     },
+     {
+      "language": "ga",
+      "probability": 9.535753029056786e-05
+     }
+    ],
+    "confidence": 0.9979841557674775,
+    "id": "en-1732",
+    "inferenceMs": 29.040166,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9985239031306853
+     },
+     {
+      "language": "ga",
+      "probability": 0.001276559689143055
+     },
+     {
+      "language": "cy",
+      "probability": 3.839847501256805e-05
+     }
+    ],
+    "confidence": 0.9985239031306853,
+    "id": "en-1733",
+    "inferenceMs": 30.808333,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.3156223217705911
+     },
+     {
+      "language": "no",
+      "probability": 0.1512709624021185
+     },
+     {
+      "language": "da",
+      "probability": 0.1369123905712826
+     }
+    ],
+    "confidence": 0.3156223217705911,
+    "id": "en-1734",
+    "inferenceMs": 32.549917,
+    "language": "en",
+    "reliable": false,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9971306217827636
+     },
+     {
+      "language": "no",
+      "probability": 0.0018475605571782953
+     },
+     {
+      "language": "ga",
+      "probability": 0.00022721990775955288
+     }
+    ],
+    "confidence": 0.9971306217827636,
+    "id": "en-1735",
+    "inferenceMs": 29.935042,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.999633034255923
+     },
+     {
+      "language": "nl",
+      "probability": 0.00011956898975019985
+     },
+     {
+      "language": "de",
+      "probability": 4.205472094318142e-05
+     }
+    ],
+    "confidence": 0.999633034255923,
+    "id": "en-1736",
+    "inferenceMs": 31.450667,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9764144622973475
+     },
+     {
+      "language": "no",
+      "probability": 0.015237064296909346
+     },
+     {
+      "language": "hr",
+      "probability": 0.0019561857381646818
+     }
+    ],
+    "confidence": 0.9764144622973475,
+    "id": "en-1737",
+    "inferenceMs": 30.917542,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998141583911926
+     },
+     {
+      "language": "cy",
+      "probability": 2.678872122402312e-05
+     },
+     {
+      "language": "no",
+      "probability": 2.5462319663293368e-05
+     }
+    ],
+    "confidence": 0.9998141583911926,
+    "id": "en-1738",
+    "inferenceMs": 29.399458,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999125545115203
+     },
+     {
+      "language": "cy",
+      "probability": 2.8742930997204473e-05
+     },
+     {
+      "language": "no",
+      "probability": 1.221815681200654e-05
+     }
+    ],
+    "confidence": 0.9999125545115203,
+    "id": "en-1739",
+    "inferenceMs": 29.8745,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9876230328543169
+     },
+     {
+      "language": "ca",
+      "probability": 0.001966121455901873
+     },
+     {
+      "language": "cy",
+      "probability": 0.0018112759614554185
+     }
+    ],
+    "confidence": 0.9876230328543169,
+    "id": "en-1740",
+    "inferenceMs": 31.230125,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9993956820795652
+     },
+     {
+      "language": "ga",
+      "probability": 0.00036821096831527594
+     },
+     {
+      "language": "cy",
+      "probability": 0.00016612784123305266
+     }
+    ],
+    "confidence": 0.9993956820795652,
+    "id": "en-1741",
+    "inferenceMs": 29.447375,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.997499189971677
+     },
+     {
+      "language": "ga",
+      "probability": 0.0014157142148133854
+     },
+     {
+      "language": "no",
+      "probability": 0.0006368672933562311
+     }
+    ],
+    "confidence": 0.997499189971677,
+    "id": "en-1742",
+    "inferenceMs": 30.956292,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999218828141765
+     },
+     {
+      "language": "no",
+      "probability": 2.3163572069057295e-05
+     },
+     {
+      "language": "de",
+      "probability": 1.5087550562876198e-05
+     }
+    ],
+    "confidence": 0.9999218828141765,
+    "id": "en-1743",
+    "inferenceMs": 29.94775,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9998850611072315
+     },
+     {
+      "language": "no",
+      "probability": 3.898012350388623e-05
+     },
+     {
+      "language": "pt",
+      "probability": 2.255996471248024e-05
+     }
+    ],
+    "confidence": 0.9998850611072315,
+    "id": "en-1744",
+    "inferenceMs": 29.622,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.999977261048244
+     },
+     {
+      "language": "de",
+      "probability": 7.353492119962391e-06
+     },
+     {
+      "language": "no",
+      "probability": 5.053976295724049e-06
+     }
+    ],
+    "confidence": 0.999977261048244,
+    "id": "en-1745",
+    "inferenceMs": 29.454291,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9993548526690963
+     },
+     {
+      "language": "pt",
+      "probability": 0.0004986167969186987
+     },
+     {
+      "language": "ga",
+      "probability": 4.0274744189044773e-05
+     }
+    ],
+    "confidence": 0.9993548526690963,
+    "id": "en-1746",
+    "inferenceMs": 31.190125,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9844165641371062
+     },
+     {
+      "language": "hr",
+      "probability": 0.0021179477608704077
+     },
+     {
+      "language": "sk",
+      "probability": 0.0018509184169674749
+     }
+    ],
+    "confidence": 0.9844165641371062,
+    "id": "en-1747",
+    "inferenceMs": 29.282583,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999830339652359
+     },
+     {
+      "language": "ga",
+      "probability": 1.3913733922118604e-05
+     },
+     {
+      "language": "de",
+      "probability": 9.008394003964212e-07
+     }
+    ],
+    "confidence": 0.9999830339652359,
+    "id": "en-1748",
+    "inferenceMs": 29.719625,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.4965508501937888
+     },
+     {
+      "language": "sd",
+      "probability": 0.07958895672972943
+     },
+     {
+      "language": "my",
+      "probability": 0.05592609630948394
+     }
+    ],
+    "confidence": 0.4965508501937888,
+    "id": "en-1749",
+    "inferenceMs": 31.691833,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999485766279043
+     },
+     {
+      "language": "de",
+      "probability": 2.4973190844944502e-05
+     },
+     {
+      "language": "hr",
+      "probability": 9.350043617565214e-06
+     }
+    ],
+    "confidence": 0.9999485766279043,
+    "id": "en-1750",
+    "inferenceMs": 29.37425,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999571487282506
+     },
+     {
+      "language": "no",
+      "probability": 2.732098821155362e-05
+     },
+     {
+      "language": "ga",
+      "probability": 2.791014656194053e-06
+     }
+    ],
+    "confidence": 0.9999571487282506,
+    "id": "en-1751",
+    "inferenceMs": 31.353375,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9950442270129048
+     },
+     {
+      "language": "ga",
+      "probability": 0.0043969546901653995
+     },
+     {
+      "language": "af",
+      "probability": 0.0001728353382825978
+     }
+    ],
+    "confidence": 0.9950442270129048,
+    "id": "en-1752",
+    "inferenceMs": 29.4035,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.39213255312862383
+     },
+     {
+      "language": "ml",
+      "probability": 0.11077496568069845
+     },
+     {
+      "language": "my",
+      "probability": 0.08784977458138467
+     }
+    ],
+    "confidence": 0.39213255312862383,
+    "id": "en-1753",
+    "inferenceMs": 29.740709,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9524408383877109
+     },
+     {
+      "language": "tr",
+      "probability": 0.006720553863268305
+     },
+     {
+      "language": "no",
+      "probability": 0.006085148395612883
+     }
+    ],
+    "confidence": 0.9524408383877109,
+    "id": "en-1754",
+    "inferenceMs": 29.511583,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9782963204150943
+     },
+     {
+      "language": "no",
+      "probability": 0.0041573386013678435
+     },
+     {
+      "language": "lt",
+      "probability": 0.003095511735917566
+     }
+    ],
+    "confidence": 0.9782963204150943,
+    "id": "en-1755",
+    "inferenceMs": 31.826834,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9999764595416987
+     },
+     {
+      "language": "cy",
+      "probability": 4.81312418618493e-06
+     },
+     {
+      "language": "de",
+      "probability": 3.675963011301614e-06
+     }
+    ],
+    "confidence": 0.9999764595416987,
+    "id": "en-1756",
+    "inferenceMs": 29.150958,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9823791773380024
+     },
+     {
+      "language": "ga",
+      "probability": 0.0043494764714275425
+     },
+     {
+      "language": "pt",
+      "probability": 0.002236733234539548
+     }
+    ],
+    "confidence": 0.9823791773380024,
+    "id": "en-1757",
+    "inferenceMs": 29.157042,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.998144704835245
+     },
+     {
+      "language": "sk",
+      "probability": 0.0007861669422586628
+     },
+     {
+      "language": "cy",
+      "probability": 0.00038690716851141947
+     }
+    ],
+    "confidence": 0.998144704835245,
+    "id": "en-1758",
+    "inferenceMs": 29.371917,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "en",
+      "probability": 0.9981987182671659
+     },
+     {
+      "language": "ga",
+      "probability": 0.0006134976305582143
+     },
+     {
+      "language": "no",
+      "probability": 0.0005969495786616821
+     }
+    ],
+    "confidence": 0.9981987182671659,
+    "id": "en-1759",
+    "inferenceMs": 29.616042,
+    "language": "en",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9982641235141977
+     },
+     {
+      "language": "be",
+      "probability": 0.0008996937459155212
+     },
+     {
+      "language": "uk",
+      "probability": 0.0008017686084532513
+     }
+    ],
+    "confidence": 0.9982641235141977,
+    "id": "ru-1660",
+    "inferenceMs": 29.621208,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999364064931848
+     },
+     {
+      "language": "uk",
+      "probability": 2.2916409189204956e-05
+     },
+     {
+      "language": "be",
+      "probability": 1.626604449067314e-05
+     }
+    ],
+    "confidence": 0.9999364064931848,
+    "id": "ru-1661",
+    "inferenceMs": 31.328708,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.999990787684511
+     },
+     {
+      "language": "uk",
+      "probability": 8.732606082246594e-06
+     },
+     {
+      "language": "be",
+      "probability": 4.7193929951284317e-07
+     }
+    ],
+    "confidence": 0.999990787684511,
+    "id": "ru-1662",
+    "inferenceMs": 29.405917,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9993698784666434
+     },
+     {
+      "language": "be",
+      "probability": 0.0006142174311292176
+     },
+     {
+      "language": "uk",
+      "probability": 1.5802888469045014e-05
+     }
+    ],
+    "confidence": 0.9993698784666434,
+    "id": "ru-1663",
+    "inferenceMs": 31.404167,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9785848321205057
+     },
+     {
+      "language": "be",
+      "probability": 0.015270933177206064
+     },
+     {
+      "language": "uk",
+      "probability": 0.006098131904816494
+     }
+    ],
+    "confidence": 0.9785848321205057,
+    "id": "ru-1664",
+    "inferenceMs": 29.252958,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.962829255838769
+     },
+     {
+      "language": "be",
+      "probability": 0.028961571821614497
+     },
+     {
+      "language": "uk",
+      "probability": 0.008168986433697017
+     }
+    ],
+    "confidence": 0.962829255838769,
+    "id": "ru-1665",
+    "inferenceMs": 30.724125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9926000415590188
+     },
+     {
+      "language": "uk",
+      "probability": 0.006307466276972725
+     },
+     {
+      "language": "be",
+      "probability": 0.0009960387963696298
+     }
+    ],
+    "confidence": 0.9926000415590188,
+    "id": "ru-1666",
+    "inferenceMs": 30.49625,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9991832264963432
+     },
+     {
+      "language": "be",
+      "probability": 0.0006460929964142851
+     },
+     {
+      "language": "uk",
+      "probability": 0.00016723181283760438
+     }
+    ],
+    "confidence": 0.9991832264963432,
+    "id": "ru-1667",
+    "inferenceMs": 29.003458,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "uk",
+      "probability": 0.6093066851751489
+     },
+     {
+      "language": "ru",
+      "probability": 0.3842849094185387
+     },
+     {
+      "language": "be",
+      "probability": 0.0063835730455969
+     }
+    ],
+    "confidence": 0.6093066851751489,
+    "id": "ru-1668",
+    "inferenceMs": 30.865084,
+    "language": "uk",
+    "reliable": false,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9570335615605986
+     },
+     {
+      "language": "be",
+      "probability": 0.04139720888779408
+     },
+     {
+      "language": "uk",
+      "probability": 0.0014961587053498777
+     }
+    ],
+    "confidence": 0.9570335615605986,
+    "id": "ru-1669",
+    "inferenceMs": 28.815167,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9790863292182315
+     },
+     {
+      "language": "be",
+      "probability": 0.020162154744562545
+     },
+     {
+      "language": "kk",
+      "probability": 0.00035245809623945216
+     }
+    ],
+    "confidence": 0.9790863292182315,
+    "id": "ru-1670",
+    "inferenceMs": 31.00125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9995648917581731
+     },
+     {
+      "language": "uk",
+      "probability": 0.00017277486999687044
+     },
+     {
+      "language": "bg",
+      "probability": 0.00013719435871692765
+     }
+    ],
+    "confidence": 0.9995648917581731,
+    "id": "ru-1671",
+    "inferenceMs": 28.9905,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9986472761496613
+     },
+     {
+      "language": "be",
+      "probability": 0.00126925852244529
+     },
+     {
+      "language": "uk",
+      "probability": 7.496989296856512e-05
+     }
+    ],
+    "confidence": 0.9986472761496613,
+    "id": "ru-1672",
+    "inferenceMs": 30.580083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9964086192814227
+     },
+     {
+      "language": "be",
+      "probability": 0.00229317812692398
+     },
+     {
+      "language": "uk",
+      "probability": 0.0012913910022836251
+     }
+    ],
+    "confidence": 0.9964086192814227,
+    "id": "ru-1673",
+    "inferenceMs": 29.0275,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9907650954429159
+     },
+     {
+      "language": "be",
+      "probability": 0.006597948176394021
+     },
+     {
+      "language": "uk",
+      "probability": 0.0026244824595374637
+     }
+    ],
+    "confidence": 0.9907650954429159,
+    "id": "ru-1674",
+    "inferenceMs": 28.96675,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9986347678480666
+     },
+     {
+      "language": "be",
+      "probability": 0.0011692810982868267
+     },
+     {
+      "language": "uk",
+      "probability": 0.000194644660624682
+     }
+    ],
+    "confidence": 0.9986347678480666,
+    "id": "ru-1675",
+    "inferenceMs": 28.923333,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.999761966722952
+     },
+     {
+      "language": "be",
+      "probability": 0.00011830668861891812
+     },
+     {
+      "language": "uk",
+      "probability": 0.0001006018788419741
+     }
+    ],
+    "confidence": 0.999761966722952,
+    "id": "ru-1676",
+    "inferenceMs": 28.917875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9706482401941183
+     },
+     {
+      "language": "be",
+      "probability": 0.01899869679641669
+     },
+     {
+      "language": "uk",
+      "probability": 0.010329412281248606
+     }
+    ],
+    "confidence": 0.9706482401941183,
+    "id": "ru-1677",
+    "inferenceMs": 28.856625,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9996023174904807
+     },
+     {
+      "language": "be",
+      "probability": 0.000330130422592216
+     },
+     {
+      "language": "uk",
+      "probability": 4.90814879878057e-05
+     }
+    ],
+    "confidence": 0.9996023174904807,
+    "id": "ru-1678",
+    "inferenceMs": 28.964667,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9546656759982116
+     },
+     {
+      "language": "uk",
+      "probability": 0.04097342565071457
+     },
+     {
+      "language": "lv",
+      "probability": 0.0019394154094421398
+     }
+    ],
+    "confidence": 0.9546656759982116,
+    "id": "ru-1679",
+    "inferenceMs": 28.870625,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.991647756587614
+     },
+     {
+      "language": "be",
+      "probability": 0.0066556206628967515
+     },
+     {
+      "language": "uk",
+      "probability": 0.0016960028370250648
+     }
+    ],
+    "confidence": 0.991647756587614,
+    "id": "ru-1680",
+    "inferenceMs": 28.986583,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9997979434788703
+     },
+     {
+      "language": "be",
+      "probability": 0.00017400055363624644
+     },
+     {
+      "language": "uk",
+      "probability": 2.5762043616470348e-05
+     }
+    ],
+    "confidence": 0.9997979434788703,
+    "id": "ru-1681",
+    "inferenceMs": 31.060667,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9980760862232617
+     },
+     {
+      "language": "be",
+      "probability": 0.0016739808161349103
+     },
+     {
+      "language": "uk",
+      "probability": 0.0002459162525269468
+     }
+    ],
+    "confidence": 0.9980760862232617,
+    "id": "ru-1682",
+    "inferenceMs": 29.032792,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9987939205802605
+     },
+     {
+      "language": "uk",
+      "probability": 0.001030037641442182
+     },
+     {
+      "language": "be",
+      "probability": 0.00015131774169910316
+     }
+    ],
+    "confidence": 0.9987939205802605,
+    "id": "ru-1683",
+    "inferenceMs": 29.268375,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999245494597452
+     },
+     {
+      "language": "be",
+      "probability": 5.354241626039305e-05
+     },
+     {
+      "language": "uk",
+      "probability": 1.0638796538180108e-05
+     }
+    ],
+    "confidence": 0.9999245494597452,
+    "id": "ru-1684",
+    "inferenceMs": 28.971542,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9982925293306133
+     },
+     {
+      "language": "be",
+      "probability": 0.0016419590948298097
+     },
+     {
+      "language": "uk",
+      "probability": 6.231243489489383e-05
+     }
+    ],
+    "confidence": 0.9982925293306133,
+    "id": "ru-1685",
+    "inferenceMs": 30.908583,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9991334820554113
+     },
+     {
+      "language": "be",
+      "probability": 0.0008198938776441481
+     },
+     {
+      "language": "uk",
+      "probability": 4.589528618857051e-05
+     }
+    ],
+    "confidence": 0.9991334820554113,
+    "id": "ru-1686",
+    "inferenceMs": 29.383834,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9928125968967453
+     },
+     {
+      "language": "be",
+      "probability": 0.007120955544177806
+     },
+     {
+      "language": "uk",
+      "probability": 6.583841292455596e-05
+     }
+    ],
+    "confidence": 0.9928125968967453,
+    "id": "ru-1687",
+    "inferenceMs": 29.879625,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999054294649478
+     },
+     {
+      "language": "uk",
+      "probability": 7.513768518349957e-05
+     },
+     {
+      "language": "be",
+      "probability": 1.9034923253370048e-05
+     }
+    ],
+    "confidence": 0.9999054294649478,
+    "id": "ru-1688",
+    "inferenceMs": 29.748208,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "uk",
+      "probability": 0.8601723948158296
+     },
+     {
+      "language": "ru",
+      "probability": 0.1360990362233847
+     },
+     {
+      "language": "be",
+      "probability": 0.003698450981148147
+     }
+    ],
+    "confidence": 0.8601723948158296,
+    "id": "ru-1689",
+    "inferenceMs": 31.194916,
+    "language": "uk",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9986599774691299
+     },
+     {
+      "language": "be",
+      "probability": 0.0010258843107303366
+     },
+     {
+      "language": "uk",
+      "probability": 0.0002837671512209191
+     }
+    ],
+    "confidence": 0.9986599774691299,
+    "id": "ru-1690",
+    "inferenceMs": 29.420333,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.7206127138469428
+     },
+     {
+      "language": "be",
+      "probability": 0.2789083104911632
+     },
+     {
+      "language": "uk",
+      "probability": 0.00042947526597218174
+     }
+    ],
+    "confidence": 0.7206127138469428,
+    "id": "ru-1691",
+    "inferenceMs": 29.148708,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.992097147635895
+     },
+     {
+      "language": "be",
+      "probability": 0.007545224024596966
+     },
+     {
+      "language": "uk",
+      "probability": 0.00035705463616779237
+     }
+    ],
+    "confidence": 0.992097147635895,
+    "id": "ru-1692",
+    "inferenceMs": 29.26225,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.997534056413439
+     },
+     {
+      "language": "be",
+      "probability": 0.0024153610763598247
+     },
+     {
+      "language": "uk",
+      "probability": 3.276336925083765e-05
+     }
+    ],
+    "confidence": 0.997534056413439,
+    "id": "ru-1693",
+    "inferenceMs": 30.899125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9330992287320213
+     },
+     {
+      "language": "uk",
+      "probability": 0.06628610514081311
+     },
+     {
+      "language": "hr",
+      "probability": 0.00022491002254126883
+     }
+    ],
+    "confidence": 0.9330992287320213,
+    "id": "ru-1694",
+    "inferenceMs": 29.391292,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9993357262419843
+     },
+     {
+      "language": "be",
+      "probability": 0.0006512597495532155
+     },
+     {
+      "language": "uk",
+      "probability": 1.2797131746090465e-05
+     }
+    ],
+    "confidence": 0.9993357262419843,
+    "id": "ru-1695",
+    "inferenceMs": 28.95225,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999424160539385
+     },
+     {
+      "language": "be",
+      "probability": 2.510753037569546e-05
+     },
+     {
+      "language": "uk",
+      "probability": 2.160708633032863e-05
+     }
+    ],
+    "confidence": 0.9999424160539385,
+    "id": "ru-1696",
+    "inferenceMs": 30.888958,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9972877788524093
+     },
+     {
+      "language": "be",
+      "probability": 0.002443229239455559
+     },
+     {
+      "language": "uk",
+      "probability": 0.00026829618202406597
+     }
+    ],
+    "confidence": 0.9972877788524093,
+    "id": "ru-1697",
+    "inferenceMs": 28.846125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9947704459991161
+     },
+     {
+      "language": "uk",
+      "probability": 0.004818361237359326
+     },
+     {
+      "language": "be",
+      "probability": 0.000328294102341284
+     }
+    ],
+    "confidence": 0.9947704459991161,
+    "id": "ru-1698",
+    "inferenceMs": 28.927458,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.999911365245104
+     },
+     {
+      "language": "uk",
+      "probability": 4.008131239116562e-05
+     },
+     {
+      "language": "be",
+      "probability": 2.7885789768468717e-05
+     }
+    ],
+    "confidence": 0.999911365245104,
+    "id": "ru-1699",
+    "inferenceMs": 29.113208,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9971383471709986
+     },
+     {
+      "language": "be",
+      "probability": 0.0013301086326022646
+     },
+     {
+      "language": "pl",
+      "probability": 0.0011047197382244793
+     }
+    ],
+    "confidence": 0.9971383471709986,
+    "id": "ru-1700",
+    "inferenceMs": 31.073666,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9890762523727109
+     },
+     {
+      "language": "be",
+      "probability": 0.009907140939348687
+     },
+     {
+      "language": "uk",
+      "probability": 0.0005287898855795668
+     }
+    ],
+    "confidence": 0.9890762523727109,
+    "id": "ru-1701",
+    "inferenceMs": 30.802417,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9938968963054542
+     },
+     {
+      "language": "uk",
+      "probability": 0.005339174084711766
+     },
+     {
+      "language": "be",
+      "probability": 0.0007543036488206903
+     }
+    ],
+    "confidence": 0.9938968963054542,
+    "id": "ru-1702",
+    "inferenceMs": 30.455875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9994866268753868
+     },
+     {
+      "language": "be",
+      "probability": 0.0002368295781691809
+     },
+     {
+      "language": "uk",
+      "probability": 0.00020021104856957677
+     }
+    ],
+    "confidence": 0.9994866268753868,
+    "id": "ru-1703",
+    "inferenceMs": 29.592167,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9993538119835396
+     },
+     {
+      "language": "uk",
+      "probability": 0.0005151981897388658
+     },
+     {
+      "language": "be",
+      "probability": 0.00012899659853629744
+     }
+    ],
+    "confidence": 0.9993538119835396,
+    "id": "ru-1704",
+    "inferenceMs": 29.356875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9970975077611592
+     },
+     {
+      "language": "uk",
+      "probability": 0.0015771663954669338
+     },
+     {
+      "language": "be",
+      "probability": 0.0013229294611232898
+     }
+    ],
+    "confidence": 0.9970975077611592,
+    "id": "ru-1705",
+    "inferenceMs": 29.909542,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9977118590155697
+     },
+     {
+      "language": "uk",
+      "probability": 0.0019794286970000355
+     },
+     {
+      "language": "be",
+      "probability": 0.0003077338912849659
+     }
+    ],
+    "confidence": 0.9977118590155697,
+    "id": "ru-1706",
+    "inferenceMs": 29.594292,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.6346302352811737
+     },
+     {
+      "language": "uk",
+      "probability": 0.3644374831120166
+     },
+     {
+      "language": "be",
+      "probability": 0.0008928258558602506
+     }
+    ],
+    "confidence": 0.6346302352811737,
+    "id": "ru-1707",
+    "inferenceMs": 29.70025,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9967790353099778
+     },
+     {
+      "language": "uk",
+      "probability": 0.0022321530563904073
+     },
+     {
+      "language": "be",
+      "probability": 0.0007564910064586927
+     }
+    ],
+    "confidence": 0.9967790353099778,
+    "id": "ru-1708",
+    "inferenceMs": 29.574417,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9987286775553033
+     },
+     {
+      "language": "be",
+      "probability": 0.001162559189313222
+     },
+     {
+      "language": "uk",
+      "probability": 4.8078359849773754e-05
+     }
+    ],
+    "confidence": 0.9987286775553033,
+    "id": "ru-1709",
+    "inferenceMs": 28.999875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9978147417104951
+     },
+     {
+      "language": "be",
+      "probability": 0.0019112455109958806
+     },
+     {
+      "language": "mk",
+      "probability": 0.00011308252143657019
+     }
+    ],
+    "confidence": 0.9978147417104951,
+    "id": "ru-1710",
+    "inferenceMs": 29.109959,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9921201228826517
+     },
+     {
+      "language": "be",
+      "probability": 0.007724332733939126
+     },
+     {
+      "language": "uk",
+      "probability": 0.00015417190106338876
+     }
+    ],
+    "confidence": 0.9921201228826517,
+    "id": "ru-1711",
+    "inferenceMs": 28.850375,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9801618258480275
+     },
+     {
+      "language": "be",
+      "probability": 0.018961397206710414
+     },
+     {
+      "language": "uk",
+      "probability": 0.0008730872254304703
+     }
+    ],
+    "confidence": 0.9801618258480275,
+    "id": "ru-1712",
+    "inferenceMs": 28.969333,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9984762584269338
+     },
+     {
+      "language": "be",
+      "probability": 0.0014101983599827171
+     },
+     {
+      "language": "uk",
+      "probability": 0.0001135172042030911
+     }
+    ],
+    "confidence": 0.9984762584269338,
+    "id": "ru-1713",
+    "inferenceMs": 29.557875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9984668006266791
+     },
+     {
+      "language": "be",
+      "probability": 0.0008034991939777996
+     },
+     {
+      "language": "uk",
+      "probability": 0.0006953705938694252
+     }
+    ],
+    "confidence": 0.9984668006266791,
+    "id": "ru-1714",
+    "inferenceMs": 29.618167,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9993495369503435
+     },
+     {
+      "language": "uk",
+      "probability": 0.00033328584270260085
+     },
+     {
+      "language": "be",
+      "probability": 0.00031309307428562064
+     }
+    ],
+    "confidence": 0.9993495369503435,
+    "id": "ru-1715",
+    "inferenceMs": 29.42825,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9734892112359661
+     },
+     {
+      "language": "be",
+      "probability": 0.02197424569317787
+     },
+     {
+      "language": "uk",
+      "probability": 0.00281012928814127
+     }
+    ],
+    "confidence": 0.9734892112359661,
+    "id": "ru-1716",
+    "inferenceMs": 28.901625,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9981402880359506
+     },
+     {
+      "language": "be",
+      "probability": 0.0018101212565571486
+     },
+     {
+      "language": "uk",
+      "probability": 4.814397446930568e-05
+     }
+    ],
+    "confidence": 0.9981402880359506,
+    "id": "ru-1717",
+    "inferenceMs": 30.093333,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9993543421029714
+     },
+     {
+      "language": "be",
+      "probability": 0.0005769949080161187
+     },
+     {
+      "language": "uk",
+      "probability": 6.810936292160041e-05
+     }
+    ],
+    "confidence": 0.9993543421029714,
+    "id": "ru-1718",
+    "inferenceMs": 29.202292,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9639837051343131
+     },
+     {
+      "language": "uk",
+      "probability": 0.03470402384150075
+     },
+     {
+      "language": "be",
+      "probability": 0.0011199251929641678
+     }
+    ],
+    "confidence": 0.9639837051343131,
+    "id": "ru-1719",
+    "inferenceMs": 29.376791,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9976881970170647
+     },
+     {
+      "language": "be",
+      "probability": 0.0021402219736453847
+     },
+     {
+      "language": "uk",
+      "probability": 0.00013965465723032224
+     }
+    ],
+    "confidence": 0.9976881970170647,
+    "id": "ru-1720",
+    "inferenceMs": 29.175,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.99997517822726
+     },
+     {
+      "language": "uk",
+      "probability": 2.023802726656751e-05
+     },
+     {
+      "language": "be",
+      "probability": 3.3568181575295746e-06
+     }
+    ],
+    "confidence": 0.99997517822726,
+    "id": "ru-1721",
+    "inferenceMs": 29.404083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9933488581525198
+     },
+     {
+      "language": "be",
+      "probability": 0.006070407096078688
+     },
+     {
+      "language": "uk",
+      "probability": 0.0005701768487679159
+     }
+    ],
+    "confidence": 0.9933488581525198,
+    "id": "ru-1722",
+    "inferenceMs": 29.2035,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.999791132962872
+     },
+     {
+      "language": "uk",
+      "probability": 0.00018485995605411684
+     },
+     {
+      "language": "be",
+      "probability": 2.173607981446341e-05
+     }
+    ],
+    "confidence": 0.999791132962872,
+    "id": "ru-1723",
+    "inferenceMs": 29.228333,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "hr",
+      "probability": 0.5847099776488717
+     },
+     {
+      "language": "ru",
+      "probability": 0.3318588439220661
+     },
+     {
+      "language": "uk",
+      "probability": 0.08148450134340753
+     }
+    ],
+    "confidence": 0.5847099776488717,
+    "id": "ru-1724",
+    "inferenceMs": 29.278833,
+    "language": "hr",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9996234859920798
+     },
+     {
+      "language": "uk",
+      "probability": 0.000274228609033094
+     },
+     {
+      "language": "be",
+      "probability": 0.00010029368411621731
+     }
+    ],
+    "confidence": 0.9996234859920798,
+    "id": "ru-1725",
+    "inferenceMs": 29.565125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9918968822813321
+     },
+     {
+      "language": "uk",
+      "probability": 0.004460773928594165
+     },
+     {
+      "language": "bg",
+      "probability": 0.0022408286154336214
+     }
+    ],
+    "confidence": 0.9918968822813321,
+    "id": "ru-1726",
+    "inferenceMs": 29.211875,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9519235489489957
+     },
+     {
+      "language": "be",
+      "probability": 0.030007683809208034
+     },
+     {
+      "language": "uk",
+      "probability": 0.01798853707451735
+     }
+    ],
+    "confidence": 0.9519235489489957,
+    "id": "ru-1727",
+    "inferenceMs": 29.58225,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999173822276327
+     },
+     {
+      "language": "be",
+      "probability": 6.241385660985667e-05
+     },
+     {
+      "language": "uk",
+      "probability": 1.8288057465126975e-05
+     }
+    ],
+    "confidence": 0.9999173822276327,
+    "id": "ru-1728",
+    "inferenceMs": 29.463666,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9941398918094473
+     },
+     {
+      "language": "be",
+      "probability": 0.005797035597302986
+     },
+     {
+      "language": "uk",
+      "probability": 6.157032927970248e-05
+     }
+    ],
+    "confidence": 0.9941398918094473,
+    "id": "ru-1729",
+    "inferenceMs": 29.37425,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9998329364912717
+     },
+     {
+      "language": "uk",
+      "probability": 0.00012266831728020093
+     },
+     {
+      "language": "be",
+      "probability": 4.30606292646063e-05
+     }
+    ],
+    "confidence": 0.9998329364912717,
+    "id": "ru-1730",
+    "inferenceMs": 29.889,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9181627261525223
+     },
+     {
+      "language": "be",
+      "probability": 0.08149157466143181
+     },
+     {
+      "language": "uk",
+      "probability": 0.0003449540312836565
+     }
+    ],
+    "confidence": 0.9181627261525223,
+    "id": "ru-1731",
+    "inferenceMs": 30.160291,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9885722134819962
+     },
+     {
+      "language": "uk",
+      "probability": 0.011419520248030753
+     },
+     {
+      "language": "be",
+      "probability": 4.170518672718927e-06
+     }
+    ],
+    "confidence": 0.9885722134819962,
+    "id": "ru-1732",
+    "inferenceMs": 30.712334,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9997089273937726
+     },
+     {
+      "language": "be",
+      "probability": 0.0002642612488962721
+     },
+     {
+      "language": "uk",
+      "probability": 2.2522973871509723e-05
+     }
+    ],
+    "confidence": 0.9997089273937726,
+    "id": "ru-1733",
+    "inferenceMs": 31.338125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9820947325190378
+     },
+     {
+      "language": "uk",
+      "probability": 0.017502505159610746
+     },
+     {
+      "language": "be",
+      "probability": 0.00035207678874269946
+     }
+    ],
+    "confidence": 0.9820947325190378,
+    "id": "ru-1734",
+    "inferenceMs": 32.026375,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.7621257824811692
+     },
+     {
+      "language": "be",
+      "probability": 0.22006525388418272
+     },
+     {
+      "language": "kk",
+      "probability": 0.011169772215093922
+     }
+    ],
+    "confidence": 0.7621257824811692,
+    "id": "ru-1736",
+    "inferenceMs": 32.0315,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "uk",
+      "probability": 0.9409349611150138
+     },
+     {
+      "language": "ru",
+      "probability": 0.05541458190617467
+     },
+     {
+      "language": "be",
+      "probability": 0.003514967469385768
+     }
+    ],
+    "confidence": 0.9409349611150138,
+    "id": "ru-1737",
+    "inferenceMs": 31.71,
+    "language": "uk",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9988005281746106
+     },
+     {
+      "language": "uk",
+      "probability": 0.0008656919386175512
+     },
+     {
+      "language": "be",
+      "probability": 0.00032665995641434836
+     }
+    ],
+    "confidence": 0.9988005281746106,
+    "id": "ru-1738",
+    "inferenceMs": 31.778791,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9977425261765479
+     },
+     {
+      "language": "be",
+      "probability": 0.0015537191418689268
+     },
+     {
+      "language": "uk",
+      "probability": 0.0005900132908175509
+     }
+    ],
+    "confidence": 0.9977425261765479,
+    "id": "ru-1739",
+    "inferenceMs": 32.122375,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9999081795841266
+     },
+     {
+      "language": "be",
+      "probability": 8.853407297916834e-05
+     },
+     {
+      "language": "uk",
+      "probability": 3.250146211009529e-06
+     }
+    ],
+    "confidence": 0.9999081795841266,
+    "id": "ru-1740",
+    "inferenceMs": 30.209083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9986457411046807
+     },
+     {
+      "language": "be",
+      "probability": 0.001211133081290565
+     },
+     {
+      "language": "uk",
+      "probability": 0.00014240664058776537
+     }
+    ],
+    "confidence": 0.9986457411046807,
+    "id": "ru-1741",
+    "inferenceMs": 30.051667,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9982408219935344
+     },
+     {
+      "language": "uk",
+      "probability": 0.0010663031613314029
+     },
+     {
+      "language": "kk",
+      "probability": 0.0005700546609658073
+     }
+    ],
+    "confidence": 0.9982408219935344,
+    "id": "ru-1742",
+    "inferenceMs": 30.366916,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9998739937281949
+     },
+     {
+      "language": "be",
+      "probability": 8.853104608817403e-05
+     },
+     {
+      "language": "uk",
+      "probability": 3.7194681988190046e-05
+     }
+    ],
+    "confidence": 0.9998739937281949,
+    "id": "ru-1743",
+    "inferenceMs": 29.949083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9883706401648241
+     },
+     {
+      "language": "kk",
+      "probability": 0.005564294873138351
+     },
+     {
+      "language": "be",
+      "probability": 0.003850512309181843
+     }
+    ],
+    "confidence": 0.9883706401648241,
+    "id": "ru-1744",
+    "inferenceMs": 29.783125,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.950960937856662
+     },
+     {
+      "language": "be",
+      "probability": 0.04884846654460568
+     },
+     {
+      "language": "uk",
+      "probability": 0.00018535251823377386
+     }
+    ],
+    "confidence": 0.950960937856662,
+    "id": "ru-1745",
+    "inferenceMs": 30.559083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9964097697667742
+     },
+     {
+      "language": "be",
+      "probability": 0.0022764463750840455
+     },
+     {
+      "language": "uk",
+      "probability": 0.0006017273840868729
+     }
+    ],
+    "confidence": 0.9964097697667742,
+    "id": "ru-1746",
+    "inferenceMs": 30.398666,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.99195714338741
+     },
+     {
+      "language": "be",
+      "probability": 0.006762540642399511
+     },
+     {
+      "language": "kk",
+      "probability": 0.0008750071503067191
+     }
+    ],
+    "confidence": 0.99195714338741,
+    "id": "ru-1747",
+    "inferenceMs": 30.624209,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9426882904847297
+     },
+     {
+      "language": "uk",
+      "probability": 0.04996064907526934
+     },
+     {
+      "language": "be",
+      "probability": 0.007325151242072506
+     }
+    ],
+    "confidence": 0.9426882904847297,
+    "id": "ru-1748",
+    "inferenceMs": 31.034,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9979702660675327
+     },
+     {
+      "language": "uk",
+      "probability": 0.0011237383979529445
+     },
+     {
+      "language": "be",
+      "probability": 0.0008959223634900885
+     }
+    ],
+    "confidence": 0.9979702660675327,
+    "id": "ru-1749",
+    "inferenceMs": 31.385958,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.951952806075197
+     },
+     {
+      "language": "uk",
+      "probability": 0.0428177595856379
+     },
+     {
+      "language": "be",
+      "probability": 0.005133867173141091
+     }
+    ],
+    "confidence": 0.951952806075197,
+    "id": "ru-1750",
+    "inferenceMs": 31.257,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9969287400387279
+     },
+     {
+      "language": "be",
+      "probability": 0.003015899245800863
+     },
+     {
+      "language": "uk",
+      "probability": 4.5626615186780444e-05
+     }
+    ],
+    "confidence": 0.9969287400387279,
+    "id": "ru-1751",
+    "inferenceMs": 31.314083,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9995188596432026
+     },
+     {
+      "language": "uk",
+      "probability": 0.0003385916898839199
+     },
+     {
+      "language": "be",
+      "probability": 0.00010448188183696446
+     }
+    ],
+    "confidence": 0.9995188596432026,
+    "id": "ru-1752",
+    "inferenceMs": 31.390542,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9990182218100339
+     },
+     {
+      "language": "uk",
+      "probability": 0.0008557928057746768
+     },
+     {
+      "language": "be",
+      "probability": 8.590140392020272e-05
+     }
+    ],
+    "confidence": 0.9990182218100339,
+    "id": "ru-1753",
+    "inferenceMs": 31.647541,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9998526099306724
+     },
+     {
+      "language": "uk",
+      "probability": 0.00010931891183108533
+     },
+     {
+      "language": "be",
+      "probability": 3.800161968212898e-05
+     }
+    ],
+    "confidence": 0.9998526099306724,
+    "id": "ru-1754",
+    "inferenceMs": 31.377666,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9606754184204622
+     },
+     {
+      "language": "be",
+      "probability": 0.02471673013958779
+     },
+     {
+      "language": "kk",
+      "probability": 0.014138288279372512
+     }
+    ],
+    "confidence": 0.9606754184204622,
+    "id": "ru-1755",
+    "inferenceMs": 31.2445,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9977219735334429
+     },
+     {
+      "language": "uk",
+      "probability": 0.0013367486418884979
+     },
+     {
+      "language": "bg",
+      "probability": 0.0006502080787711074
+     }
+    ],
+    "confidence": 0.9977219735334429,
+    "id": "ru-1756",
+    "inferenceMs": 32.119,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9952788114954322
+     },
+     {
+      "language": "be",
+      "probability": 0.0038061442181263313
+     },
+     {
+      "language": "uk",
+      "probability": 0.0007732651000818581
+     }
+    ],
+    "confidence": 0.9952788114954322,
+    "id": "ru-1757",
+    "inferenceMs": 32.207958,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9911338867264766
+     },
+     {
+      "language": "be",
+      "probability": 0.008278761482946524
+     },
+     {
+      "language": "kk",
+      "probability": 0.00032605747086849045
+     }
+    ],
+    "confidence": 0.9911338867264766,
+    "id": "ru-1758",
+    "inferenceMs": 32.0155,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9990049629339883
+     },
+     {
+      "language": "be",
+      "probability": 0.0004943218881910851
+     },
+     {
+      "language": "uk",
+      "probability": 0.00040661809382852793
+     }
+    ],
+    "confidence": 0.9990049629339883,
+    "id": "ru-1759",
+    "inferenceMs": 32.178958,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "ru",
+      "probability": 0.9990427953006055
+     },
+     {
+      "language": "uk",
+      "probability": 0.0005275091315005508
+     },
+     {
+      "language": "pl",
+      "probability": 0.00021263920158071483
+     }
+    ],
+    "confidence": 0.9990427953006055,
+    "id": "ru-1760",
+    "inferenceMs": 31.53375,
+    "language": "ru",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9931855373312145
+     },
+     {
+      "language": "gl",
+      "probability": 0.0031734640193000515
+     },
+     {
+      "language": "it",
+      "probability": 0.0020812085150509873
+     }
+    ],
+    "confidence": 0.9931855373312145,
+    "id": "es-1660",
+    "inferenceMs": 32.586083,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9993380582076888
+     },
+     {
+      "language": "ca",
+      "probability": 0.00045911536667233395
+     },
+     {
+      "language": "gl",
+      "probability": 0.00018351737221625024
+     }
+    ],
+    "confidence": 0.9993380582076888,
+    "id": "es-1661",
+    "inferenceMs": 32.871042,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998699432166135
+     },
+     {
+      "language": "gl",
+      "probability": 8.547235520486716e-05
+     },
+     {
+      "language": "ca",
+      "probability": 4.165589906189296e-05
+     }
+    ],
+    "confidence": 0.9998699432166135,
+    "id": "es-1662",
+    "inferenceMs": 32.923333,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998869942896709
+     },
+     {
+      "language": "gl",
+      "probability": 7.797694225468697e-05
+     },
+     {
+      "language": "ca",
+      "probability": 2.6357619786691135e-05
+     }
+    ],
+    "confidence": 0.9998869942896709,
+    "id": "es-1663",
+    "inferenceMs": 32.878334,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999882822987687
+     },
+     {
+      "language": "gl",
+      "probability": 1.0772776718770986e-05
+     },
+     {
+      "language": "ca",
+      "probability": 2.4772434581650295e-07
+     }
+    ],
+    "confidence": 0.9999882822987687,
+    "id": "es-1664",
+    "inferenceMs": 33.052416,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9987965896191592
+     },
+     {
+      "language": "gl",
+      "probability": 0.0009676334013232907
+     },
+     {
+      "language": "ast",
+      "probability": 0.00012868882013825062
+     }
+    ],
+    "confidence": 0.9987965896191592,
+    "id": "es-1665",
+    "inferenceMs": 34.445125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998272844996483
+     },
+     {
+      "language": "gl",
+      "probability": 0.00011889353782389737
+     },
+     {
+      "language": "ca",
+      "probability": 3.589494998325756e-05
+     }
+    ],
+    "confidence": 0.9998272844996483,
+    "id": "es-1666",
+    "inferenceMs": 33.900916,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999522844203715
+     },
+     {
+      "language": "gl",
+      "probability": 4.32765656175929e-05
+     },
+     {
+      "language": "ca",
+      "probability": 3.203024929427812e-06
+     }
+    ],
+    "confidence": 0.9999522844203715,
+    "id": "es-1667",
+    "inferenceMs": 33.9665,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.999826884514633
+     },
+     {
+      "language": "ca",
+      "probability": 6.288232746746894e-05
+     },
+     {
+      "language": "oc",
+      "probability": 5.6408653847303793e-05
+     }
+    ],
+    "confidence": 0.999826884514633,
+    "id": "es-1668",
+    "inferenceMs": 34.063958,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9930420538346505
+     },
+     {
+      "language": "ast",
+      "probability": 0.0024561025095010875
+     },
+     {
+      "language": "ca",
+      "probability": 0.002083958285602109
+     }
+    ],
+    "confidence": 0.9930420538346505,
+    "id": "es-1669",
+    "inferenceMs": 34.403792,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998529325021851
+     },
+     {
+      "language": "gl",
+      "probability": 6.204522034851764e-05
+     },
+     {
+      "language": "oc",
+      "probability": 5.50764849501069e-05
+     }
+    ],
+    "confidence": 0.9998529325021851,
+    "id": "es-1670",
+    "inferenceMs": 34.53825,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9994349802433982
+     },
+     {
+      "language": "ast",
+      "probability": 0.00028817795569264436
+     },
+     {
+      "language": "ca",
+      "probability": 0.0001537242206829918
+     }
+    ],
+    "confidence": 0.9994349802433982,
+    "id": "es-1671",
+    "inferenceMs": 36.100875,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998172998829372
+     },
+     {
+      "language": "gl",
+      "probability": 0.00012387018117108187
+     },
+     {
+      "language": "ca",
+      "probability": 1.944658723466398e-05
+     }
+    ],
+    "confidence": 0.9998172998829372,
+    "id": "es-1672",
+    "inferenceMs": 36.222833,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9371873753391772
+     },
+     {
+      "language": "ca",
+      "probability": 0.032573798425417314
+     },
+     {
+      "language": "gl",
+      "probability": 0.0275372459346613
+     }
+    ],
+    "confidence": 0.9371873753391772,
+    "id": "es-1673",
+    "inferenceMs": 35.766542,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.995916211887276
+     },
+     {
+      "language": "gl",
+      "probability": 0.0038912920711035876
+     },
+     {
+      "language": "ca",
+      "probability": 6.594755564176014e-05
+     }
+    ],
+    "confidence": 0.995916211887276,
+    "id": "es-1674",
+    "inferenceMs": 36.854667,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9978357238176154
+     },
+     {
+      "language": "ca",
+      "probability": 0.0019150223285260084
+     },
+     {
+      "language": "gl",
+      "probability": 0.00021896358989101074
+     }
+    ],
+    "confidence": 0.9978357238176154,
+    "id": "es-1675",
+    "inferenceMs": 36.635542,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999875799040011
+     },
+     {
+      "language": "gl",
+      "probability": 1.0451527477149236e-05
+     },
+     {
+      "language": "ca",
+      "probability": 1.6173376006769275e-06
+     }
+    ],
+    "confidence": 0.9999875799040011,
+    "id": "es-1676",
+    "inferenceMs": 36.668,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9993385827563888
+     },
+     {
+      "language": "gl",
+      "probability": 0.0005341460131170798
+     },
+     {
+      "language": "ca",
+      "probability": 8.717565391965537e-05
+     }
+    ],
+    "confidence": 0.9993385827563888,
+    "id": "es-1677",
+    "inferenceMs": 36.939292,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9949834286942143
+     },
+     {
+      "language": "gl",
+      "probability": 0.0046257213780825
+     },
+     {
+      "language": "ca",
+      "probability": 0.0003451747109363016
+     }
+    ],
+    "confidence": 0.9949834286942143,
+    "id": "es-1678",
+    "inferenceMs": 36.768208,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999986749484074
+     },
+     {
+      "language": "it",
+      "probability": 7.424705910611163e-07
+     },
+     {
+      "language": "gl",
+      "probability": 5.528359964346288e-07
+     }
+    ],
+    "confidence": 0.9999986749484074,
+    "id": "es-1679",
+    "inferenceMs": 36.787292,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9950765309333783
+     },
+     {
+      "language": "ast",
+      "probability": 0.004644260470112583
+     },
+     {
+      "language": "gl",
+      "probability": 0.00018552183517227489
+     }
+    ],
+    "confidence": 0.9950765309333783,
+    "id": "es-1680",
+    "inferenceMs": 36.472833,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9990305265475704
+     },
+     {
+      "language": "ca",
+      "probability": 0.000797696432176209
+     },
+     {
+      "language": "gl",
+      "probability": 0.000141111503086867
+     }
+    ],
+    "confidence": 0.9990305265475704,
+    "id": "es-1681",
+    "inferenceMs": 36.438834,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999473236923679
+     },
+     {
+      "language": "gl",
+      "probability": 4.702193195782404e-05
+     },
+     {
+      "language": "ca",
+      "probability": 2.0122368072845025e-06
+     }
+    ],
+    "confidence": 0.9999473236923679,
+    "id": "es-1682",
+    "inferenceMs": 36.830167,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999839881984444
+     },
+     {
+      "language": "gl",
+      "probability": 1.2858691148161714e-05
+     },
+     {
+      "language": "ca",
+      "probability": 2.777494420016105e-06
+     }
+    ],
+    "confidence": 0.9999839881984444,
+    "id": "es-1683",
+    "inferenceMs": 38.622625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.999960156885612
+     },
+     {
+      "language": "gl",
+      "probability": 2.2539636949892825e-05
+     },
+     {
+      "language": "oc",
+      "probability": 6.514721512369999e-06
+     }
+    ],
+    "confidence": 0.999960156885612,
+    "id": "es-1684",
+    "inferenceMs": 37.357583,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9853289732909393
+     },
+     {
+      "language": "ast",
+      "probability": 0.0075157363763945426
+     },
+     {
+      "language": "gl",
+      "probability": 0.004437732452975397
+     }
+    ],
+    "confidence": 0.9853289732909393,
+    "id": "es-1685",
+    "inferenceMs": 38.547458,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997823596736202
+     },
+     {
+      "language": "gl",
+      "probability": 0.00015719395011025422
+     },
+     {
+      "language": "ca",
+      "probability": 2.8397432987725643e-05
+     }
+    ],
+    "confidence": 0.9997823596736202,
+    "id": "es-1686",
+    "inferenceMs": 38.020458,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9713552647914082
+     },
+     {
+      "language": "eu",
+      "probability": 0.020678259890640385
+     },
+     {
+      "language": "ca",
+      "probability": 0.005259007267624836
+     }
+    ],
+    "confidence": 0.9713552647914082,
+    "id": "es-1687",
+    "inferenceMs": 37.365334,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9986145938025671
+     },
+     {
+      "language": "ca",
+      "probability": 0.0007091905088429884
+     },
+     {
+      "language": "gl",
+      "probability": 0.0003210650409715311
+     }
+    ],
+    "confidence": 0.9986145938025671,
+    "id": "es-1688",
+    "inferenceMs": 37.660417,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997453411349381
+     },
+     {
+      "language": "gl",
+      "probability": 0.00023367417760553305
+     },
+     {
+      "language": "ast",
+      "probability": 1.1453584544570195e-05
+     }
+    ],
+    "confidence": 0.9997453411349381,
+    "id": "es-1689",
+    "inferenceMs": 37.475125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.99299883875319
+     },
+     {
+      "language": "ca",
+      "probability": 0.004527203838005471
+     },
+     {
+      "language": "gl",
+      "probability": 0.002189212728755155
+     }
+    ],
+    "confidence": 0.99299883875319,
+    "id": "es-1690",
+    "inferenceMs": 37.198625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999892037412023
+     },
+     {
+      "language": "gl",
+      "probability": 5.572498469620687e-06
+     },
+     {
+      "language": "ca",
+      "probability": 3.2823073539307513e-06
+     }
+    ],
+    "confidence": 0.9999892037412023,
+    "id": "es-1691",
+    "inferenceMs": 35.515166,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9961187489806276
+     },
+     {
+      "language": "ca",
+      "probability": 0.0036957621149206693
+     },
+     {
+      "language": "gl",
+      "probability": 0.00015224467686273839
+     }
+    ],
+    "confidence": 0.9961187489806276,
+    "id": "es-1692",
+    "inferenceMs": 35.778625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997482846140573
+     },
+     {
+      "language": "gl",
+      "probability": 0.00011483504713557198
+     },
+     {
+      "language": "ast",
+      "probability": 7.472345014280749e-05
+     }
+    ],
+    "confidence": 0.9997482846140573,
+    "id": "es-1693",
+    "inferenceMs": 37.43225,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999242021101282
+     },
+     {
+      "language": "gl",
+      "probability": 7.003733851543639e-05
+     },
+     {
+      "language": "ca",
+      "probability": 2.7638002427013106e-06
+     }
+    ],
+    "confidence": 0.9999242021101282,
+    "id": "es-1694",
+    "inferenceMs": 35.56725,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9981880527117769
+     },
+     {
+      "language": "ca",
+      "probability": 0.0011664775458521547
+     },
+     {
+      "language": "gl",
+      "probability": 0.000596360532581742
+     }
+    ],
+    "confidence": 0.9981880527117769,
+    "id": "es-1695",
+    "inferenceMs": 37.75525,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999879635494828
+     },
+     {
+      "language": "ca",
+      "probability": 5.507570065467043e-06
+     },
+     {
+      "language": "gl",
+      "probability": 4.619757762876983e-06
+     }
+    ],
+    "confidence": 0.9999879635494828,
+    "id": "es-1696",
+    "inferenceMs": 37.220708,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997957081339423
+     },
+     {
+      "language": "gl",
+      "probability": 0.00020223833340148983
+     },
+     {
+      "language": "ca",
+      "probability": 1.605619029246919e-06
+     }
+    ],
+    "confidence": 0.9997957081339423,
+    "id": "es-1697",
+    "inferenceMs": 35.417125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999803370605936
+     },
+     {
+      "language": "gl",
+      "probability": 1.1773856466695693e-05
+     },
+     {
+      "language": "it",
+      "probability": 6.777890674959979e-06
+     }
+    ],
+    "confidence": 0.9999803370605936,
+    "id": "es-1698",
+    "inferenceMs": 35.473042,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999305242639964
+     },
+     {
+      "language": "ca",
+      "probability": 3.781946405976971e-05
+     },
+     {
+      "language": "gl",
+      "probability": 2.7107652817620714e-05
+     }
+    ],
+    "confidence": 0.9999305242639964,
+    "id": "es-1699",
+    "inferenceMs": 37.334125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9996570008792774
+     },
+     {
+      "language": "eu",
+      "probability": 0.00019522483121969697
+     },
+     {
+      "language": "gl",
+      "probability": 9.683224032182986e-05
+     }
+    ],
+    "confidence": 0.9996570008792774,
+    "id": "es-1700",
+    "inferenceMs": 36.289208,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9994669612783434
+     },
+     {
+      "language": "ca",
+      "probability": 0.00041402024646194235
+     },
+     {
+      "language": "gl",
+      "probability": 8.506327113463648e-05
+     }
+    ],
+    "confidence": 0.9994669612783434,
+    "id": "es-1701",
+    "inferenceMs": 36.515291,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999694750097887
+     },
+     {
+      "language": "gl",
+      "probability": 2.341485517569123e-05
+     },
+     {
+      "language": "ca",
+      "probability": 5.38777434294729e-06
+     }
+    ],
+    "confidence": 0.9999694750097887,
+    "id": "es-1702",
+    "inferenceMs": 35.646417,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9965779100071969
+     },
+     {
+      "language": "gl",
+      "probability": 0.0012838294120438704
+     },
+     {
+      "language": "ast",
+      "probability": 0.0012058069073810664
+     }
+    ],
+    "confidence": 0.9965779100071969,
+    "id": "es-1703",
+    "inferenceMs": 35.570958,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999298233700462
+     },
+     {
+      "language": "gl",
+      "probability": 5.751309405055687e-05
+     },
+     {
+      "language": "ca",
+      "probability": 6.119828840360733e-06
+     }
+    ],
+    "confidence": 0.9999298233700462,
+    "id": "es-1704",
+    "inferenceMs": 35.9215,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999700717545806
+     },
+     {
+      "language": "gl",
+      "probability": 2.655844607730175e-05
+     },
+     {
+      "language": "ca",
+      "probability": 1.9666281415729554e-06
+     }
+    ],
+    "confidence": 0.9999700717545806,
+    "id": "es-1705",
+    "inferenceMs": 35.926417,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999142606278866
+     },
+     {
+      "language": "ca",
+      "probability": 6.566495934544574e-05
+     },
+     {
+      "language": "gl",
+      "probability": 1.562537967619669e-05
+     }
+    ],
+    "confidence": 0.9999142606278866,
+    "id": "es-1706",
+    "inferenceMs": 36.713458,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999750890979577
+     },
+     {
+      "language": "gl",
+      "probability": 1.5173316338860294e-05
+     },
+     {
+      "language": "ca",
+      "probability": 7.099447021738501e-06
+     }
+    ],
+    "confidence": 0.9999750890979577,
+    "id": "es-1707",
+    "inferenceMs": 36.097208,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.998621862583986
+     },
+     {
+      "language": "ca",
+      "probability": 0.0008178750669460192
+     },
+     {
+      "language": "gl",
+      "probability": 0.0004547716989799948
+     }
+    ],
+    "confidence": 0.998621862583986,
+    "id": "es-1708",
+    "inferenceMs": 36.173417,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9723475221674369
+     },
+     {
+      "language": "ast",
+      "probability": 0.02295692246886322
+     },
+     {
+      "language": "ca",
+      "probability": 0.004028463946776972
+     }
+    ],
+    "confidence": 0.9723475221674369,
+    "id": "es-1709",
+    "inferenceMs": 36.215875,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9991951762690523
+     },
+     {
+      "language": "gl",
+      "probability": 0.0006225637515283455
+     },
+     {
+      "language": "ca",
+      "probability": 0.0001333304202650172
+     }
+    ],
+    "confidence": 0.9991951762690523,
+    "id": "es-1710",
+    "inferenceMs": 36.40675,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999033296411434
+     },
+     {
+      "language": "gl",
+      "probability": 7.234069134215837e-05
+     },
+     {
+      "language": "ca",
+      "probability": 1.859394068335422e-05
+     }
+    ],
+    "confidence": 0.9999033296411434,
+    "id": "es-1711",
+    "inferenceMs": 35.682791,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9995942918341533
+     },
+     {
+      "language": "gl",
+      "probability": 0.00019110994832399926
+     },
+     {
+      "language": "ca",
+      "probability": 0.00013889191990949323
+     }
+    ],
+    "confidence": 0.9995942918341533,
+    "id": "es-1712",
+    "inferenceMs": 35.521416,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9955915974000452
+     },
+     {
+      "language": "gl",
+      "probability": 0.0028936446097229543
+     },
+     {
+      "language": "ast",
+      "probability": 0.0009054271876039451
+     }
+    ],
+    "confidence": 0.9955915974000452,
+    "id": "es-1713",
+    "inferenceMs": 35.64125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.999521830196456
+     },
+     {
+      "language": "ast",
+      "probability": 0.00026654420074335294
+     },
+     {
+      "language": "gl",
+      "probability": 0.00015083765844000038
+     }
+    ],
+    "confidence": 0.999521830196456,
+    "id": "es-1714",
+    "inferenceMs": 35.798625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9998821996654815
+     },
+     {
+      "language": "gl",
+      "probability": 0.00010170061758898049
+     },
+     {
+      "language": "ca",
+      "probability": 1.2438625228804375e-05
+     }
+    ],
+    "confidence": 0.9998821996654815,
+    "id": "es-1715",
+    "inferenceMs": 35.528875,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9772633814264999
+     },
+     {
+      "language": "ast",
+      "probability": 0.02088545685541382
+     },
+     {
+      "language": "ca",
+      "probability": 0.0013869942698814374
+     }
+    ],
+    "confidence": 0.9772633814264999,
+    "id": "es-1716",
+    "inferenceMs": 35.678583,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999995198404433
+     },
+     {
+      "language": "gl",
+      "probability": 3.618515724134013e-07
+     },
+     {
+      "language": "oc",
+      "probability": 4.887573134561583e-08
+     }
+    ],
+    "confidence": 0.9999995198404433,
+    "id": "es-1717",
+    "inferenceMs": 35.340792,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999457075922016
+     },
+     {
+      "language": "gl",
+      "probability": 3.332110990985787e-05
+     },
+     {
+      "language": "ca",
+      "probability": 1.8163982305491436e-05
+     }
+    ],
+    "confidence": 0.9999457075922016,
+    "id": "es-1718",
+    "inferenceMs": 33.851625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9919975815044473
+     },
+     {
+      "language": "gl",
+      "probability": 0.005927505588597397
+     },
+     {
+      "language": "ca",
+      "probability": 0.001657299415196923
+     }
+    ],
+    "confidence": 0.9919975815044473,
+    "id": "es-1719",
+    "inferenceMs": 33.913459,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999925084571114
+     },
+     {
+      "language": "gl",
+      "probability": 6.97586400271729e-06
+     },
+     {
+      "language": "ca",
+      "probability": 2.827731720657424e-07
+     }
+    ],
+    "confidence": 0.9999925084571114,
+    "id": "es-1720",
+    "inferenceMs": 33.887,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.994861142857958
+     },
+     {
+      "language": "ca",
+      "probability": 0.004154065725312968
+     },
+     {
+      "language": "gl",
+      "probability": 0.0009152044784139174
+     }
+    ],
+    "confidence": 0.994861142857958,
+    "id": "es-1721",
+    "inferenceMs": 33.817625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9986463124237362
+     },
+     {
+      "language": "gl",
+      "probability": 0.000661261007215483
+     },
+     {
+      "language": "ca",
+      "probability": 0.0006211593143945877
+     }
+    ],
+    "confidence": 0.9986463124237362,
+    "id": "es-1722",
+    "inferenceMs": 33.797416,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999873266440666
+     },
+     {
+      "language": "gl",
+      "probability": 1.0836073390365509e-05
+     },
+     {
+      "language": "it",
+      "probability": 8.380398587654313e-07
+     }
+    ],
+    "confidence": 0.9999873266440666,
+    "id": "es-1723",
+    "inferenceMs": 34.091208,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9979332180605291
+     },
+     {
+      "language": "gl",
+      "probability": 0.001149221545034084
+     },
+     {
+      "language": "el",
+      "probability": 0.00030930878272683506
+     }
+    ],
+    "confidence": 0.9979332180605291,
+    "id": "es-1724",
+    "inferenceMs": 33.734083,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9970915749694336
+     },
+     {
+      "language": "ca",
+      "probability": 0.0013884422843788498
+     },
+     {
+      "language": "gl",
+      "probability": 0.0011754823262162936
+     }
+    ],
+    "confidence": 0.9970915749694336,
+    "id": "es-1725",
+    "inferenceMs": 34.229792,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9990222563404205
+     },
+     {
+      "language": "gl",
+      "probability": 0.0008916270689320491
+     },
+     {
+      "language": "ast",
+      "probability": 3.0749091865943075e-05
+     }
+    ],
+    "confidence": 0.9990222563404205,
+    "id": "es-1726",
+    "inferenceMs": 34.227625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999912025200812
+     },
+     {
+      "language": "gl",
+      "probability": 7.691463945655144e-06
+     },
+     {
+      "language": "ast",
+      "probability": 6.276652854492428e-07
+     }
+    ],
+    "confidence": 0.9999912025200812,
+    "id": "es-1727",
+    "inferenceMs": 34.24,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999655803589422
+     },
+     {
+      "language": "gl",
+      "probability": 2.1528602239288354e-05
+     },
+     {
+      "language": "ast",
+      "probability": 1.0249151152151269e-05
+     }
+    ],
+    "confidence": 0.9999655803589422,
+    "id": "es-1728",
+    "inferenceMs": 33.826833,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9982120724499518
+     },
+     {
+      "language": "ca",
+      "probability": 0.0016514750796033236
+     },
+     {
+      "language": "oc",
+      "probability": 7.070704744524004e-05
+     }
+    ],
+    "confidence": 0.9982120724499518,
+    "id": "es-1729",
+    "inferenceMs": 32.709125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9930134788134332
+     },
+     {
+      "language": "ca",
+      "probability": 0.0038837412365539444
+     },
+     {
+      "language": "gl",
+      "probability": 0.0025148888626730925
+     }
+    ],
+    "confidence": 0.9930134788134332,
+    "id": "es-1730",
+    "inferenceMs": 32.370625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.999997738528467
+     },
+     {
+      "language": "gl",
+      "probability": 1.2752224081692385e-06
+     },
+     {
+      "language": "ca",
+      "probability": 6.730622315377823e-07
+     }
+    ],
+    "confidence": 0.999997738528467,
+    "id": "es-1731",
+    "inferenceMs": 33.6655,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999572606235756
+     },
+     {
+      "language": "gl",
+      "probability": 3.4310057089456225e-05
+     },
+     {
+      "language": "ca",
+      "probability": 3.3144122828359824e-06
+     }
+    ],
+    "confidence": 0.9999572606235756,
+    "id": "es-1732",
+    "inferenceMs": 32.453625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9993314341574345
+     },
+     {
+      "language": "ast",
+      "probability": 0.00048208623967409037
+     },
+     {
+      "language": "ca",
+      "probability": 0.00015333348746666463
+     }
+    ],
+    "confidence": 0.9993314341574345,
+    "id": "es-1733",
+    "inferenceMs": 32.378375,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.977532826112854
+     },
+     {
+      "language": "ca",
+      "probability": 0.022108659691024185
+     },
+     {
+      "language": "gl",
+      "probability": 0.00024191536491472413
+     }
+    ],
+    "confidence": 0.977532826112854,
+    "id": "es-1734",
+    "inferenceMs": 32.327125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999444370425369
+     },
+     {
+      "language": "ca",
+      "probability": 2.5590285478295192e-05
+     },
+     {
+      "language": "gl",
+      "probability": 1.5506142619670546e-05
+     }
+    ],
+    "confidence": 0.9999444370425369,
+    "id": "es-1735",
+    "inferenceMs": 32.756209,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999769288280703
+     },
+     {
+      "language": "gl",
+      "probability": 2.256203748326256e-05
+     },
+     {
+      "language": "ca",
+      "probability": 3.3596022181796945e-07
+     }
+    ],
+    "confidence": 0.9999769288280703,
+    "id": "es-1736",
+    "inferenceMs": 32.540583,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999997323885611
+     },
+     {
+      "language": "gl",
+      "probability": 2.4750048509612964e-07
+     },
+     {
+      "language": "ca",
+      "probability": 7.839719607199498e-09
+     }
+    ],
+    "confidence": 0.9999997323885611,
+    "id": "es-1737",
+    "inferenceMs": 32.531792,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9992422217935112
+     },
+     {
+      "language": "gl",
+      "probability": 0.0003530149138821448
+     },
+     {
+      "language": "ca",
+      "probability": 0.00029959986618539387
+     }
+    ],
+    "confidence": 0.9992422217935112,
+    "id": "es-1738",
+    "inferenceMs": 32.421917,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9942405479737106
+     },
+     {
+      "language": "ca",
+      "probability": 0.004342218650808845
+     },
+     {
+      "language": "gl",
+      "probability": 0.0009543247168444748
+     }
+    ],
+    "confidence": 0.9942405479737106,
+    "id": "es-1739",
+    "inferenceMs": 32.166667,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999924337153709
+     },
+     {
+      "language": "it",
+      "probability": 4.973268204446206e-06
+     },
+     {
+      "language": "oc",
+      "probability": 1.5748733662292451e-06
+     }
+    ],
+    "confidence": 0.9999924337153709,
+    "id": "es-1740",
+    "inferenceMs": 32.326416,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9992107205671588
+     },
+     {
+      "language": "ca",
+      "probability": 0.0005181515887830863
+     },
+     {
+      "language": "gl",
+      "probability": 0.000226584830950331
+     }
+    ],
+    "confidence": 0.9992107205671588,
+    "id": "es-1741",
+    "inferenceMs": 32.294417,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.999840875573126
+     },
+     {
+      "language": "it",
+      "probability": 0.00010741282043736035
+     },
+     {
+      "language": "gl",
+      "probability": 3.545559641554652e-05
+     }
+    ],
+    "confidence": 0.999840875573126,
+    "id": "es-1742",
+    "inferenceMs": 32.317916,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9977914553064351
+     },
+     {
+      "language": "ca",
+      "probability": 0.0014133658386511834
+     },
+     {
+      "language": "gl",
+      "probability": 0.0005067270128563344
+     }
+    ],
+    "confidence": 0.9977914553064351,
+    "id": "es-1743",
+    "inferenceMs": 32.531209,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999594749437508
+     },
+     {
+      "language": "gl",
+      "probability": 1.829775959476132e-05
+     },
+     {
+      "language": "ast",
+      "probability": 1.168305743477656e-05
+     }
+    ],
+    "confidence": 0.9999594749437508,
+    "id": "es-1744",
+    "inferenceMs": 31.379959,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9972850625111948
+     },
+     {
+      "language": "ca",
+      "probability": 0.0022762221526570355
+     },
+     {
+      "language": "gl",
+      "probability": 0.00035612860953409246
+     }
+    ],
+    "confidence": 0.9972850625111948,
+    "id": "es-1745",
+    "inferenceMs": 31.428334,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999815947441948
+     },
+     {
+      "language": "it",
+      "probability": 9.160549949502266e-06
+     },
+     {
+      "language": "gl",
+      "probability": 7.0030903313391474e-06
+     }
+    ],
+    "confidence": 0.9999815947441948,
+    "id": "es-1746",
+    "inferenceMs": 31.372125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999938683964786
+     },
+     {
+      "language": "gl",
+      "probability": 3.7927166303788826e-06
+     },
+     {
+      "language": "ast",
+      "probability": 1.6134039846127976e-06
+     }
+    ],
+    "confidence": 0.9999938683964786,
+    "id": "es-1747",
+    "inferenceMs": 31.213792,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997535728021938
+     },
+     {
+      "language": "gl",
+      "probability": 0.00014709010385543836
+     },
+     {
+      "language": "it",
+      "probability": 4.485994712382884e-05
+     }
+    ],
+    "confidence": 0.9997535728021938,
+    "id": "es-1748",
+    "inferenceMs": 31.413166,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9995176480109017
+     },
+     {
+      "language": "ast",
+      "probability": 0.0004507561595510249
+     },
+     {
+      "language": "ca",
+      "probability": 1.9046131824186966e-05
+     }
+    ],
+    "confidence": 0.9995176480109017,
+    "id": "es-1749",
+    "inferenceMs": 31.812833,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999993512998582
+     },
+     {
+      "language": "gl",
+      "probability": 5.533765133132253e-07
+     },
+     {
+      "language": "ca",
+      "probability": 6.825598948564991e-08
+     }
+    ],
+    "confidence": 0.9999993512998582,
+    "id": "es-1750",
+    "inferenceMs": 31.166458,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999668633025492
+     },
+     {
+      "language": "gl",
+      "probability": 2.8492961966040073e-05
+     },
+     {
+      "language": "ca",
+      "probability": 1.6232376971286173e-06
+     }
+    ],
+    "confidence": 0.9999668633025492,
+    "id": "es-1751",
+    "inferenceMs": 31.641125,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999520968646733
+     },
+     {
+      "language": "ca",
+      "probability": 3.5912580062560143e-05
+     },
+     {
+      "language": "gl",
+      "probability": 9.277313660769083e-06
+     }
+    ],
+    "confidence": 0.9999520968646733,
+    "id": "es-1752",
+    "inferenceMs": 31.438083,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999869226562337
+     },
+     {
+      "language": "gl",
+      "probability": 9.823090245221874e-06
+     },
+     {
+      "language": "ca",
+      "probability": 2.6245554859934096e-06
+     }
+    ],
+    "confidence": 0.9999869226562337,
+    "id": "es-1753",
+    "inferenceMs": 31.585625,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999612163813725
+     },
+     {
+      "language": "gl",
+      "probability": 3.642505747003617e-05
+     },
+     {
+      "language": "oc",
+      "probability": 9.759226220421362e-07
+     }
+    ],
+    "confidence": 0.9999612163813725,
+    "id": "es-1754",
+    "inferenceMs": 31.427458,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999924439540057
+     },
+     {
+      "language": "ca",
+      "probability": 6.01944576453e-06
+     },
+     {
+      "language": "gl",
+      "probability": 7.46829121439553e-07
+     }
+    ],
+    "confidence": 0.9999924439540057,
+    "id": "es-1755",
+    "inferenceMs": 31.38975,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9999556673328519
+     },
+     {
+      "language": "gl",
+      "probability": 3.086812310859105e-05
+     },
+     {
+      "language": "ca",
+      "probability": 6.95520056032494e-06
+     }
+    ],
+    "confidence": 0.9999556673328519,
+    "id": "es-1756",
+    "inferenceMs": 31.413375,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9985021822088143
+     },
+     {
+      "language": "ast",
+      "probability": 0.000631929124021619
+     },
+     {
+      "language": "gl",
+      "probability": 0.00046504613574548375
+     }
+    ],
+    "confidence": 0.9985021822088143,
+    "id": "es-1757",
+    "inferenceMs": 31.454167,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997950697686239
+     },
+     {
+      "language": "gl",
+      "probability": 0.00018128515467076737
+     },
+     {
+      "language": "ca",
+      "probability": 1.0128017636205681e-05
+     }
+    ],
+    "confidence": 0.9997950697686239,
+    "id": "es-1758",
+    "inferenceMs": 31.551875,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   },
+   {
+    "candidates": [
+     {
+      "language": "es",
+      "probability": 0.9997690398494588
+     },
+     {
+      "language": "gl",
+      "probability": 0.00010114439025261147
+     },
+     {
+      "language": "oc",
+      "probability": 6.501737690310546e-05
+     }
+    ],
+    "confidence": 0.9997690398494588,
+    "id": "es-1759",
+    "inferenceMs": 31.441041,
+    "language": "es",
+    "reliable": true,
+    "repeat": 0
+   }
+  ],
+  "sdk": "4.1.0"
+ }
+}
